@@ -20,6 +20,7 @@ jobs:
       run: ./etymology.py
     - name: Commit changes
       run: |
+        echo "" >> etymologies.json
         git diff --quiet etymologies.json && exit 0
         git add etymologies.json
         git commit -m "Automated etymology update from GitHub Action"
