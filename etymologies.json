@@ -7192,6 +7192,42 @@
         "definition": "kopeasti, rehennellen tms. käyttäytyvä, röyhkeä, töykeä; metelöitsijä, rähinöijä",
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_607d51f0954afdf9810df42831a28d8a"
       }
+    },
+    "pöhkö": {
+      "pöhkö": {
+        "definition": "hölmö, tomppeli, tollo, höperö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_25f6f623a16f05af0b89e4dab3195387"
+      }
+    },
+    "turskatyperys": {
+      "turska": {
+        "definition": "Gadus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_41ee901d1dd16926a836781e0380eae9"
+      },
+      "turskatyperys": null,
+      "typerys": {
+        "definition": "typerä ihminen, tyhmyri, tylsimys",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_51b3b280500cf4a2f21235b909a3f987"
+      }
+    },
+    "vanhuudenhöperö": {
+      "höperö": {
+        "definition": "hassahtava, tyhmä, ajattelematon; turhan puhuja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b7f85592176a03b97a04d30db4620cd6"
+      },
+      "vanhuuden": null,
+      "vanhuudenhöperö": null
+    },
+    "äkkirikas": {
+      "rikas": {
+        "definition": "varakas, äveriäs; jossakin suhteessa runsas, merkityksellinen, tärkeä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e3b62f7995816728e91035b9f112cc70"
+      },
+      "äkki": {
+        "definition": "#äkkiä# ’äkillisesti, äkisti’",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c4d78aee6111ba93264cff0609121b18"
+      },
+      "äkkirikas": null
     }
   }
 }
