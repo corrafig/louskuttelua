@@ -7,24 +7,38 @@ jobs:
   update-etymology:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.12"
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    - name: Update etymologies
-      run: ./etymology.py
+
     - name: Configure git
       run: |
         git config --global user.email "no-reply@ooe.fi"
         git config --global user.name "GitHub Bot"
+
+    - uses: actions/checkout@v4
+
+    - name: Update epithets
+      run: |
+        git remote add vaino https://github.com/denarced/louskuttelua
+        git fetch vaino
+        git checkout remotes/vaino/master -- epithets.json
+        git diff --cached --quiet epithets.json && exit 0
+        git commit -m "Automated epithet update from GitHub Action"
+        git push
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.12"
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Update etymologies
+      run: ./etymology.py
+
     - name: Commit changes
       run: |
-        echo "" >> etymologies.json
         git diff --quiet etymologies.json && exit 0
         git add etymologies.json
         git commit -m "Automated etymology update from GitHub Action"
