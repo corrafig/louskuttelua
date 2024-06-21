@@ -1,3 +1,4 @@
 GitPython==3.1.31
 pytest==8.2.0
 ruff==0.4.2
+FinnSyll==2.0.0
