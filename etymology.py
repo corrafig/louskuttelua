@@ -125,7 +125,6 @@ def search_etymologies(epithet, epithet_etymologies):
     cleaned_epithet = clean_epithet(epithet)
     words = to_words(cleaned_epithet)
 
-    # epithet_etymologies =
     for word in words:
         if word in epithet_etymologies and not OVERWRITE_EXISTING:
             logger.debug(
