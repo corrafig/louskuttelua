@@ -18,3 +18,9 @@ jobs:
         pip install -r requirements.txt
     - name: Update etymologies
       run: ./etymology.py
+    - name: Commit changes
+      run: |
+        git diff --quiet etymologies.json && exit 0
+        git add etymologies.json
+        git commit -m "Automated etymology update from GitHub Action"
+        git push
