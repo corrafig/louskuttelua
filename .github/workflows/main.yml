@@ -18,6 +18,10 @@ jobs:
         pip install -r requirements.txt
     - name: Update etymologies
       run: ./etymology.py
+    - name: Configure git
+      run: |
+        git config --global user.email "no-reply@ooe.fi"
+        git config --global user.name "GitHub Bot"
     - name: Commit changes
       run: |
         echo "" >> etymologies.json
