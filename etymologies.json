@@ -7331,6 +7331,30 @@
         "definition": "heittiö, mokoma (kirosana)",
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_85b119a400d044652fd09d36ae52ae36"
       }
+    },
+    "kipsipää": {
+      "kipsi": {
+        "definition": "kalsiumsulfaatti",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b975cc3d551112074fa2c9760bcdc3cc"
+      },
+      "kipsipää": null,
+      "pää": {
+        "definition": "ihmisellä ja useimmilla eläimillä (kaulan välityksellä) vartaloon liittyvä ruumiin (ylä- tai etu)osa; alku- tai loppukohta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_46583afd7c5b8d5186e152d233727a5c"
+      }
+    },
+    "pölkkypäiden pääpölkky": {
+      "päiden": null,
+      "pää": {
+        "definition": "ihmisellä ja useimmilla eläimillä (kaulan välityksellä) vartaloon liittyvä ruumiin (ylä- tai etu)osa; alku- tai loppukohta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_46583afd7c5b8d5186e152d233727a5c"
+      },
+      "pääpölkky": null,
+      "pölkky": {
+        "definition": "karsittu ja katkaistu puunrungon osa; hirsi, tukki; halko; puinen peltojyrä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f4cae51ae0f544b9cd1e057ab88483bf"
+      },
+      "pölkkypäiden": null
     }
   }
 }
