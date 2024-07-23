@@ -7441,6 +7441,133 @@
         "definition": "tuhlaaja",
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f2de311b9bbe7d3f50f93f8ca9bac6a8"
       }
+    },
+    "herkkäuskoinen höperö": {
+      "herkkä": {
+        "definition": "kevyt, helposti toimiva; altis, taipuvainen; hellä, arka",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8eface0552a48123008c8844fa9a9e96"
+      },
+      "herkkäuskoinen": {
+        "definition": "luottavainen, sinisilmäinen, nenästä vedettävä, naiivi",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9dbe479e1d78c932855ecbc3c3762079"
+      },
+      "höperö": {
+        "definition": "hassahtava, tyhmä, ajattelematon; turhan puhuja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b7f85592176a03b97a04d30db4620cd6"
+      },
+      "uskoinen": {
+        "definition": "#herkkäuskoinen# ’luottavainen, sinisilmäinen, nenästä vedettävä, naiivi’",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_1e27f4a581a59bd9078ab67db24f3e62"
+      }
+    },
+    "iänkaikkinen epäkelpo": {
+      "epä": null,
+      "epäkelpo": {
+        "definition": "kelvoton, kunnoton, huono, kehno",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e1dbdd25e62fd9e709ac65e2e9750a53"
+      },
+      "iän": null,
+      "iänkaikkinen": null,
+      "kaikkinen": null,
+      "kelpo": {
+        "definition": "hyvä, mainio, kunnon, verraton; melkoinen, aimo, iso; kelvollinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_375f14ead4a8102be555b6f9e80caa2d"
+      }
+    },
+    "kammottava kiristäjä": {
+      "kammottava": null,
+      "kiristäjä": null
+    },
+    "kantelija": {
+      "kantelija": null
+    },
+    "kulttuurisorsa": {
+      "kulttuuri": {
+        "definition": "sivistys; toimintatavat; pieneliöviljelmä, ‑kanta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_37716b0785424a7145e66dcad1f1f074"
+      },
+      "kulttuurisorsa": null,
+      "sorsa": {
+        "definition": "Anas",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f972fcde916cb8f127c447be3b39a11a"
+      }
+    },
+    "näsäviisas vekkuli": {
+      "näsä": null,
+      "näsäviisas": {
+        "definition": "viisasteleva, nenäkäs",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c9cf31157eb25daa3f0e0df2bd77c527"
+      },
+      "vekkuli": {
+        "definition": "veijari, veitikka",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_85a8f94ed0deb551c91bf0664d029c91"
+      },
+      "viisas": {
+        "definition": "laaja-, runsastietoinen, oppinut; terveen järjen mukainen, harkitseva, harkittu, järkevä, neuvokas",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e64a7be3b045051fbbdfa38f2ce7d3b1"
+      }
+    },
+    "ruostunut laskukone": {
+      "kone": {
+        "definition": "laite, koje; työkalu, taikakalu; kuje, (taika)temppu, keino, juoni, omituinen; soma",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4134ba620c5a8930a7e7e15dd34dceb2"
+      },
+      "lasku": {
+        "definition": "peltinen maitokannu; puinen maito- tai piimäleili; pullo",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_83fc99157eb4e20bc14c53692fb094e0"
+      },
+      "laskukone": null,
+      "ruostunut": null
+    },
+    "sietämätön sorsa": {
+      "sietämätön": {
+        "definition": "jota ei voi sietää; joka ei siedä jotakin",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_09747594a1f461015b5aee12535e9017"
+      },
+      "sorsa": {
+        "definition": "Anas",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f972fcde916cb8f127c447be3b39a11a"
+      }
+    },
+    "suurisuu": {
+      "suurisuu": null
+    },
+    "tölppö": {
+      "tölppö": null
+    },
+    "vanha pinaattiriekko": {
+      "pinaatti": {
+        "definition": "viljelykasvi, Spinacia",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8a3fac039d5b6929a58611e214a1f64f"
+      },
+      "pinaattiriekko": null,
+      "riekko": {
+        "definition": "vallaton; nuori, raju (esim. hevonen)",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_48f14b75fce5044b26a159f971ebb531"
+      },
+      "vanha": {
+        "definition": "iäkäs; pitkään olemassa ollut; entinen; muinainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b1bb221ce9a401a68be752ed4b51f96f"
+      }
+    },
+    "velho": {
+      "velho": {
+        "definition": "noita, tietäjä, parantaja; leikinlaskija, velmu; laverteilja; valehtelija; heittiö, hulttio",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_240b6dff3c28ed388d70a0569570613a"
+      }
+    },
+    "vietävän koltiainen": {
+      "koltiainen": {
+        "definition": "vekara, viikari, vintiö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b3cc12366b7b416bcbcac6f1b5df8e59"
+      },
+      "vietävän": null
+    },
+    "vuohi": {
+      "vuohi": {
+        "definition": "onttosarvisiin kuuluvia kiipeileviä vuoristoeläimiä; varsinkin kotieläimenä pidettävä laji",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2f0acb7d58fadda1ace5dbdcfb3db5b7"
+      }
     }
   }
 }
