@@ -1513,6 +1513,13 @@
                 "page": 7,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankan salainen tehtävä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "tunneli kanaalin alitse"
             }
         ],
         "hömelö harrastelijamekaanikko": [
@@ -1915,6 +1922,13 @@
                 "page": 67,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja suuri sarani"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "tunneli kanaalin alitse"
             }
         ],
         "iki-ikäneito": [
@@ -3569,6 +3583,13 @@
                 "page": 17,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankan mallikoulu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "tunneli kanaalin alitse"
             }
         ],
         "kirjainraastaja": [
@@ -6932,6 +6953,13 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "kaikenlaisia torvia"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "pikku harmistuksen taikatarha"
             }
         ],
         "pelle": [
@@ -7553,6 +7581,13 @@
                 "page": 17,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "pikku harmistuksen taikatarha"
             }
         ],
         "pätkä": [
@@ -8122,6 +8157,20 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "suuri postijunan ryöstö"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "pikku harmistuksen taikatarha"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "pikku harmistuksen taikatarha"
             }
         ],
         "rikkiviisas ketku": [],
