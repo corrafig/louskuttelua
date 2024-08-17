@@ -21,6 +21,27 @@
                 "page": 32,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankan ohjelmoitu loma"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja robotit"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
             }
         ],
         "aatelisvaras": [
@@ -124,6 +145,15 @@
                 "page": 11,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä ja törkylahden turskat"
+            }
+        ],
+        "aivoton": [
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
             }
         ],
         "aivoton kikkarakuontalo": [
@@ -259,6 +289,15 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "minuuden monet kasvot"
+            }
+        ],
+        "diktaattori": [
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
             }
         ],
         "diktaattorikääpä": [
@@ -441,6 +480,13 @@
                 "page": 1,
                 "publication": "aku ankan taskukirja",
                 "title": "sadepäivän puuhia"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "taikahuilu"
             }
         ],
         "eto peijooni": [
@@ -727,6 +773,15 @@
                 "title": "roope ja kultapaunikko"
             }
         ],
+        "hermosaha": [
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 41,
+                "publication": "aku ankan taskukirja",
+                "title": "kolikko mastossa"
+            }
+        ],
         "herranterttu": [
             {
                 "character": "roope-setä",
@@ -743,6 +798,15 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "turveturnipsi"
+            }
+        ],
+        "hiippailija": [
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
             }
         ],
         "hiippari": [
@@ -1069,6 +1133,13 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "painonsa arvoinen seikkailu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
             }
         ],
         "huitukka": [
@@ -1110,6 +1181,22 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-sedän ja kroisos pennosen kilpahuuto"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "39",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ja hyshyshyttynen"
+            }
+        ],
+        "hullu parka": [
+            {
+                "character": "roope-setä",
+                "issue": "52",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "vängällä vankilaan"
             }
         ],
         "hullu ämmäke": [
@@ -1128,6 +1215,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "varjojen mailla"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
             }
         ],
         "hulttio! Huijari! Puliveivari!": [
@@ -1212,6 +1306,15 @@
                 "title": "taistelu ruusulinnasta, osa 2"
             }
         ],
+        "hylkiöparka": [
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä mahtijahdissa"
+            }
+        ],
         "hyperavaruushippiäinen": [
             {
                 "character": "aku ankka",
@@ -1265,6 +1368,13 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "paljon melua purkista"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
             }
         ],
         "hyypiö": [
@@ -1310,6 +1420,24 @@
                 "title": "palvelijain kaksintaisto"
             }
         ],
+        "häpeämätön petturi": [
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "taikahuilu"
+            }
+        ],
+        "häpeämätön verenimijä": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja faaraon aarre"
+            }
+        ],
         "häpeäpilkku": [],
         "härkäpää": [
             {
@@ -1343,6 +1471,15 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "pikku harmistuksen taikatarha"
+            }
+        ],
+        "hävytön riistoporvari": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
             }
         ],
         "hävytön valehtelija": [
@@ -1435,6 +1572,62 @@
                 "page": 1,
                 "publication": "aku ankan taskukirja",
                 "title": "roope ankan arkki"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "tunneli kanaalin alitse"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja faaraon aarre"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 59,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 66,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "milla magian konnankoukut"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "seikkailu pinnan alla"
             }
         ],
         "hölmö märkäkorva": [
@@ -1483,6 +1676,15 @@
                 "page": 1,
                 "publication": "aku ankan taskukirja",
                 "title": "mies naamion takana, osa 2"
+            }
+        ],
+        "hölösuu": [
+            {
+                "character": "roope-setä",
+                "issue": "52",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "vängällä vankilaan"
             }
         ],
         "hömelö": [
@@ -1646,6 +1848,15 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "erikoisryhmä ankkalinna"
+            }
+        ],
+        "iankaikkinen iiskotti": [
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "kauppa aina kannattaa"
             }
         ],
         "iankaikkinen tärvelö": [
@@ -1929,6 +2140,27 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "tunneli kanaalin alitse"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 52,
+                "publication": "aku ankan taskukirja",
+                "title": "tunneli kanaalin alitse"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "cagliostron kreivin hansikkaat"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
             }
         ],
         "iki-ikäneito": [
@@ -1965,6 +2197,20 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "onni yhdellä, loma molemmilla, osa 1"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
             }
         ],
         "ikuinen saituri": [
@@ -2055,6 +2301,15 @@
                 "title": "vaihtelu virkistää"
             }
         ],
+        "iljetys": [
+            {
+                "character": "aku ankka",
+                "issue": "46",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ja diogeneen tynnyri"
+            }
+        ],
         "ilkimys": [
             {
                 "character": "riitta hanhi",
@@ -2111,6 +2366,27 @@
                 "page": 47,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "taikahuilu"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 48,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "roopen kylmä kauppa"
             }
         ],
         "ilkiö": [
@@ -2174,6 +2450,24 @@
                 "title": "muumion kosto, osa 2"
             }
         ],
+        "inhottava orjapiiskuri": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            }
+        ],
+        "inhottavainen kitupiikki": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            }
+        ],
         "inhotus": [
             {
                 "character": "aku ankka",
@@ -2181,6 +2475,13 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka ja epäonnen koulu"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 65,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
             }
         ],
         "irvileuka": [
@@ -2208,6 +2509,13 @@
                 "page": 41,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja ravut punaviinissä"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
             }
         ],
         "isäntäänsä liehakoiva sylikoira": [
@@ -2277,6 +2585,13 @@
                 "page": 9,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-sedän vanha kirjoituskone"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
             }
         ],
         "itikka": [
@@ -2503,6 +2818,15 @@
             }
         ],
         "juorukello": [],
+        "juoruämmä": [
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
+            }
+        ],
         "juppierämies": [],
         "jurakautinen fossiili": [
             {
@@ -2546,6 +2870,15 @@
             }
         ],
         "juustopää": [],
+        "juutas": [
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
+            }
+        ],
         "jymäyttäjä": [
             {
                 "character": "aku ankka",
@@ -2700,6 +3033,15 @@
                 "title": "kohtalokas maakauppa, osa 1"
             }
         ],
+        "kaakki": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja faaraon aarre"
+            }
+        ],
         "kaamea kerskailija": [
             {
                 "character": "roope-setä",
@@ -2716,9 +3058,34 @@
                 "page": 32,
                 "publication": "aku ankan taskukirja",
                 "title": "aaveen aarre"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
             }
         ],
         "kahko": [],
+        "kaikkien aikojen pölvästi": [
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 59,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
+            }
+        ],
+        "kaikkien aikojen typerys": [
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "kultaisten kattojen kaupunki"
+            }
+        ],
         "kaikkitietävä kikkanokka": [
             {
                 "character": "mikki hiiri",
@@ -2963,6 +3330,15 @@
                 "title": "lentävä viikinkilaiva"
             }
         ],
+        "kavala petturi": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja robotit"
+            }
+        ],
         "kehveli": [
             {
                 "character": "roope-setä",
@@ -3033,7 +3409,15 @@
                 "title": "vuosisadan vaalitaisto, osa 4"
             }
         ],
-        "keinottelija": [],
+        "keinottelija": [
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
+            }
+        ],
         "kelju": [
             {
                 "character": "aku ankka",
@@ -3234,6 +3618,27 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "vaalitaistelu"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 52,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
             }
         ],
         "keltanokka": [
@@ -3313,6 +3718,20 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "akun revolverikaksintaistelu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "taikahuilu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "puolikuun kalifi"
             }
         ],
         "kelvoton": [
@@ -3322,6 +3741,13 @@
                 "page": 30,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja hekla velhon kepponen"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
             }
         ],
         "kelvoton hanhi": [],
@@ -3350,6 +3776,15 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "näkymätön kaapu, osa 1"
+            }
+        ],
+        "kelvoton onnenonkija": [
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "milla magian konnankoukut"
             }
         ],
         "kelvoton roisto": [
@@ -3415,7 +3850,15 @@
                 "title": "satu aku tuhkimosta"
             }
         ],
-        "ketale": [],
+        "ketale": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja aavikon kulta"
+            }
+        ],
         "ketkale": [],
         "ketku": [
             {
@@ -3438,9 +3881,25 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "musamoukka"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 47,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
             }
         ],
         "ketvele": [],
+        "ketveli": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            }
+        ],
         "kiero liehakoija": [
             {
                 "character": "iines ankka",
@@ -3590,6 +4049,13 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "tunneli kanaalin alitse"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 64,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
             }
         ],
         "kirjainraastaja": [
@@ -3637,6 +4103,24 @@
                 "title": "todellinen taikajuoma"
             }
         ],
+        "kirottu, rupinen ja ylpeä korskeilija": [
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "esinäytös"
+            }
+        ],
+        "kirppumytty": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            }
+        ],
         "kirppusäkki": [
             {
                 "character": "aku ankka",
@@ -3644,6 +4128,13 @@
                 "page": 37,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka sateentekijänä"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
             }
         ],
         "kirpunnylkijä": [
@@ -3907,6 +4398,48 @@
                 "page": 11,
                 "publication": "aku ankan taskukirja",
                 "title": "onni suosii rohkeaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "kauppa aina kannattaa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 50,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta iskee taas"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "kultahattu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "52",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "esinäytös"
             }
         ],
         "kiusanhenki": [
@@ -3916,6 +4449,13 @@
                 "page": 44,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka ja epäonnen koulu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
             }
         ],
         "kiusankappale": [
@@ -4100,6 +4640,13 @@
                 "page": 56,
                 "publication": "aku ankan taskukirja",
                 "title": "roope ankan arkki"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "kauppa aina kannattaa"
             }
         ],
         "kolttonen": [
@@ -4267,6 +4814,20 @@
                 "page": 17,
                 "publication": "aku ankan taskukirja",
                 "title": "oma aku, paras apu"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "46",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "jääkylmä sänkikopla"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "vaalitaistelu"
             }
         ],
         "koppava keikari": [
@@ -4469,6 +5030,13 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä etsii turvapaikkaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
             }
         ],
         "kurja elikko": [
@@ -4489,6 +5057,15 @@
                 "title": "levänneenäkin lopen uupunut"
             }
         ],
+        "kurja kerjäläinen": [
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "esinäytös"
+            }
+        ],
         "kurja lurjus": [
             {
                 "character": "roope-setä",
@@ -4505,6 +5082,15 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "kolumbusperhosen kartta"
+            }
+        ],
+        "kurja maakrapu": [
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "roopen kylmä kauppa"
             }
         ],
         "kurja narri": [
@@ -4530,6 +5116,15 @@
                 "page": 40,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä etsii turvapaikkaa"
+            }
+        ],
+        "kurja petkuttaja": [
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
             }
         ],
         "kurja petturi": [
@@ -4575,6 +5170,20 @@
                 "page": 32,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka esihistorian erikoistuntijana"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 54,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
             }
         ],
         "kurkunviiltäjä": [
@@ -5046,6 +5655,13 @@
                 "page": 40,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja salaperäinen herra mosteri"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 60,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
             }
         ],
         "laiskiainen": [
@@ -5078,6 +5694,34 @@
                 "page": 22,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka sateentekijänä"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "itsepintainen vastustaja"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "46",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ja diogeneen tynnyri"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
             }
         ],
         "laiskuri": [
@@ -5192,6 +5836,83 @@
                 "page": 47,
                 "publication": "aku ankan taskukirja",
                 "title": "suuri postijunan ryöstö"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 46,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 59,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 52,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 53,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 60,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 57,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "kultaisten kattojen kaupunki"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "52",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "vängällä vankilaan"
             }
         ],
         "lakeija": [
@@ -5234,6 +5955,15 @@
         ],
         "latvakakkonen": [],
         "latvalaho": [],
+        "laverteleva pohatta": [
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
+            }
+        ],
         "lemmenkipeä lahopää": [],
         "liehittelevä ämmykkä": [
             {
@@ -5509,6 +6239,76 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja suuri sarani"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "kultahattu"
             }
         ],
         "lurkki": [
@@ -5823,6 +6623,22 @@
                 "page": 48,
                 "publication": "aku ankan taskukirja",
                 "title": "aku aladdinin luolassa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "kolikko mastossa"
+            }
+        ],
+        "mokoma tyhjäntoimittaja": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja pienoisrautatie"
             }
         ],
         "moppitukkainen variksenpelätti": [
@@ -6059,6 +6875,15 @@
                 "title": "aku ja voimakomeetta"
             }
         ],
+        "möllykkämaha": [
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 44,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
+            }
+        ],
         "mölyapina": [
             {
                 "character": "kroisos pennonen",
@@ -6200,6 +7025,34 @@
                 "page": 9,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja robotit"
             }
         ],
         "nassikka": [
@@ -6243,6 +7096,13 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "46",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "jääkylmä sänkikopla"
             }
         ],
         "nettijäkättäjä": [
@@ -6415,6 +7275,20 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka ja taikuri roberto"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 68,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä mahtijahdissa"
             }
         ],
         "nyyhkytatti": [],
@@ -6425,6 +7299,13 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka ja euroopan setä"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 43,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
             }
         ],
         "näpistelijä": [
@@ -6452,6 +7333,15 @@
                 "page": 42,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja ravut punaviinissä"
+            }
+        ],
+        "omahyväinen hyypiö": [
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
             }
         ],
         "omavaltainen opportunisti": [
@@ -6498,6 +7388,15 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "vaikea vuokrasopimus"
+            }
+        ],
+        "orjaksi syntynyt": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
             }
         ],
         "orjapiiskuri": [
@@ -6549,6 +7448,34 @@
                 "page": 48,
                 "publication": "aku ankan taskukirja",
                 "title": "onni suosii rohkeaa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja salaperäinen geppi"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "52",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "vängällä vankilaan"
             }
         ],
         "paatunut penninvenyttäjä": [
@@ -6558,6 +7485,15 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "vaihtelu virkistää"
+            }
+        ],
+        "pahahenki": [
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
             }
         ],
         "pahainen pelkuri": [
@@ -6644,6 +7580,13 @@
                 "page": 50,
                 "publication": "aku ankan taskukirja",
                 "title": "roope ankan arkki"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
             }
         ],
         "paitaressu": [
@@ -6662,6 +7605,15 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "kiukkupussukka"
+            }
+        ],
+        "paksukainen": [
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 53,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
             }
         ],
         "paksukallo": [
@@ -6960,6 +7912,43 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "pikku harmistuksen taikatarha"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 56,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta iskee taas"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 56,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta iskee taas"
+            }
+        ],
+        "pelkuriraukka": [
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
             }
         ],
         "pelle": [
@@ -7045,6 +8034,20 @@
                 "page": 64,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä ja runsauden sarvi"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "roope ja vastarintakone"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 65,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
             }
         ],
         "peto": [
@@ -7191,6 +8194,20 @@
                 "page": 47,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
             }
         ],
         "pihi ilkimys": [
@@ -7200,6 +8217,15 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "vaihtelu virkistää"
+            }
+        ],
+        "pihistelijä": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
             }
         ],
         "piimäparta": [
@@ -7292,6 +8318,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja hekla velhon kepponen"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
             }
         ],
         "pintapösilö": [
@@ -7345,6 +8378,24 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "akun revolverikaksintaistelu"
+            }
+        ],
+        "pojankoltiainen": [
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "kolmastoista vieras"
+            }
+        ],
+        "pojanvintiö": [
+            {
+                "character": "roope-setä",
+                "issue": "52",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "vängällä vankilaan"
             }
         ],
         "polo": [
@@ -7452,7 +8503,15 @@
                 "title": "näkymätön kaapu, osa 1"
             }
         ],
-        "puoskari": [],
+        "puoskari": [
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 64,
+                "publication": "aku ankan taskukirja",
+                "title": "cagliostron kreivin hansikkaat"
+            }
+        ],
         "pussilakanamannekiini": [
             {
                 "character": "musta pekka ja mustakaapu",
@@ -7519,6 +8578,22 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "ilmaradan urbaani syke"
+            }
+        ],
+        "pähkähullu": [
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 47,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "montezuman aarre"
             }
         ],
         "pähkähullu huijari": [
@@ -7588,6 +8663,20 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "pikku harmistuksen taikatarha"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "kauppa aina kannattaa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
             }
         ],
         "pätkä": [
@@ -7627,6 +8716,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka esihistorian erikoistuntijana"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
             }
         ],
         "pököpää": [],
@@ -7676,6 +8772,27 @@
                 "page": 34,
                 "publication": "aku ankan taskukirja",
                 "title": "tupu, hupu ja lupu ryöstölomalla"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja aavikon kulta"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja aavikon kulta"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
             }
         ],
         "pöllö": [
@@ -7699,6 +8816,13 @@
                 "page": 45,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankan mallikoulu"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "46",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ja diogeneen tynnyri"
             }
         ],
         "pölvästi": [
@@ -7722,6 +8846,13 @@
                 "page": 32,
                 "publication": "aku ankan taskukirja",
                 "title": "lunkerpurin jalokivet"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
             }
         ],
         "pönttö": [
@@ -7800,6 +8931,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "itsepintainen vastustaja"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja robotit"
             }
         ],
         "raakkuja": [
@@ -7928,6 +9066,15 @@
                 "title": "pallokoulu kiertueella, toinen puoliaika"
             }
         ],
+        "rapajuoppo": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja faaraon aarre"
+            }
+        ],
         "rasavilli": [
             {
                 "character": "aku ankka",
@@ -8020,6 +9167,20 @@
                 "page": 26,
                 "publication": "aku ankan taskukirja",
                 "title": "tulivuoren uumenissa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 47,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
             }
         ],
         "retku": [],
@@ -8069,6 +9230,15 @@
                 "title": "kiero kavallus"
             }
         ],
+        "riistoporvari": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 45,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta iskee taas"
+            }
+        ],
         "riistäjä": [
             {
                 "character": "roope-setä",
@@ -8090,6 +9260,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "esinäytös"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
             }
         ],
         "riivajainen": [
@@ -8171,6 +9348,22 @@
                 "page": 28,
                 "publication": "aku ankan taskukirja",
                 "title": "pikku harmistuksen taikatarha"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
+            }
+        ],
+        "rikas tomppeli": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja robotit"
             }
         ],
         "rikkiviisas ketku": [],
@@ -8315,6 +9508,69 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "paljon melua purkista"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "roope ja kivinyrkki"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja pienoisrautatie"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja robotit"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 43,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 49,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 60,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "roopen kylmä kauppa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
             }
         ],
         "roistonryökäle": [
@@ -8426,6 +9682,13 @@
                 "page": 90,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja ravut punaviinissä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 59,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
             }
         ],
         "rosmo": [
@@ -8484,6 +9747,27 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "tupu, hupu, lupu ja aikakone"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 48,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 53,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
             }
         ],
         "rosvo": [
@@ -8514,6 +9798,34 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "tupu, hupu, lupu ja aikakone"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja aavikon kulta"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "montezuman aarre"
             }
         ],
         "rosvokunkku": [
@@ -8702,6 +10014,20 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "sheikin lahja"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "montezuman aarre"
             }
         ],
         "rähmätassu": [
@@ -8794,6 +10120,15 @@
                 "title": "ankat aivopesussa (jos on mitä pestä)"
             }
         ],
+        "rötkö": [
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
+            }
+        ],
         "röyhkimys": [
             {
                 "character": "roope-setä",
@@ -8801,6 +10136,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä ja törkylahden turskat"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
             }
         ],
         "saamaton aasi": [
@@ -8828,6 +10170,15 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "sankarin syntytarina"
+            }
+        ],
+        "saastainen otus": [
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
             }
         ],
         "saituri": [
@@ -8928,6 +10279,13 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "ankat aivopesussa (jos on mitä pestä)"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 59,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
             }
         ],
         "salakyttä": [
@@ -9081,6 +10439,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "naamioleikki"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 59,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
             }
         ],
         "siipiveikko": [
@@ -9144,6 +10509,22 @@
                 "page": 53,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            }
+        ],
+        "sittiäinen": [
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 1,
+                "publication": "aku ankan taskukirja",
+                "title": "vaalitaistelu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "kultaisten kattojen kaupunki"
             }
         ],
         "sivistymätön tollo": [
@@ -9222,6 +10603,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "pelottava luku 13"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
             }
         ],
         "sorsalauma": [
@@ -9269,6 +10657,15 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "avaruusyrittäjät"
+            }
+        ],
+        "sunnuntaiautoilija": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
             }
         ],
         "sunnuntaigrynderi": [
@@ -9369,6 +10766,13 @@
                 "page": 29,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "39",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ja hyshyshyttynen"
             }
         ],
         "suurisuu": [
@@ -9378,6 +10782,13 @@
                 "page": 41,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja ravut punaviinissä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 41,
+                "publication": "aku ankan taskukirja",
+                "title": "kolikko mastossa"
             }
         ],
         "suuruudenhullu": [
@@ -9492,6 +10903,15 @@
                 "title": "kohtalokas maakauppa, osa 1"
             }
         ],
+        "takapajuinen moukka": [
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä mahtijahdissa"
+            }
+        ],
         "taliaivo": [
             {
                 "character": "touho ankka",
@@ -9578,6 +10998,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "paratiisitien majatalo, osa 1"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "kolikko mastossa"
             }
         ],
         "tohelo": [
@@ -9604,6 +11031,15 @@
             }
         ],
         "tohopää": [],
+        "toimeton mies": [
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            }
+        ],
         "toistaitoinen tollo": [
             {
                 "character": "mikki hiiri",
@@ -9716,6 +11152,34 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "pikku harmistuksen taikatarha"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 58,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "milla magian konnankoukut"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "52",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "vängällä vankilaan"
             }
         ],
         "tomppeli": [
@@ -9753,6 +11217,55 @@
                 "page": 7,
                 "publication": "aku ankan taskukirja",
                 "title": "paljon puuhaa painovirheestä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 53,
+                "publication": "aku ankan taskukirja",
+                "title": "cagliostron kreivin hansikkaat"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja pienoisrautatie"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja pienoisrautatie"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja robotit"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja salaperäinen geppi"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja salaperäinen geppi"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
             }
         ],
         "tomppeli tyhjäntoimittaja": [
@@ -9792,6 +11305,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "lunkerpurin jalokivet"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
             }
         ],
         "torvelo": [
@@ -9829,6 +11349,13 @@
                 "page": 60,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä ja runsauden sarvi"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "toimittajat vauhdissa"
             }
         ],
         "torvi": [
@@ -9934,6 +11461,20 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "hyvien töiden päivä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "milla magia iskee taas"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "esinäytös"
             }
         ],
         "tuhotyöntekijä": [
@@ -9956,7 +11497,29 @@
             }
         ],
         "tumpunsuoristelija": [],
-        "tunari": [],
+        "tunari": [
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "roopen ihmetutka"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "kolmastoista vieras"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
+            }
+        ],
         "tunaroinnin epävirallinen ennätysmies": [
             {
                 "character": "riitta hanhi",
@@ -10172,6 +11735,27 @@
                 "page": 64,
                 "publication": "aku ankan taskukirja",
                 "title": "professori hoton kosto"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "46",
+                "page": 41,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ja diogeneen tynnyri"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "vaalitaistelu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "kultahattu"
             }
         ],
         "tyhjäpäinen törppö": [
@@ -10278,6 +11862,55 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "muinaisten kreikkalaisten jäljillä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "merenneidon salaisuus"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "roope ja vastarintakone"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "montezuman aarre"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "montezuman aarre"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
             }
         ],
         "tyhmä pässi": [
@@ -10310,6 +11943,13 @@
                 "page": 32,
                 "publication": "aku ankan taskukirja",
                 "title": "karhukoplan safari"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä mahtijahdissa"
             }
         ],
         "tylsäjärkinen jyrsijä": [],
@@ -10397,6 +12037,69 @@
                 "page": 32,
                 "publication": "aku ankan taskukirja",
                 "title": "milla magian kultakuume"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "milla magia iskee taas"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta iskee taas"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä mahtijahdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta on verraton"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
             }
         ],
         "typerä kirppusäkki": [
@@ -10473,6 +12176,20 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "esinäytös"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
             }
         ],
         "työnvieroksuja": [],
@@ -10500,6 +12217,13 @@
                 "page": 1,
                 "publication": "aku ankan taskukirja",
                 "title": "avaruusyrittäjät"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "kolikko mastossa"
             }
         ],
         "tärvelö": [
@@ -10568,6 +12292,34 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja roopen kalenteri"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "itsepintainen vastustaja"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "itsepintainen vastustaja"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "itsepintainen vastustaja"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "kultaisten kattojen kaupunki"
             }
         ],
         "törppö": [
@@ -10577,6 +12329,27 @@
                 "page": 7,
                 "publication": "aku ankan taskukirja",
                 "title": "pallokoulu kiertueella, toinen puoliaika"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ja fruttanian banaanit"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "vaalitaistelu"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
             }
         ],
         "törpöin tumpelo": [],
@@ -10705,6 +12478,20 @@
                 "page": 34,
                 "publication": "aku ankan taskukirja",
                 "title": "roope ankan ihmelääke"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "toimittajat vauhdissa"
             }
         ],
         "umpiluupää sorsa": [
@@ -10714,6 +12501,15 @@
                 "page": 30,
                 "publication": "aku ankan taskukirja",
                 "title": "ei savua ilman tulta"
+            }
+        ],
+        "unelias kuhnus": [
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "toimittajat vauhdissa"
             }
         ],
         "unikeko": [
@@ -10730,6 +12526,27 @@
                 "page": 61,
                 "publication": "aku ankan taskukirja",
                 "title": "satu aku tuhkimosta"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "roopen ihmetutka"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 60,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
             }
         ],
         "universumin pahin pölkkypää": [
@@ -10852,6 +12669,20 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä etsii turvapaikkaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "tunneli kanaalin alitse"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 58,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
             }
         ],
         "valepohatta": [
@@ -10873,6 +12704,15 @@
                 "title": "roope ankan arkki"
             }
         ],
+        "vallanhimoinen öykkäri": [
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
+            }
+        ],
         "vandaali": [
             {
                 "character": "roope-setä",
@@ -10880,6 +12720,33 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä kohtaa voittajansa"
+            }
+        ],
+        "vanha ahnuri": [
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "vaalitaistelu"
+            }
+        ],
+        "vanha ankkaparka": [
+            {
+                "character": "roope-setä",
+                "issue": "46",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "kolikko mastossa"
+            }
+        ],
+        "vanha hapannaama": [
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
             }
         ],
         "vanha homekorva": [],
@@ -10917,6 +12784,13 @@
                 "page": 25,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
             }
         ],
         "vanha itarus": [
@@ -10935,6 +12809,20 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "roope ankan lentävä lautanen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 61,
+                "publication": "aku ankan taskukirja",
+                "title": "tunneli kanaalin alitse"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 50,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
             }
         ],
         "vanha kettu": [],
@@ -11026,6 +12914,48 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "sulhasmies vastoin tahtoaan"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "kolmastoista vieras"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 1,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 51,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta iskee taas"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
             }
         ],
         "vanha konna": [
@@ -11064,6 +12994,24 @@
                 "title": "roope-setä ja keltajalkaintiaanit"
             }
         ],
+        "vanha orjapiiskuri": [
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "montezuman aarre"
+            }
+        ],
+        "vanha pahkapää": [
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
+            }
+        ],
         "vanha partajäärä": [
             {
                 "character": "roope-setä",
@@ -11091,6 +13039,15 @@
                 "title": "aku ja salaperäinen herra mosteri"
             }
         ],
+        "vanha pöhkö": [
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
+            }
+        ],
         "vanha pönttö": [
             {
                 "character": "roope-setä",
@@ -11107,6 +13064,15 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "vaihtelu virkistää"
+            }
+        ],
+        "vanha rahasäkki": [
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
             }
         ],
         "vanha roisto": [
@@ -11200,6 +13166,15 @@
                 "title": "kamppailu suosiosta"
             }
         ],
+        "vanha taistelukukko": [
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 1,
+                "publication": "aku ankan taskukirja",
+                "title": "vaalitaistelu"
+            }
+        ],
         "vanha takkupää": [
             {
                 "character": "roope-setä",
@@ -11282,6 +13257,20 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "kroisoksen kryptosäiliö"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja pienoisrautatie"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja aavikon kulta"
             }
         ],
         "vanha vuohi": [
@@ -11365,6 +13354,34 @@
                 "page": 39,
                 "publication": "aku ankan taskukirja",
                 "title": "muinaisten kreikkalaisten jäljillä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä mahtijahdissa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "48",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä iskee takaisin"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 54,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
             }
         ],
         "vastarannan kiiski": [
@@ -11450,6 +13467,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "jäätelökuume"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
             }
         ],
         "velho": [
@@ -11477,6 +13501,13 @@
                 "page": 30,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä ja lentävän lautasen pikkumiehet"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "tunneli kanaalin alitse"
             }
         ],
         "veltto, alisuoriutuva, saamaton, toistaitoinen, hyödytön tumpelo": [
@@ -11486,6 +13517,22 @@
                 "page": 36,
                 "publication": "aku ankan taskukirja",
                 "title": "minuuden monet kasvot"
+            }
+        ],
+        "velttoilija": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja aavikon kulta"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
             }
         ],
         "venkula": [
@@ -11546,6 +13593,41 @@
                 "page": 33,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja suuri sarani"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 45,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja pienoisrautatie"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "46",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ja diogeneen tynnyri"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
             }
         ],
         "vesilinnunheittäjä": [],
@@ -11592,6 +13674,15 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "päivä pohattana"
+            }
+        ],
+        "vetkuttelija": [
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "turha taistelu tutkainta vastaan"
             }
         ],
         "viekastelija": [
@@ -11708,6 +13799,36 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "aku aladdinin luolassa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 55,
+                "publication": "aku ankan taskukirja",
+                "title": "cagliostron kreivin hansikkaat"
+            }
+        ],
+        "viisastelija": [
+            {
+                "character": "aku ankka",
+                "issue": "44",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "salamasinko"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä mahtijahdissa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 61,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
             }
         ],
         "viittaurpo": [
@@ -11801,6 +13922,27 @@
                 "page": 26,
                 "publication": "aku ankan taskukirja",
                 "title": "tupu, hupu, lupu ja aikakone"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ylittää itsensä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "uponnut manner"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "51",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "kultahattu"
             }
         ],
         "virttynyt vanhapiika": [
@@ -11848,6 +13990,15 @@
                 "title": "veroparatiisi"
             }
         ],
+        "vitkuttelija": [
+            {
+                "character": "roope-setä",
+                "issue": "44",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "avaruuskultaa"
+            }
+        ],
         "voro": [
             {
                 "character": "roope-setä",
@@ -11862,6 +14013,20 @@
                 "page": 55,
                 "publication": "aku ankan taskukirja",
                 "title": "roope ankan arkki"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 48,
+                "publication": "aku ankan taskukirja",
+                "title": "akun hahmonvaihdos"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 53,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
             }
         ],
         "vouhko": [],
@@ -11923,6 +14088,20 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "venetsian leipuri"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "roope ja kivinyrkki"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "51",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "hankala sopimus"
             }
         ],
         "vätyssetä": [
@@ -11988,6 +14167,24 @@
                 "title": "roope-setä ja säästäväisten miljardimiesten kansainvälinen kilpailu"
             }
         ],
+        "ähkyvä kääkkä": [
+            {
+                "character": "taikaviitta",
+                "issue": "48",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta taas vauhdissa"
+            }
+        ],
+        "äijänpahalainen": [
+            {
+                "character": "roope-setä",
+                "issue": "50",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "roopen kylmä kauppa"
+            }
+        ],
         "äijäpaha": [
             {
                 "character": "roope-setä",
@@ -11995,6 +14192,13 @@
                 "page": 65,
                 "publication": "aku ankan taskukirja",
                 "title": "tunneli kanaalin alitse"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "41",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta vauhdissa"
             }
         ],
         "äijäparka": [
@@ -12022,6 +14226,15 @@
                 "title": "roope ankan arkki"
             }
         ],
+        "äijärahjus": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja pienoisrautatie"
+            }
+        ],
         "äimä": [
             {
                 "character": "roope-setä",
@@ -12038,6 +14251,15 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä ja törkylahden turskat"
+            }
+        ],
+        "äkkirikas tomppeli": [
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "kolmastoista vieras"
             }
         ],
         "äkäpussi": [
@@ -12111,6 +14333,13 @@
                 "page": 45,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja \"lentävä skotlantilainen\""
+            },
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "takaisin luontoon"
             }
         ],
         "änkyrä": [
@@ -12155,6 +14384,20 @@
                 "page": 59,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja salaperäinen herra mosteri"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "roopen ihmetutka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 68,
+                "publication": "aku ankan taskukirja",
+                "title": "supermiljardijuhla"
             }
         ],
         "ääntelevä höyhenpussi": [
