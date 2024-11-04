@@ -10845,6 +10845,102 @@
       "jänräpiskä": null,
       "äi": null,
       "äijänräpiskä": null
+    },
+    "barbaari": {
+      "barbaari": {
+        "definition": "raakalainen; sivistymätön; vierasheimoinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_0d19f4577b2efb1abc49fcbb4512f078"
+      }
+    },
+    "bluffari": {
+      "bluffari": {
+        "definition": "hämääjä, petkuttaja, juonittelija, valehtelija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ab1b45d766aa690296566fbcac8c9af9"
+      }
+    },
+    "diiva": {
+      "diiva": {
+        "definition": "juhllittu ja palvottu laulajatar tai näyttelijätär, tähti",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b6fd6ab90abe6b38584643ef4e40ce9d"
+      }
+    },
+    "falskaaja": {
+      "falskaaja": null
+    },
+    "hurjastelija": {
+      "hurjastelija": null
+    },
+    "höyhenpukuinen verenimijä": {
+      "höyhen": {
+        "definition": "lintujen ihoa joka puolelta peittävät sarveismuodostumat, joissa on ruoto ja siihen kiinnittyvät höydyt",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_94b486704b5c5ab64b16fef8c46984ea"
+      },
+      "höyhenpukuinen": null,
+      "nimijä": null,
+      "pukuinen": null,
+      "vere": null,
+      "verenimijä": null
+    },
+    "kaistahirmu": {
+      "hirmu": {
+        "definition": "kauhistus; suuttumus; kauhea, hirveä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4de084713f3b412aa2788fecb9fbc75f"
+      },
+      "kaista": {
+        "definition": "kapea, pitkähkö kappale tai ala, (kangas)suikale, sarka; (ongen)vapa; suuri vitsa, heinähäkin säle",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4eac536ec193e6706d6c05c95c6138be"
+      },
+      "kaistahirmu": null
+    },
+    "lahjaton tollukka": {
+      "lahjaton": null,
+      "tollukka": {
+        "definition": "typerys, tolvana, tomppeli",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_95a8b82418a5d7b4dc11bce716d26319"
+      }
+    },
+    "maantiekauhu": {
+      "kauhu": {
+        "definition": "voimakas pelko, kauhistus, kammo; kauhistuttava asia tai olio, kauheus, kauhistus, hirmu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_06ab98743e88e091471db1f0e60ecc66"
+      },
+      "maan": null,
+      "maantiekauhu": null,
+      "tie": {
+        "definition": "maastoon kulkureitille muodostunut tai varsinkin liikennettä varten rakennettu väylä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_bd352c8df49c325dd22ad8867e6ef874"
+      }
+    },
+    "matkija": {
+      "matkija": null
+    },
+    "onnettaren lellikki": {
+      "lellikki": null,
+      "onnettaren": null
+    },
+    "pipipää": {
+      "pipi": {
+        "definition": "kipeä, sairas; kipeä kohta; (slangissa myös:) tyhmä, hullu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_16d5d24f5b09a1991bd4e5f57bf11237"
+      },
+      "pipipää": null,
+      "pää": {
+        "definition": "ihmisellä ja useimmilla eläimillä (kaulan välityksellä) vartaloon liittyvä ruumiin (ylä- tai etu)osa; alku- tai loppukohta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_46583afd7c5b8d5186e152d233727a5c"
+      }
+    },
+    "primadonna": {
+      "primadonna": {
+        "definition": "naispääosan esittäjä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ae5a5cf2dafd2e13995ea7cd947ad7dc"
+      }
+    },
+    "taiteen vihaaja": {
+      "taiteen": null,
+      "vihaaja": null
+    },
+    "väärentäjä": {
+      "väärentäjä": null
     }
   }
 }
