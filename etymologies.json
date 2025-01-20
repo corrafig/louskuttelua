@@ -12265,6 +12265,610 @@
         "definition": "petoeläin",
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c3fddb7b3cb7326361859f0a54c8ce5d"
       }
+    },
+    "ahne ankanryöstäjä": {
+      "ahne": {
+        "definition": "kiihkeästi haluava, perso, kärkäs, hanakka; uuttera, ahkera",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_0da552be174ec30bdff8c523a959e1a7"
+      },
+      "ankan": null,
+      "ankanryöstäjä": null,
+      "ryöstäjä": null
+    },
+    "ahneetikko": {
+      "ahneetikko": null
+    },
+    "aivoton hyypiö": {
+      "aivoton": null,
+      "hyy": {
+        "definition": "hyhmä, jääsohjo, lumisohjo, kuura",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2ceceadb8383b2bd992eca9986d0b225"
+      },
+      "hyypiö": {
+        "definition": "outo, kumma, omituinen ihminen, hiippari; huuhkaja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_fee9c37c5ec1cf6e1c741e8cd18e0999"
+      },
+      "piö": null
+    },
+    "ankan retku": {
+      "ankan": null,
+      "retku": {
+        "definition": "heittiö, renttu, juoppo; kulunut vaate, riepu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9f51ed16f450c4eed9c0ce56fad64882"
+      }
+    },
+    "hapannaama": {
+      "hapannaama": null
+    },
+    "harppu": {
+      "harppu": {
+        "definition": "eräs kookas näppäiltävä kielisoitin; huuliharppu, harmonikka",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8725346f46230ad5bc6b8075d9305084"
+      }
+    },
+    "holtiton tuhlari": {
+      "holtiton": {
+        "definition": "hallitsematon, ryhditön, veltto, hervoton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9d8f92b711b44d859c8a5a1fd14e31e2"
+      },
+      "tuhlari": {
+        "definition": "tuhlaaja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f2de311b9bbe7d3f50f93f8ca9bac6a8"
+      }
+    },
+    "houru": {
+      "houru": {
+        "definition": "hullu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8a126ba89f60b97abf6185cd666ed8b4"
+      }
+    },
+    "ihviö": {
+      "ihviö": null
+    },
+    "ilveilijä": {
+      "ilveilijä": null
+    },
+    "inha ilonpilaaja": {
+      "ilonpi": null,
+      "ilonpilaaja": null,
+      "inha": {
+        "definition": "paha, häijy, ilkeä, ikävä, inhottava",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3315c42ae75b109eafbb276210736cd7"
+      },
+      "laaja": {
+        "definition": "avara, leveä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_0d07203b17c84cc3051e805cc667ec95"
+      }
+    },
+    "inha valehtelija": {
+      "inha": {
+        "definition": "paha, häijy, ilkeä, ikävä, inhottava",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3315c42ae75b109eafbb276210736cd7"
+      },
+      "valehtelija": null
+    },
+    "iänikuinen saituri": {
+      "ikuinen": {
+        "definition": "ainainen, iäinen, iankaikkinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3902f7c045469e51e68b5dddd730dc04"
+      },
+      "iän": null,
+      "iänikuinen": null,
+      "saituri": {
+        "definition": "saita ihminen, kitsastelija, kitupiikki",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f453b57d259c13bb4af1f9af9cf86404"
+      }
+    },
+    "joutomies": {
+      "jouto": {
+        "definition": "vapaa-aika; tilaisuus, mahdollisuus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_dcd4bd93fd6dafaaf8542855c3d76f09"
+      },
+      "joutomies": null,
+      "mies": {
+        "definition": "täysikasvuinen miessukupuolta oleva ihminen; ihminen, henkilö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_89d03c2ebdb43ad00404c2be00f2427f"
+      }
+    },
+    "kana": {
+      "kana": {
+        "definition": "tavallinen kesy kanalintu, varsinkin lajin naaras",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8cc74690133eef8e86aa1417c84cd977"
+      }
+    },
+    "karmea pirttihirmu": {
+      "hirmu": {
+        "definition": "kauhistus; suuttumus; kauhea, hirveä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4de084713f3b412aa2788fecb9fbc75f"
+      },
+      "karmea": {
+        "definition": "pelottava; kirpeä, karvas; kolea, kylmä; äksy, vihainen; karhea (pinta, ääni)",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5ddd9806e12e23bda3feee392d4b85c2"
+      },
+      "pirtti": {
+        "definition": "tupa, mökki; asuinhuone, kamari; sauna",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2421b16f9eb4984036c3afbdb0bfa805"
+      },
+      "pirttihirmu": null
+    },
+    "karvakorva": {
+      "karva": {
+        "definition": "lankamaisia, taipuisia nisäkkäiden orvaskeden sarveismuodostumia; karvapeite; karvan väri, väri; olemus, luonne",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b47613650ea845c1f8bcdafb2d99fcb1"
+      },
+      "karvakorva": null,
+      "korva": {
+        "definition": "kuuloelin; kahva, kädensija; (esim. merran tai heinäsuovan) sivussa oleva tukipuu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_84a7d39968bf12152731e47eff95962e"
+      }
+    },
+    "kelvoton kelmi": {
+      "kelmi": {
+        "definition": "veijari, konna; kansalaisluottamusta vailla oleva",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7f87b5282b32dd73498031129947002e"
+      },
+      "kelvoton": {
+        "definition": "johonkin kelpaamaton; huono, kehno, mitätön; alhainen, katala",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7de68d93d14ea86d158ab23b185c1608"
+      }
+    },
+    "kerskaileva kuvatus": {
+      "kerskaileva": null,
+      "kuvatus": {
+        "definition": "ruma olio, rumilus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ed5e5c3735ec4ff8e766d2f8b76aa1d5"
+      }
+    },
+    "kiittämätön moukka": {
+      "kiittämätön": null,
+      "moukka": {
+        "definition": "kalan uimarakko",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8755ee6a055c9bf7bbefbbcdf25b2502"
+      }
+    },
+    "kiittämätön riiviö": {
+      "kiittämätön": null,
+      "riiviö": {
+        "definition": "kiusankappale, ilkimys, lurjus, vintiö; paholainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5701cf0ca2a72490d2758af5aebfe3ce"
+      }
+    },
+    "kirottu roisto": {
+      "kirottu": null,
+      "roisto": {
+        "definition": "lurjus, heittiö, kelmi, konna; rikollinen; pitkä mies",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_12b9c1ef06eb7ae8befb36da3eb416ac"
+      }
+    },
+    "kissanruoja": {
+      "kissan": null,
+      "kissanruoja": null,
+      "ruoja": {
+        "definition": "muta, lieju, kura, lika, törky; ryökäle, heittiö, mokoma",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_bf04487b85615bf6d170a13dc6cbbde8"
+      }
+    },
+    "kissanrääkkääjä": {
+      "kissan": null,
+      "kissanrääkkääjä": null,
+      "rääkkääjä": null
+    },
+    "korven juntti": {
+      "juntti": {
+        "definition": "maalainen, maalaispoika; poika, jätkä; tyhmä, outo; suomalainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4e6fa6818c702d8b79bbccfdb947839c"
+      },
+      "korven": null
+    },
+    "koukkunokka": {
+      "koukku": {
+        "definition": "kaareva tai väkämäinen väline tai esineen osa",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_47503b0dc53462439ae82369b0ce1ccc"
+      },
+      "koukkunokka": null,
+      "nokka": {
+        "definition": "lintujen sarveistupen peittämistä ulkonevista leukaosista; astian nokka; kärki, nenä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8c23b22deab3f1b32b7029010868b752"
+      }
+    },
+    "kovanonnen riesa": {
+      "kovan": null,
+      "kovanonnen": null,
+      "onnen": null,
+      "riesa": {
+        "definition": "kiusa, harmi, vastus; pahojen voimien aikaansaama kiro",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_64ed1425cdd265bf919c61344bbab360"
+      }
+    },
+    "kulkurin retku": {
+      "kulkurin": null,
+      "retku": {
+        "definition": "heittiö, renttu, juoppo; kulunut vaate, riepu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9f51ed16f450c4eed9c0ce56fad64882"
+      }
+    },
+    "kurja huijari": {
+      "huijari": {
+        "definition": "vaihtaja, etenkin hevosten; petkuttaja, trokari",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f7d3b963aaac712ecd586ce4f1fda15d"
+      },
+      "kurja": {
+        "definition": "surkea, viheliäinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_af4e47dc0de9904d70aac5e0a04a120b"
+      }
+    },
+    "kurja kitupiikki": {
+      "kitu": {
+        "definition": "kide",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c4e4c5bc676f3c03d97854210dca6807"
+      },
+      "kitupiikki": null,
+      "kurja": {
+        "definition": "surkea, viheliäinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_af4e47dc0de9904d70aac5e0a04a120b"
+      },
+      "piikki": {
+        "definition": "teräväkärkinen puikkomainen tai neulamainen muodostuma tai esine",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8db8dc18842b599a67c8f7d98994e33b"
+      }
+    },
+    "käpysäkki": {
+      "käpysäkki": null
+    },
+    "köyhä": {
+      "köyhä": {
+        "definition": "varaton, vähävarainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5503ba41e322362a830043ac2597b115"
+      }
+    },
+    "lemmon lattanokka": {
+      "lattanokka": null,
+      "lemmon": null
+    },
+    "luihu lutikka": {
+      "luihu": {
+        "definition": "petollinen, kavala, epäluotettavan näköinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_fcc894754785aeadcb4134b441b0148b"
+      },
+      "lutikka": {
+        "definition": "lude",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ca647097fca543ff0a0bcd3344dbec53"
+      }
+    },
+    "lörppänokka": {
+      "lörppä": {
+        "definition": "suulas; kielevä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8c97ff0a23198b0f4e4411f4c8f53e1f"
+      },
+      "lörppänokka": null,
+      "nokka": {
+        "definition": "lintujen sarveistupen peittämistä ulkonevista leukaosista; astian nokka; kärki, nenä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8c23b22deab3f1b32b7029010868b752"
+      }
+    },
+    "metelöivä tohelo": {
+      "metelöivä": null,
+      "tohelo": {
+        "definition": "hutilus; saamaton, taitamaton; tunari; höperö; turta; löyhä, kuohkea, laho; sohjo",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_76a5fa53366568a59b020843275861b4"
+      }
+    },
+    "metriheikki": {
+      "heikki": null,
+      "metri": {
+        "definition": "pituuden perusyksikkö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a71bbdf11a83c6ab78bea61c0a84e4a8"
+      },
+      "metriheikki": null
+    },
+    "mokoma naamiosankari": {
+      "mokoma": {
+        "definition": "sellainen; mainio; mitätön, ruoja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5799aa36835dc62b4a40cf4c010d6b86"
+      },
+      "naamio": null,
+      "naamiosankari": null,
+      "sankari": {
+        "definition": "urotöistään, rohkeudestaan kuuluisa henkilö, heeros; voimamies, mahtimies, tyranni; tappelupukari, riitapukari, roisto; vahva ja toisia sortava (eläin)",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b241c2f48375eeb56845fedb8ef3a50f"
+      }
+    },
+    "nollanero": {
+      "nero": {
+        "definition": "järki, ymmärrys; taito, kyky; voima; hyvin lahjakas ihminen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_770bfedcd56afdbb406a93355add8070"
+      },
+      "nolla": {
+        "definition": "joka vastaa lukumäärää ei yhtään",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_21cdce774e105d593f6ea43014412b28"
+      },
+      "nollanero": null
+    },
+    "paha kitupiikki": {
+      "kitu": {
+        "definition": "kide",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c4e4c5bc676f3c03d97854210dca6807"
+      },
+      "kitupiikki": null,
+      "paha": {
+        "definition": "ilkeä, julma; vastenmielinen; hankala yms.",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ac3a620cddea3458b3db29cebedc76f1"
+      },
+      "piikki": {
+        "definition": "teräväkärkinen puikkomainen tai neulamainen muodostuma tai esine",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8db8dc18842b599a67c8f7d98994e33b"
+      }
+    },
+    "paha setä": {
+      "paha": {
+        "definition": "ilkeä, julma; vastenmielinen; hankala yms.",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ac3a620cddea3458b3db29cebedc76f1"
+      },
+      "setä": {
+        "definition": "isän veli",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8a28254752a6594c4d11e304aaeca837"
+      }
+    },
+    "pahuksen tohelo": {
+      "pahuksen": null,
+      "tohelo": {
+        "definition": "hutilus; saamaton, taitamaton; tunari; höperö; turta; löyhä, kuohkea, laho; sohjo",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_76a5fa53366568a59b020843275861b4"
+      }
+    },
+    "pahuksen ulisija": {
+      "pahuksen": null,
+      "sija": {
+        "definition": "paikka, kohta, asema; kaasusmuoto; lehmän vakinainen paikka navetassa; vuode, makuutila",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f8d737a665e5d709f87d8b8195b27fa8"
+      },
+      "uli": null,
+      "ulisija": null
+    },
+    "pelkkä kupla": {
+      "kupla": {
+        "definition": "vesirakko, rakkula, kalan ilmarakko; kuhmu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8dca5bec49d36d27a349ce547bc40146"
+      },
+      "pelkkä": {
+        "definition": "silkka, paljas",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_75e32ff89e17ce30e7787cd072e115b9"
+      }
+    },
+    "pikku jänishousu": {
+      "housu": null,
+      "jänis": {
+        "definition": "Lepus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a700520c83fc92a9a2e5887f13311a1c"
+      },
+      "jänishousu": null,
+      "pikku": {
+        "definition": "pieni",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7f1d90e10f3f6c54859a35fec79ba0ec"
+      }
+    },
+    "pummi": {
+      "pummi": {
+        "definition": "kerjääjä, toisten kustannuksella elävä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_cd8e30196223f23cd2368f7066fdf1aa"
+      }
+    },
+    "pöhöttynyt pröystäilijä": {
+      "pröystäilijä": {
+        "definition": "ylpeilijä, mahtailija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_217787381479baf4b9ab8f6f585b6f09"
+      },
+      "pöhöttynyt": null
+    },
+    "pöljästi": {
+      "pöljästi": null
+    },
+    "pöyhkeilevä pölkkypää": {
+      "pää": {
+        "definition": "ihmisellä ja useimmilla eläimillä (kaulan välityksellä) vartaloon liittyvä ruumiin (ylä- tai etu)osa; alku- tai loppukohta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_46583afd7c5b8d5186e152d233727a5c"
+      },
+      "pölkky": {
+        "definition": "karsittu ja katkaistu puunrungon osa; hirsi, tukki; halko; puinen peltojyrä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f4cae51ae0f544b9cd1e057ab88483bf"
+      },
+      "pölkkypää": null,
+      "pöyhkeilevä": null
+    },
+    "raivohullu katti": {
+      "hullu": {
+        "definition": "järjetön, älytön, mieleltään sairas; hölmö, tyhmä; hassu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b09204e0009ff4cd8644e00d85293c84"
+      },
+      "katti": {
+        "definition": "kissa",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9f6f657e522f297ad1f244c8c0791111"
+      },
+      "raivo": {
+        "definition": "vimma, viha; vimmainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9d3461b37357a7746369c974d6441616"
+      },
+      "raivohullu": null
+    },
+    "riivatun retale": {
+      "retale": {
+        "definition": "riepu, huono vaate; hulttio, retku",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3b6c2063b7e56f1a8f2d8c8c70d291d2"
+      },
+      "riivatun": null
+    },
+    "rohmu": {
+      "rohmu": {
+        "definition": "ahnehtiva; karkeatekoinen, iso; lurjus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_434da5552cb319fc778f07f7b9b6a4a2"
+      }
+    },
+    "roskapoppoo": {
+      "poppoo": {
+        "definition": "joukko, porukka",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_add33c96642b4289d7fba63889b53a5d"
+      },
+      "roska": {
+        "definition": "rikka; rikkaruoho; perkausjäte, kariste; #roskat# ’kapineet, (työ-, huone)kalut, valjaat; (lehmän) jälkeiset’",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_26c33110d461c6b9ecd77c0c33684ca3"
+      },
+      "roskapoppoo": null
+    },
+    "ruikuttaja": {
+      "ruikuttaja": null
+    },
+    "rupusakki": {
+      "rupu": {
+        "definition": "(tallin, hevosen) seimi",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_dc4e10a0f111da099743f2bc13404dbb"
+      },
+      "rupusakki": {
+        "definition": "(ihmisistä:) pohjasakka, jäljelle jääneet",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2009232e9ec4718e7329bd5316e0ca2d"
+      },
+      "sakki": {
+        "definition": "joukkio, porukka; väki; työporukka",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_912cfc1eceadda1cc904a8e8a0fe6031"
+      }
+    },
+    "saasta": {
+      "saasta": {
+        "definition": "lika",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b6199bc78a5e0ba3e167ce86bd38bea9"
+      }
+    },
+    "sadisti": {
+      "sadisti": null
+    },
+    "sietämätön siipiveikko": {
+      "sietämätön": {
+        "definition": "jota ei voi sietää; joka ei siedä jotakin",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_09747594a1f461015b5aee12535e9017"
+      },
+      "siipi": {
+        "definition": "lintujen, monien hyönteisten ym. lentokykyisten eläinten parillinen, nivelillä vartaloon liittyvä lentoelin; myös erilaisia esineiden  tms. siipeä muistuttavia osia",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_456eb882596d37369900a10fff26ad19"
+      },
+      "siipiveikko": null,
+      "veikko": {
+        "definition": "veli; kaveri",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_af0eb78d6f625b3d75b3ae38e74e8104"
+      }
+    },
+    "tieteen jarru": {
+      "jarru": {
+        "definition": "laitteisto jolla tavallisesti kitkan avulla hidastetaan ja pysäytetään (pyörimis)liike",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_27d05e46c6015dfa2caeb0999802b365"
+      },
+      "tieteen": null
+    },
+    "tieteistomppeli": {
+      "tieteis": null,
+      "tieteistomppeli": null,
+      "tomppeli": {
+        "definition": "pölvästi, tyhmyri",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_28a66adab20494aa2bdaa84f440d81f5"
+      }
+    },
+    "tirkistelijä": {
+      "tirkistelijä": null
+    },
+    "tuholainen": {
+      "tuholainen": {
+        "definition": "tuhoeläin, varsinkin tuhohyönteinen; sabotoija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_78e138bc4fdbae1caa934a4b65af631d"
+      }
+    },
+    "tunteeton hirviö": {
+      "hirviö": {
+        "definition": "hirveä, pelottava, kauhistuttava, luonnoton olento tms., monstrumi",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e7e7a8f0b5a82bf4e2e882ea267efc07"
+      },
+      "tunteeton": {
+        "definition": "tunnetta kokematon",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_1cad00510e2bf05715bbd358d8cdb1ea"
+      }
+    },
+    "tyhjäpäinen pöpeksijä": {
+      "päinen": null,
+      "pöpeksijä": null,
+      "tyhjä": {
+        "definition": "mitään sisältämätön; mitätön, arvoton, turha; olento, haamu; vain",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_23de8c9dedd22053582030bdf79a9b25"
+      },
+      "tyhjäpäinen": null
+    },
+    "typerä keksijänketku": {
+      "keksijän": null,
+      "keksijänketku": null,
+      "ketku": null,
+      "typerä": {
+        "definition": "tyhmä, hölmö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6f20611e3fa5add58086615c10561949"
+      }
+    },
+    "typerä tyhjäke": {
+      "tyhjäke": null,
+      "typerä": {
+        "definition": "tyhmä, hölmö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6f20611e3fa5add58086615c10561949"
+      }
+    },
+    "unelmien murskaaja": {
+      "murskaaja": null,
+      "unelmien": null
+    },
+    "vaivalloinen vintiö": {
+      "vaivalloinen": {
+        "definition": "vaivaa aiheuttava, työläs, rasittava, hankala",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_465500d70c995dabbe5dd1a3241c8fb1"
+      },
+      "vintiö": {
+        "definition": "lurjus, nulikka, veijari, riiviö; into, vimma, tapa, taipumus ilkeyteen, pahantekoon",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_61de36a31ab4395b7ab78ff4c92be2cc"
+      }
+    },
+    "vanha muumio": {
+      "muumio": {
+        "definition": "mätänemättä säilynyt, varsinkin palsamoitu ruumis",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2ba2c0c2335dd8892703179d09f75e53"
+      },
+      "vanha": {
+        "definition": "iäkäs; pitkään olemassa ollut; entinen; muinainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b1bb221ce9a401a68be752ed4b51f96f"
+      }
+    },
+    "vihoviimeinen verenimijä": {
+      "nimijä": null,
+      "vere": null,
+      "verenimijä": null,
+      "viho": null,
+      "vihoviimeinen": {
+        "definition": "aivan viimeinen, äärimmäinen; mitä viheliäisin",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_409b35ddd70be39b9f467eca7110c451"
+      },
+      "viimeinen": {
+        "definition": "järjestyksessä kaikkien muiden jälkeinen; (toistaiseksi viimeksi tapahtuneesta, ilmestyneestä tms.:) uusi, tuore, viime, uusin, tuorein",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_acbafc2e93537e92d837dff54b694c10"
+      }
+    },
+    "virkaheitto vetelys": {
+      "heitto": {
+        "definition": "heittäminen; heitetyn esineen lento",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_cb689c57eafcd9184576d8ea7baff853"
+      },
+      "vetelys": {
+        "definition": "laiskuri, nahjus, vätys, velttoilija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_28e7c9f71fbb65c8328b3f169b75e400"
+      },
+      "virka": {
+        "definition": "jono, rivi; pyydysjono, ansapolku; rihmapyydys, ansa",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_75ad64fcc468498c7f9d728511308966"
+      },
+      "virkaheitto": {
+        "definition": "virasta erotettu; käyttökelvoton (esine)",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f42e831f60a7bd59fedb314b81929753"
+      }
     }
   }
 }
