@@ -15041,6 +15041,192 @@
     },
     "ällötys": {
       "ällötys": null
+    },
+    "diletantti": {
+      "antti": null,
+      "dilet": null,
+      "diletantti": {
+        "definition": "(epäpätevä) harrastelija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_dc9caa0c4244b7feb48715cf61cb5741"
+      }
+    },
+    "holtiton hulttio": {
+      "holtiton": {
+        "definition": "hallitsematon, ryhditön, veltto, hervoton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9d8f92b711b44d859c8a5a1fd14e31e2"
+      },
+      "hulttio": {
+        "definition": "laiskuri, hylkiö, kelvoton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3262d2a3d45058f1193738404f9b2be1"
+      }
+    },
+    "hörhö": {
+      "hörhö": null
+    },
+    "jokirotta": {
+      "joki": {
+        "definition": "puroa suurempi luonnonuomassa liikkuva vesivirta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_11395b0f8c08d37074d8a67d9da57da7"
+      },
+      "jokirotta": null,
+      "rotta": {
+        "definition": "tuholaisina eläviä hiirtä isompia jyrsijöitä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f626932b64d5d7801883c02086cfb54b"
+      }
+    },
+    "kurja ryökäle": {
+      "kurja": {
+        "definition": "surkea, viheliäinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_af4e47dc0de9904d70aac5e0a04a120b"
+      },
+      "ryökäle": {
+        "definition": "heittiö, renttu; repale, riepu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f6bd72a5e7360b7a10c45e4f1b1128e3"
+      }
+    },
+    "lemuava lihavuori": {
+      "lemuava": null,
+      "liha": {
+        "definition": "eläimen (varsinkin ravinnoksi käytettävä) lihaksisto, lihaskudos",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c38df6d2d96b4d85a8bdde412dad6d2f"
+      },
+      "lihavuori": null,
+      "vuori": {
+        "definition": "korkea kallioperäinen kohouma",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e28f3d7cf0fb3012599cceb786bbc561"
+      }
+    },
+    "lerppanokka": {
+      "lerppanokka": null
+    },
+    "niljakas merikäärme": {
+      "merikäärme": null,
+      "niljakas": {
+        "definition": "liukas",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_eca50e8ac640944c3c8b7b855f237f25"
+      }
+    },
+    "näsäviisas neropatti": {
+      "nero": {
+        "definition": "järki, ymmärrys; taito, kyky; voima; hyvin lahjakas ihminen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_770bfedcd56afdbb406a93355add8070"
+      },
+      "neropatti": null,
+      "näsä": null,
+      "näsäviisas": {
+        "definition": "viisasteleva, nenäkäs",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c9cf31157eb25daa3f0e0df2bd77c527"
+      },
+      "patti": {
+        "definition": "pahka (hevosen jalassa), nystyrä, kuhmu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4216dabb5c8fce55f6aac8b88973283d"
+      },
+      "viisas": {
+        "definition": "laaja-, runsastietoinen, oppinut; terveen järjen mukainen, harkitseva, harkittu, järkevä, neuvokas",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e64a7be3b045051fbbdfa38f2ce7d3b1"
+      }
+    },
+    "paksu pölvästi": {
+      "paksu": {
+        "definition": "läpimitaltaan suhteellisen iso, lihava; tiheä, sankka",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e0fe463c11c11c7a62e2619c97adb887"
+      },
+      "pölvästi": {
+        "definition": "hölmö, tolvana",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4bb375efae44f44aeaba05fe7830cffb"
+      }
+    },
+    "pallero": {
+      "pallero": {
+        "definition": "pieni lapsi; lyhyt pullea ihminen; pyöreä pallomainen esine",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_244c1b6582d99a78038c6892d0cdf788"
+      }
+    },
+    "pullikoija": {
+      "pullikoija": null
+    },
+    "raukkamainen merikrotti": {
+      "krotti": {
+        "definition": "(huono) vaatekappale, räsy, riepu; laiha mitätön ihminen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f9fcbc83f5de160b65c4151468aac49e"
+      },
+      "meri": {
+        "definition": "mantereita ympäröivä yhtenäinen vesialue; sen (selvärajainen) osa; suurehko suolainen sisävesi; etelä; länsi, lounas, itä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ab6e61f61a594f44356864412f1a9da4"
+      },
+      "merikrotti": null,
+      "raukkamainen": {
+        "definition": "pelkurimainen; halpamainen, selkärangaton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6e514f6489449b8a1e1fe74c0869f08a"
+      }
+    },
+    "riivatun rupikonna": {
+      "riivatun": null,
+      "rupikonna": {
+        "definition": "sammakko jolla on känsäinen ruskea iho",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f2a6c1493635af8919ed59060b3a985d"
+      }
+    },
+    "sekundasaituri": {
+      "saituri": {
+        "definition": "saita ihminen, kitsastelija, kitupiikki",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f453b57d259c13bb4af1f9af9cf86404"
+      },
+      "sekunda": {
+        "definition": "toisluokkainen, (lievästi) vajaalaatuinen; painoarkin viimeksi painettu puoli",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c9d4a14f62d9c55d6c841df8b9d7d45a"
+      },
+      "sekundasaituri": null
+    },
+    "siivoton huligaani": {
+      "huligaani": {
+        "definition": "ilkivallantekijä, hulinoitsija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_bf509d76eceaaaa4db05ebb26d0752f1"
+      },
+      "siivoton": {
+        "definition": "likainen; sopimaton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_26bbeefcea96eacbf07938d1b73a51af"
+      }
+    },
+    "talikko": {
+      "talikko": {
+        "definition": "lantahanko; heinähanko",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_90571e1e18596fe4ad5c9b7d9bf39a38"
+      }
+    },
+    "tavallinen tallukka": {
+      "tallukka": {
+        "definition": "villakankaasta tehty (sukkavartinen, paksupohjainen) jalkine",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b3be2b86b1654cff75b050b59eedea29"
+      },
+      "tavallinen": {
+        "definition": "yleinen, jokapäiväinen, normaali, tavanomainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_0eedde90c04e4924e14ffa37e78ccb0d"
+      }
+    },
+    "tietokonefriikki": {
+      "konefriikki": null,
+      "tieto": {
+        "definition": "tietäminen; informaatio; ilmoitus, viesti, uutinen; opintojen tms. avulla hankittu tietämys, tietous, oppi",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_669a773d2cfa91b8bd0267f7a5cc299b"
+      },
+      "tietokonefriikki": null
+    },
+    "tunkioprinsessa": {
+      "tunkioprinsessa": null
+    },
+    "tärkkipyrstö": {
+      "tärkkipyrstö": null
+    },
+    "vanha luikuri": {
+      "luikuri": {
+        "definition": "vale, pötypuhe",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_042e19a6a32a6534413bfd32c61c9816"
+      },
+      "vanha": {
+        "definition": "iäkäs; pitkään olemassa ollut; entinen; muinainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b1bb221ce9a401a68be752ed4b51f96f"
+      }
     }
   }
 }
