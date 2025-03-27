@@ -15227,6 +15227,104 @@
         "definition": "iäkäs; pitkään olemassa ollut; entinen; muinainen",
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b1bb221ce9a401a68be752ed4b51f96f"
       }
+    },
+    "alkukantainen hölmö": {
+      "alku": {
+        "definition": "se mistä tai millä jokin alkaa; syy",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7b1a639e1cc5674223a70e92725a543f"
+      },
+      "alkukantainen": null,
+      "hölmö": {
+        "definition": "typerä, tyhmyri",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_fdd08c6fadbc444191fc04e52181824c"
+      },
+      "kantainen": null
+    },
+    "ikuinen lintsari": {
+      "ikuinen": {
+        "definition": "ainainen, iäinen, iankaikkinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3902f7c045469e51e68b5dddd730dc04"
+      },
+      "lintsari": {
+        "definition": "toimeton kulkuri; pinnari",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_80c90fdd246102a8e4d328aee6d1539d"
+      }
+    },
+    "kelvoton pahanilmanlintu": {
+      "ilman": {
+        "definition": "vailla, paitsi; ilmaiseksi",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8e633fe77acab4fdf3a7f45f29a2af91"
+      },
+      "kelvoton": {
+        "definition": "johonkin kelpaamaton; huono, kehno, mitätön; alhainen, katala",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7de68d93d14ea86d158ab23b185c1608"
+      },
+      "lintu": {
+        "definition": "selkärankaisia, tasalämpöisiä, siivellisiä, tavallisesti höyhenpeitteisiä ja lentokykyisiä eläimiä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6d5dedd87ada4c0b5005c72610672617"
+      },
+      "pahan": null,
+      "pahanilmanlintu": null
+    },
+    "likka": {
+      "likka": {
+        "definition": "tyttö, lastenkaitsija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_0ee0e4a6170c7333bd4ea3863140f1c9"
+      }
+    },
+    "löyhäpäinen norsuvoro": {
+      "löyhä": {
+        "definition": "höllä, väljä; pehmeä, hauras; lauhkea (ilma)",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ed3f814de9efe07d404a04b69cc0bda8"
+      },
+      "löyhäpäinen": null,
+      "norsuvoro": null,
+      "päinen": null
+    },
+    "nuori tuhlari": {
+      "nuori": {
+        "definition": "(ihmisistä tai yleensä elollisista:) jolla on vähän ikää, joka on elänyt, ollut vasta vähän aikaa; tuore; uusi",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_1dd6c5a1dc251d5304ea7ed76796c9f4"
+      },
+      "tuhlari": {
+        "definition": "tuhlaaja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f2de311b9bbe7d3f50f93f8ca9bac6a8"
+      }
+    },
+    "pankkiirin rääpäle": {
+      "pankkiirin": null,
+      "päle": null,
+      "rää": null,
+      "rääpäle": {
+        "definition": "rätti, ryysy, repale; kitukasvuinen, surkea, kykenemätön ihminen tai eläin",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_14368b025a76aba0142183071c8b44ac"
+      }
+    },
+    "saita tyhmyri": {
+      "saita": {
+        "definition": "hyvin tai liian säästäväinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2bc20a311b65b27a9a2ace81085a017a"
+      },
+      "tyhmyri": {
+        "definition": "tyhmä ihminen, typerys, hölmö, tomppeli, pölkkypää",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a8373c296521e45bb58d048331722e5d"
+      }
+    },
+    "siivoton nylkyri": {
+      "nylkyri": {
+        "definition": "kiskuri",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_437a2db5ec7a07dc8fa0e00111ee3bf0"
+      },
+      "siivoton": {
+        "definition": "likainen; sopimaton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_26bbeefcea96eacbf07938d1b73a51af"
+      }
+    },
+    "tytti": {
+      "tytti": {
+        "definition": "pikkutyttö; nukke",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_798dd7763c944d630b0a7edc93f4c2e6"
+      }
     }
   }
 }
