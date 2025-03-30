@@ -15325,6 +15325,43 @@
         "definition": "pikkutyttö; nukke",
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_798dd7763c944d630b0a7edc93f4c2e6"
       }
+    },
+    "homsantuu": {
+      "homsantuu": null
+    },
+    "pyjamapelle": {
+      "pyjamapelle": null
+    },
+    "ruma": {
+      "ruma": {
+        "definition": "pahannäköinen; paha, ilkeä; huono, rivo; suuri, runsas; kova syömään; rivakka; nopea, äkillinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_0cf86e17d589ebc5a696f7d7fd5df5c8"
+      }
+    },
+    "törkeä retku": {
+      "retku": {
+        "definition": "heittiö, renttu, juoppo; kulunut vaate, riepu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9f51ed16f450c4eed9c0ce56fad64882"
+      },
+      "törkeä": {
+        "definition": "karkea, sopimaton; rivo, ruokoton; siivoton, likainen; loukkaava;  häikäilemätön",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e2c0416bd8050847fbf4196187eecc1c"
+      }
+    },
+    "vanha korppikotka": {
+      "korppi": {
+        "definition": "kaarne; Corvus corax",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_1f3aa744307dbf2fa5de6cc158ef0855"
+      },
+      "korppikotka": null,
+      "kotka": {
+        "definition": "isoja päiväpetolintuja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6adaa6d47b9419aeb4707317cdc8d0df"
+      },
+      "vanha": {
+        "definition": "iäkäs; pitkään olemassa ollut; entinen; muinainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b1bb221ce9a401a68be752ed4b51f96f"
+      }
     }
   }
 }
