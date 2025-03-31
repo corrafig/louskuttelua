@@ -168,6 +168,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "konstaapeli iines ankka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "204",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "velhot vitsauksena"
             }
         ],
         "aatelisvaras": [
@@ -3252,6 +3259,13 @@
                 "page": 73,
                 "publication": "aku ankan taskukirja",
                 "title": "ritari aku ja lampun henki"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "204",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "velhot vitsauksena"
             }
         ],
         "huiputtaja": [
@@ -5217,6 +5231,13 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "onnen salaisuus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
             }
         ],
         "ihmeukkeli": [
@@ -8239,6 +8260,20 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "onnen salaisuus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 37,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
             }
         ],
         "kakkoslaadun kyylä": [
@@ -9593,6 +9628,13 @@
                 "page": 42,
                 "publication": "aku ankan taskukirja",
                 "title": "ali kaposen ryöstösaalis"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "204",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "velhot vitsauksena"
             }
         ],
         "keltanokka": [
@@ -10333,6 +10375,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "erikoiskonsultti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "varjot levenevät"
             }
         ],
         "ketvele": [
@@ -12045,6 +12094,13 @@
                 "page": 35,
                 "publication": "aku ankan taskukirja",
                 "title": "vaeltava ritari"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "pakoilun taito"
             }
         ],
         "kivennuoliainen": [
@@ -13339,6 +13395,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "barcelona 92 - 2. osa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "204",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "velhot vitsauksena"
             }
         ],
         "kurja iiskotti": [
@@ -13961,6 +14024,13 @@
                 "page": 29,
                 "publication": "aku ankan taskukirja",
                 "title": "hirmuinen triloikka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "204",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "velhot vitsauksena"
             }
         ],
         "kuumakalle": [
@@ -16303,6 +16373,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "tarumaisen lipun metsästys - 3. osa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "204",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "velhot vitsauksena"
             }
         ],
         "lullukka": [
@@ -17827,6 +17904,13 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "onnen salaisuus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "varjot levenevät"
             }
         ],
         "muinaisjäänne": [
@@ -18139,6 +18223,13 @@
                 "page": 33,
                 "publication": "aku ankan taskukirja",
                 "title": "kuningas roope ja kolmen avaimen aarre"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
             }
         ],
         "mänttipää": [
@@ -23065,6 +23156,15 @@
                 "title": "titaanien taistelu"
             }
         ],
+        "puuroaivo": [
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
+            }
+        ],
         "pyjamapelle": [
             {
                 "character": "aku ankka",
@@ -24108,6 +24208,15 @@
                 "title": "taikaviitta joutuu koetukselle"
             }
         ],
+        "pönttöpää": [
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
+            }
+        ],
         "pöpi": [
             {
                 "character": "aku ankka",
@@ -25009,6 +25118,15 @@
                 "page": 9,
                 "publication": "aku ankan taskukirja",
                 "title": "hanhelan häjyt"
+            }
+        ],
+        "rettelöitsijä": [
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
             }
         ],
         "riemuidiootti": [
@@ -25988,6 +26106,13 @@
                 "page": 40,
                 "publication": "aku ankan taskukirja",
                 "title": "ali kaposen ryöstösaalis"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "204",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "velhot vitsauksena"
             }
         ],
         "roistonryökäle": [
@@ -27066,6 +27191,13 @@
                 "page": 42,
                 "publication": "aku ankan taskukirja",
                 "title": "maailman ympäri 80 tavalla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
             }
         ],
         "ryöstäjä": [
@@ -27451,6 +27583,13 @@
                 "page": 59,
                 "publication": "aku ankan taskukirja",
                 "title": "tsaarin kuriiri"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "varjot levenevät"
             }
         ],
         "rääväsuinen kakara": [
@@ -28047,6 +28186,13 @@
                 "page": 44,
                 "publication": "aku ankan taskukirja",
                 "title": "vaeltava ritari"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 41,
+                "publication": "aku ankan taskukirja",
+                "title": "varjot levenevät"
             }
         ],
         "salakavala käärme": [
@@ -30940,6 +31086,13 @@
                 "page": 28,
                 "publication": "aku ankan taskukirja",
                 "title": "vaeltava ritari"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
             }
         ],
         "tomppeli tyhjäntoimittaja": [
@@ -31407,6 +31560,22 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "viiman viemää"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "204",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "velhot vitsauksena"
+            }
+        ],
+        "tosikko": [
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
             }
         ],
         "tosikko ilonpilaaja": [
@@ -33726,6 +33895,13 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "rahamiesten robotit"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "varjot levenevät"
             }
         ],
         "törkykasa": [
@@ -35083,6 +35259,13 @@
                 "page": 67,
                 "publication": "aku ankan taskukirja",
                 "title": "akusseuksen seikkailut"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "varjot levenevät"
             }
         ],
         "vanha hömelö": [
@@ -39569,6 +39752,20 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "vaeltava ritari"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "varjot levenevät"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "203",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "raivoisa rottamies"
             }
         ],
         "ääntelevä höyhenpussi": [
