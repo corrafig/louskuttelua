@@ -687,6 +687,13 @@
                 "page": 68,
                 "publication": "aku ankan taskukirja",
                 "title": "don aku ja zorron unelma"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 1,
+                "publication": "aku ankan taskukirja",
+                "title": "sunnuntai kalassa"
             }
         ],
         "ankannatikka": [
@@ -1312,6 +1319,13 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "jouluralli"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
             }
         ],
         "epeli": [
@@ -2288,6 +2302,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "taikaviitta ja perijättären perin peräänantamaton perijä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "capitoliumin ankattaret"
             }
         ],
         "hienostelija": [
@@ -2338,6 +2359,13 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "bagdadin varas"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "213",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "uteliaisuuden uhri"
             }
         ],
         "hiirenryökäle": [
@@ -2350,6 +2378,15 @@
             }
         ],
         "hillitön hynäjemmari": [],
+        "hintelä ankanrääpäle": [
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 1,
+                "publication": "aku ankan taskukirja",
+                "title": "aika vonkale"
+            }
+        ],
         "hiostaja": [
             {
                 "character": "roope-setä",
@@ -2570,6 +2607,13 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "rahamiesten robotit"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "hohottava hourupää": [
@@ -3319,6 +3363,34 @@
                 "page": 34,
                 "publication": "aku ankan taskukirja",
                 "title": "ryöstökonsertit"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
+            },
+            {
+                "character": "milla magia",
+                "issue": "213",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "kaikkeen sitä joutuu!"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "huiputtaja": [
@@ -3349,6 +3421,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "reginella ja uhka maasta - 1. osa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "212",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "sienet hukassa"
             }
         ],
         "huithapeli": [
@@ -3708,6 +3787,20 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "megamasiina 2222"
+            },
+            {
+                "character": "milla magia",
+                "issue": "213",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "kaikkeen sitä joutuu!"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "hupelo: Hupelot! Pudotin kaikki lautaset.": [],
@@ -3741,6 +3834,13 @@
                 "page": 35,
                 "publication": "aku ankan taskukirja",
                 "title": "ritari aku ja lampun henki"
+            },
+            {
+                "character": "milla magia",
+                "issue": "213",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "kaikkeen sitä joutuu!"
             }
         ],
         "hurjastelija": [
@@ -3991,6 +4091,15 @@
                 "title": "ajan herra"
             }
         ],
+        "hyväuskoinen hölmö": [
+            {
+                "character": "aku ankka",
+                "issue": "212",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "noitalinna"
+            }
+        ],
         "hyypiö": [
             {
                 "character": "taikaviitta",
@@ -4150,6 +4259,13 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "epävarmuuden suossa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "213",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "uteliaisuuden uhri"
             }
         ],
         "häntäänsä heiluttava puudeli": [
@@ -4278,6 +4394,13 @@
                 "page": 17,
                 "publication": "aku ankan taskukirja",
                 "title": "keltaisen paronin pomppukumi"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "capitoliumin ankattaret"
             }
         ],
         "hävytön": [
@@ -5308,6 +5431,20 @@
                 "page": 45,
                 "publication": "aku ankan taskukirja",
                 "title": "maailman ympäri 80 tavalla"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "213",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "uteliaisuuden uhri"
+            },
+            {
+                "character": "milla magia",
+                "issue": "213",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "kaikkeen sitä joutuu!"
             }
         ],
         "höytylä": [
@@ -6454,6 +6591,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "musta ritari"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "211",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "tietotaitoimuri"
             }
         ],
         "ilontappaja": [
@@ -6971,6 +7115,15 @@
                 "title": "aku aladdinin luolassa"
             }
         ],
+        "itsepäinen muuli": [
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
+            }
+        ],
         "itserakas iiskotti": [
             {
                 "character": "aku ja hannu",
@@ -7486,6 +7639,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "esinäytös"
+            },
+            {
+                "character": "milla magia",
+                "issue": "213",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "kaikkeen sitä joutuu!"
             }
         ],
         "juorukello": [],
@@ -7868,6 +8028,27 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "onnenraharuletti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "212",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "noitalinna"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "suohirviö"
             }
         ],
         "jässi": [
@@ -7923,6 +8104,13 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "norsunluuheimo"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "212",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "sienet hukassa"
             }
         ],
         "jäyhäpää": [
@@ -8215,6 +8403,13 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "vaarallinen vaihtokauppa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "213",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "uteliaisuuden uhri"
             }
         ],
         "kahjo": [
@@ -8821,6 +9016,15 @@
                 "title": "sulhaseni ernesti"
             }
         ],
+        "kananaivo": [
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
+            }
+        ],
         "kanantaluttaja": [
             {
                 "character": "aku ankka",
@@ -8855,6 +9059,15 @@
                 "title": "vedon seuraukset"
             }
         ],
+        "kanslerinketku": [
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "hanhipaimen"
+            }
+        ],
         "kantelija": [
             {
                 "character": "roope-setä",
@@ -8862,6 +9075,15 @@
                 "page": 26,
                 "publication": "aku ankan taskukirja",
                 "title": "lentävä viikinkilaiva"
+            }
+        ],
+        "kapinen kielikello": [
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "kapinen kirppusirkus": [
@@ -8990,6 +9212,15 @@
                 "page": 25,
                 "publication": "aku ankan taskukirja",
                 "title": "kun lempi leimuaa..."
+            }
+        ],
+        "katala lurjus": [
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "katala noita": [
@@ -9932,6 +10163,20 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "velhot vitsauksena"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "211",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "tietotaitoimuri"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 41,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "keltanokka": [
@@ -10530,6 +10775,27 @@
                 "page": 55,
                 "publication": "aku ankan taskukirja",
                 "title": "jouluralli"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "212",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "noitalinna"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "213",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "uteliaisuuden uhri"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "suohirviö"
             }
         ],
         "kertakaikkinen vetelys": [
@@ -10887,6 +11153,13 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "onnenraharuletti"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 47,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "kihlakahjo hanhi": [],
@@ -10927,6 +11200,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "erilainen loma"
+            },
+            {
+                "character": "milla magia",
+                "issue": "213",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "kaikkeen sitä joutuu!"
             }
         ],
         "kiittämätön hulttio": [
@@ -11306,6 +11586,15 @@
                 "page": 86,
                 "publication": "aku ankan taskukirja",
                 "title": "ritari aku ja lampun henki"
+            }
+        ],
+        "kirppuinen piski": [
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "kirppukasa": [
@@ -12303,6 +12592,20 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "aikapoliisit"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "213",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "tehomissi"
             }
         ],
         "kitupiikki höppänä": [
@@ -13417,6 +13720,13 @@
                 "page": 35,
                 "publication": "aku ankan taskukirja",
                 "title": "vaeltava ritari"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "aika vonkale"
             }
         ],
         "korven juntti": [
@@ -14945,6 +15255,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "milanon herttua"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "kääkkänä": [
@@ -15192,6 +15509,13 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "törmäyskurssilla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "täydellinen apulainen"
             }
         ],
         "köpelö": [
@@ -15267,6 +15591,13 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "rahamiehet sotajalalla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "212",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "noitalinna"
             }
         ],
         "köyhä": [
@@ -16125,6 +16456,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "turbo-ankka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "capitoliumin ankattaret"
             }
         ],
         "laiskurisetä": [
@@ -16507,6 +16845,13 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "varjostajan painajainen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "liero luikurin laskettelija": [],
@@ -16733,6 +17078,13 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "varjostajan painajainen"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "lonkanvetäjä": [
@@ -17372,6 +17724,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "epävarmuuden suossa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
             }
         ],
         "lurkki": [
@@ -17896,6 +18255,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "inkojen salaisuus"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "213",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "uteliaisuuden uhri"
             }
         ],
         "mahtaileva kitupiikki": [
@@ -17999,6 +18365,13 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "kolmikyttyräiset kamelit"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "212",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "noitalinna"
             }
         ],
         "mammonamuumio": [
@@ -19597,6 +19970,13 @@
                 "page": 51,
                 "publication": "aku ankan taskukirja",
                 "title": "ali kaposen ryöstösaalis"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "capitoliumin ankattaret"
             }
         ],
         "nilviäinen": [
@@ -22144,6 +22524,27 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "haastava haaste"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "suohirviö"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "merirosvon paluu"
             }
         ],
         "pelkuriraukka": [
@@ -22586,6 +22987,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "jättien taisto"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "petollinen naikkonen": [
@@ -23131,6 +23539,13 @@
                 "page": 33,
                 "publication": "aku ankan taskukirja",
                 "title": "aikapoliisit"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "pieni lurjus": [
@@ -23201,6 +23616,13 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "ali kaposen ryöstösaalis"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "piimäparta": [
@@ -23292,6 +23714,15 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "onnenraharuletti"
+            }
+        ],
+        "pikku tuhlari": [
+            {
+                "character": "aku ankka",
+                "issue": "212",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "noitalinna"
             }
         ],
         "pikku viisastelija": [
@@ -23475,6 +23906,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "muumion kosto, osa 2"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "pitkäkyntinen": [
@@ -24475,6 +24913,13 @@
                 "page": 33,
                 "publication": "aku ankan taskukirja",
                 "title": "varjostajan painajainen"
+            },
+            {
+                "character": "milla magia",
+                "issue": "213",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "kaikkeen sitä joutuu!"
             }
         ],
         "pöhkö hölöttäjä": [
@@ -24822,6 +25267,13 @@
                 "page": 22,
                 "publication": "aku ankan taskukirja",
                 "title": "kolmikyttyräiset kamelit"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
             }
         ],
         "pöllö": [
@@ -25087,6 +25539,13 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "varjostajan painajainen"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
             }
         ],
         "pönttö": [
@@ -25351,6 +25810,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "japanilainen jalokivi"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
             }
         ],
         "raakkuja": [
@@ -25421,6 +25887,15 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "andoran ruukku"
+            }
+        ],
+        "raharohmu": [
+            {
+                "character": "roope-setä",
+                "issue": "210",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "oman rahasäilönsä vanki"
             }
         ],
         "raharössi": [
@@ -27105,6 +27580,20 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "velhot vitsauksena"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "roistonpullukka": [
@@ -27738,6 +28227,13 @@
                 "page": 30,
                 "publication": "aku ankan taskukirja",
                 "title": "vaeltava ritari"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
             }
         ],
         "ruoja": [
@@ -28241,6 +28737,13 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "unelmia vetolaatikosta"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
             }
         ],
         "ryöstäjä": [
@@ -30009,6 +30512,13 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "turbo-ankka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 54,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "sorsalauma": [
@@ -31855,6 +32365,13 @@
                 "page": 38,
                 "publication": "aku ankan taskukirja",
                 "title": "milanon herttua"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
             }
         ],
         "tollo takkuparta": [
@@ -32290,6 +32807,13 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "raivoisa rottamies"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "hanhipaimen"
             }
         ],
         "tomppeli tyhjäntoimittaja": [
@@ -33533,6 +34057,15 @@
                 "title": "vuosisadan vaalitaisto, osa 4"
             }
         ],
+        "tuotantoapina": [
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
+            }
+        ],
         "turboahdettu turjake": [
             {
                 "character": "taikaviitta",
@@ -33860,6 +34393,13 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "kuningasajatus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "212",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "noitalinna"
             }
         ],
         "tyhjäpäinen pöpeksijä": [
@@ -34640,6 +35180,15 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "musta peili"
+            }
+        ],
+        "typerä hiekkakirppu": [
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "typerä iiskotti": [
@@ -35956,6 +36505,13 @@
                 "page": 22,
                 "publication": "aku ankan taskukirja",
                 "title": "vaeltava ritari"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "uninen ukon horisko": [
@@ -36359,6 +36915,13 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "aselepopäivä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "213",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "lastaten ja leikaten"
             }
         ],
         "valepohatta": [
@@ -39035,6 +39598,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja menetetty onni"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "täydellinen apulainen"
             }
         ],
         "vetelehtijä": [
@@ -39266,6 +39836,13 @@
                 "page": 63,
                 "publication": "aku ankan taskukirja",
                 "title": "kuningas roope ja kolmen avaimen aarre"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "viheliäinen viittaveikko": [
@@ -39880,6 +40457,13 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "ankanpoika sairastaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "virkaheitto vetelys": [
@@ -40048,6 +40632,13 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "aikapoliisit"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "vitkuttelija": [
@@ -40408,6 +40999,13 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "unelmia vetolaatikosta"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "hanhipaimen"
             }
         ],
         "vätyssetä": [
@@ -41243,6 +41841,27 @@
                 "page": 9,
                 "publication": "aku ankan taskukirja",
                 "title": "epävarmuuden suossa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "210",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "morgatin kahdet kasvot"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "211",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "hanhipaimen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "212",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "huan lin aarre"
             }
         ],
         "ääntelevä höyhenpussi": [
