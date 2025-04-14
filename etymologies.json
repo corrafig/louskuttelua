@@ -15785,6 +15785,113 @@
     },
     "vormupelle": {
       "vormupelle": null
+    },
+    "hintelä ankanrääpäle": {
+      "ankan": null,
+      "ankanrääpäle": null,
+      "hintelä": {
+        "definition": "hento, heikko, heikkovoimainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_800e71d7d1ca4272f7830554658403a7"
+      },
+      "päle": null,
+      "rää": null
+    },
+    "hyväuskoinen hölmö": {
+      "hyvä": {
+        "definition": "jostakin myönteisenä, edullisena, arvostettavana tms. pidettävästä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_0a93f698e5d152494f456f0776b2bab6"
+      },
+      "hyväuskoinen": null,
+      "hölmö": {
+        "definition": "typerä, tyhmyri",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_fdd08c6fadbc444191fc04e52181824c"
+      },
+      "uskoinen": {
+        "definition": "#herkkäuskoinen# ’luottavainen, sinisilmäinen, nenästä vedettävä, naiivi’",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_1e27f4a581a59bd9078ab67db24f3e62"
+      }
+    },
+    "itsepäinen muuli": {
+      "itse": {
+        "definition": "indefiniittipronomini; refleksiivipronomini; (varsinkin psykologiassa:) (omasta olemassaolostaan tietoinen) minä, minäkuva; (filosofiassa:) yksilön syvin olemus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_968eaaaa068ce8f93361f2f6f88b562a"
+      },
+      "itsepäinen": null,
+      "muuli": {
+        "definition": "aasioriin ja tammahevosen jälkeläinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a6878f2d8d0ccac81a675f294acb833b"
+      },
+      "päinen": null
+    },
+    "kananaivo": {
+      "kananaivo": null
+    },
+    "kanslerinketku": {
+      "kanslerin": null,
+      "kanslerinketku": null,
+      "ketku": null
+    },
+    "kapinen kielikello": {
+      "kapinen": null,
+      "kello": {
+        "definition": "ajanmittauslaite; soittolaite, kulkunen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_69c37b816b874e4ad256fcc93325609e"
+      },
+      "kieli": {
+        "definition": "suuontelon pohjaan kiinnittyvä lihaksikas elin; ihmisten viestintäjärjestelmä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_cc174b1cf956d2d510650287bc880f04"
+      },
+      "kielikello": null
+    },
+    "katala lurjus": {
+      "katala": {
+        "definition": "kurja, köyhä, raukka, onneton, surkuteltava; pieni, laiha, kalpea, voimaton, surkeannäköinen; kavala, petollinen; ilkeä, häijy, tyly; hankala, vaikea",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5cc2fb6d70e7063aaa4f54ec8baa6474"
+      },
+      "lurjus": {
+        "definition": "roisto, kelmi, konna, vintiö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2743c0a5277c19acc802aa4eb0fee761"
+      }
+    },
+    "kirppuinen piski": {
+      "kirppuinen": null,
+      "piski": {
+        "definition": "(pieni) koira, koiranpentu, rakki",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_34f146d4a7e82639939ca6aa175a60d4"
+      }
+    },
+    "pikku tuhlari": {
+      "pikku": {
+        "definition": "pieni",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7f1d90e10f3f6c54859a35fec79ba0ec"
+      },
+      "tuhlari": {
+        "definition": "tuhlaaja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f2de311b9bbe7d3f50f93f8ca9bac6a8"
+      }
+    },
+    "raharohmu": {
+      "raharohmu": null
+    },
+    "tuotantoapina": {
+      "pina": null,
+      "tuotantoa": null,
+      "tuotantoapina": null
+    },
+    "typerä hiekkakirppu": {
+      "hiekka": {
+        "definition": "pienistä kivennäisrakeista koostuva irtain maalaji, santa; hiekkamaa, hietikko, hiekkaranta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_1dbebc0c7ccaa823d2f18081653e9b28"
+      },
+      "hiekkakirppu": null,
+      "kirppu": {
+        "definition": "pieni hyönteinen, syöpäläinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5037aa58683e7356d23e339fbccea9fc"
+      },
+      "typerä": {
+        "definition": "tyhmä, hölmö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6f20611e3fa5add58086615c10561949"
+      }
     }
   }
 }
