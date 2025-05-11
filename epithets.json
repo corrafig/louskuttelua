@@ -1438,6 +1438,15 @@
                 "title": "rakennemuutoksen kourissa"
             }
         ],
+        "epäkunnioittava riiviö": [
+            {
+                "character": "tupu, hupu ja lupu",
+                "issue": "219",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "neljäs ankanpoika"
+            }
+        ],
         "epäkypsä räkänokka": [
             {
                 "character": "taikaviitta",
@@ -12062,6 +12071,13 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "milanon herttua"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "219",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "kyklooppien kolikot"
             }
         ],
         "kissanruoja": [
@@ -13913,6 +13929,15 @@
                 "title": "roope-setä ja höyrykonerobotti"
             }
         ],
+        "konstailija": [
+            {
+                "character": "tupu, hupu ja lupu",
+                "issue": "219",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "neljäs ankanpoika"
+            }
+        ],
         "koohottaja": [
             {
                 "character": "aku ankka",
@@ -14471,6 +14496,15 @@
                 "page": 45,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankan mallikoulu"
+            }
+        ],
+        "kuriton nulikka": [
+            {
+                "character": "tupu, hupu ja lupu",
+                "issue": "219",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "neljäs ankanpoika"
             }
         ],
         "kurja": [
@@ -19617,6 +19651,13 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "onnenraharuletti"
+            },
+            {
+                "character": "tupu, hupu ja lupu",
+                "issue": "219",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "neljäs ankanpoika"
             }
         ],
         "mämmäri": [
@@ -34880,6 +34921,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "epävarmuuden suossa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "219",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "supersankarini"
             }
         ],
         "tunarin tunari": [
@@ -36672,6 +36720,15 @@
                 "page": 22,
                 "publication": "aku ankan taskukirja",
                 "title": "epävarmuuden suossa"
+            }
+        ],
+        "täystuholainen": [
+            {
+                "character": "aku ankka",
+                "issue": "219",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "supersankarini"
             }
         ],
         "täytinen tohelo": [
@@ -40617,6 +40674,13 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "keksimisen riemu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "219",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "kyklooppien kolikot"
             }
         ],
         "verohuijari": [
@@ -41539,6 +41603,13 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "huan lin aarre"
+            },
+            {
+                "character": "tupu, hupu ja lupu",
+                "issue": "219",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "neljäs ankanpoika"
             }
         ],
         "virkaheitto vetelys": [
@@ -42102,6 +42173,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "suku ja mammona"
+            },
+            {
+                "character": "tupu, hupu ja lupu",
+                "issue": "219",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "neljäs ankanpoika"
             }
         ],
         "vätyssetä": [
