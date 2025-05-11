@@ -16273,6 +16273,36 @@
         "definition": "öykkärille ominainen, öykkärin tapaan käyttäytyvä tms.",
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c27af611d34ab5e116fd324b91991c1f"
       }
+    },
+    "epäkunnioittava riiviö": {
+      "epä": null,
+      "epäkunnioittava": null,
+      "kunnioittava": null,
+      "riiviö": {
+        "definition": "kiusankappale, ilkimys, lurjus, vintiö; paholainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5701cf0ca2a72490d2758af5aebfe3ce"
+      }
+    },
+    "konstailija": {
+      "konstailija": null
+    },
+    "kuriton nulikka": {
+      "kuriton": {
+        "definition": "vallaton, huonotapainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e6e7f3430668b5de2a18ddfd317e0c06"
+      },
+      "nulikka": {
+        "definition": "paljas(pää); pieni kala; pieni poika",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_34de91689b84d358312e7df98b840111"
+      }
+    },
+    "täystuholainen": {
+      "tuholainen": {
+        "definition": "tuhoeläin, varsinkin tuhohyönteinen; sabotoija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_78e138bc4fdbae1caa934a4b65af631d"
+      },
+      "täys": null,
+      "täystuholainen": null
     }
   }
 }
