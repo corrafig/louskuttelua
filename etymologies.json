@@ -16303,6 +16303,108 @@
       },
       "täys": null,
       "täystuholainen": null
+    },
+    "gurunkäppänä": {
+      "gurun": null,
+      "gurunkäppänä": null,
+      "käppänä": null
+    },
+    "hyödytön nynny": {
+      "hyödytön": {
+        "definition": "josta ei ole hyötyä, turha, joutava, tarpeeton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_de34134667a59f022bdd668ec1021c50"
+      },
+      "nynny": {
+        "definition": "saamaton, nahjus; ujo, arka; tyhmä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_815f35712da0b9b6ff4fac9fe7aea258"
+      }
+    },
+    "häpeätahra": {
+      "häpeä": {
+        "definition": "sopimattoman teon, huonommuuden tms. aiheuttama mielipahan, nolouden, katumuksen tunne tai tila; arvonannon tai kunnian menetys tai sen aiheuttanut seikka",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_62d3ed9e9c7579061aa7ec2ec3a70592"
+      },
+      "häpeätahra": null,
+      "tahra": {
+        "definition": "jonkin aineen jättämä rumentava (lika)jälki, likaläiskä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_24df4d3ac41241d62ad5187221a1bd5c"
+      }
+    },
+    "ikäloppu huru-ukko": {
+      "huru-ukko": null,
+      "ikä": {
+        "definition": "aika jonka joku on ollut elossa tai olemassa",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6a791798f595fc0f51c3633cea50425a"
+      },
+      "ikäloppu": null,
+      "loppu": {
+        "definition": "se mihin jokin loppuu; viimeinen osa tai jakso",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3b4bbcd11f86c42f48664233bd4edce8"
+      }
+    },
+    "mallivihulainen": {
+      "hulainen": {
+        "definition": "rakennuksen ulkonurkka, salvos; rakennuksen edessä oleva katos; onton kohdan yli kaartuva reuna",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f3bd31e51920d2f7bf54374637c0c1f6"
+      },
+      "mallivi": null,
+      "mallivihulainen": null
+    },
+    "sikaniska": {
+      "niska": {
+        "definition": "kaulan takaosa; vaakasuora kannatinpuu; kosken alkukohta tai yläpää",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a26ab6fab7d2ff3c4e1d200703e59976"
+      },
+      "sika": {
+        "definition": "kotieläimenä pidettävä kesy sikaeläin, varsinkin täysikasvuinen yksilö; (adjektiivien ja adverbien määrite) erittäin, huippu-, super- ",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_73b87ae2f29ac369805e658c89a320c1"
+      },
+      "sikaniska": null
+    },
+    "surkea luuseri": {
+      "eri": {
+        "definition": "erillinen, itsenäinen, erityinen, erilainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_1f5198faff59782cd71dba9588e45697"
+      },
+      "luus": null,
+      "luuseri": {
+        "definition": "huono, nahjus, surkimus, häviäjä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7fe2516348f5ccbbeb8f3ef18ffeb432"
+      },
+      "surkea": {
+        "definition": "kurja, onneton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c42039398d396e615e09177cd15a4e28"
+      }
+    },
+    "tiukkapipo": {
+      "pipo": {
+        "definition": "kartionmuotoinen puukappale (pelissä), keila, keilamainen päähine, myssy; #pipot# ’ratamokasveihin kuuluvia puutarhakasveja’",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_59a9574d290c2dd6d278d122fc79eaa6"
+      },
+      "tiukka": {
+        "definition": "kireä, ahdas, (liian) tiivis; ankara, vaativa, kova; tukala, kiperä; tiheä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_51399cee89669b921e50483bd6b10d15"
+      },
+      "tiukkapipo": null
+    },
+    "toistaitoinen räpeltäjä": {
+      "räpeltäjä": null,
+      "toistaitoinen": {
+        "definition": "taitamaton, osaamaton, kömpelö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7bdcefb362ac9d0aa8ff9bc822d1bc74"
+      }
+    },
+    "viheliäinen limanuljaska": {
+      "iäinen": {
+        "definition": "ikuinen, ajaton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_782362cbd0edafbb1817f0dc83e5b5b2"
+      },
+      "limanuljaska": null,
+      "vihel": null,
+      "viheliäinen": {
+        "definition": "kurja, kehno, kelvoton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_09bf6901ffb3fe3e30458caf79adbb31"
+      }
     }
   }
 }
