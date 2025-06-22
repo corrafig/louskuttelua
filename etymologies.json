@@ -16596,6 +16596,93 @@
     },
     "untuva-aivo": {
       "untuva-aivo": null
+    },
+    "hippaheikki": {
+      "heikki": null,
+      "hippa": {
+        "definition": "eräs (lasten) kiinniottoleikki, hippaleikki, hippasilla olo; kiinniottaja em. leikissä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_619e02bb99d99df97cd788b9411b56c8"
+      },
+      "hippaheikki": null
+    },
+    "häpeämätön ketku": {
+      "häpeämätön": null,
+      "ketku": null
+    },
+    "liskokuninkaan retale": {
+      "kuninkaan": null,
+      "lisko": {
+        "definition": "pitkäruumiisia ja suomupeitteisiä, tavallisesti neliraajaisia matelijoita",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7647df47c5d3eed76f61b1695b7024a5"
+      },
+      "liskokuninkaan": null,
+      "retale": {
+        "definition": "riepu, huono vaate; hulttio, retku",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3b6c2063b7e56f1a8f2d8c8c70d291d2"
+      }
+    },
+    "lorvikatarrinen laiskamato": {
+      "laiskamato": null,
+      "lorvikatar": null,
+      "lorvikatarrinen": null,
+      "rinen": null
+    },
+    "naamioitu maanvaiva": {
+      "maan": null,
+      "maanvaiva": null,
+      "naamioitu": null,
+      "vaiva": {
+        "definition": "vaivannäkö, riesa; sairaus; piina, ahdistus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3d14b247f06dcf379aebc5592cd2a937"
+      }
+    },
+    "rasvapallo": {
+      "pallo": {
+        "definition": "pyöreä kuminen, nahkainen, muovinen tms. leikki- tai peliväline",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3aa884fab55983681bba9c163a1f0ad7"
+      },
+      "rasva": {
+        "definition": "vettä kevyempiä ja siihen liukenemattomia usein tahmamaisia tai öljymäisiä orgaanisia aineita, joista monet ovat tärkeitä ravintoaineita",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_74cf21b2a90387c161fc29e2c08c15a3"
+      },
+      "rasvapallo": null
+    },
+    "ruudinkeksijä": {
+      "keksijä": null,
+      "ruudin": null,
+      "ruudinkeksijä": {
+        "definition": "nokkela, älykäs",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9855fe146b34810b8767370e1fc50b65"
+      }
+    },
+    "rääväsuu": {
+      "räävä": {
+        "definition": "rivo, ruokoton, suurisuinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9782198abcb238955e8438b30cc52335"
+      },
+      "rääväsuu": {
+        "definition": "rääväsuinen (henkilö)",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2b8cf9c960fbd4795e58df32322a5406"
+      },
+      "suu": {
+        "definition": "suuonteloon johtava (leukojen ja huulien rajoittama) aukko, suuontelo; sisäänmeno- tai ulostuloaukko; joen loppukohta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_be1210d8fc1cd60c79abe0b68a036660"
+      }
+    },
+    "suoja": {
+      "suoja": {
+        "definition": "jokin joka suojaa, varjelee, turvaa; huone, rakennus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_247f85bd49e6cd4289cd296ce723c3c4"
+      }
+    },
+    "suttura": {
+      "suttura": {
+        "definition": "(epämääräinen, kevytkenkäinen) nainen; heila, tyttöystävä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ef63809cc1468610059ac4c7d6739c5f"
+      }
+    },
+    "syöttiläs": {
+      "syöttiläs": null
     }
   }
 }
