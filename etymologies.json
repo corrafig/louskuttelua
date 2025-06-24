@@ -16683,6 +16683,75 @@
     },
     "syöttiläs": {
       "syöttiläs": null
+    },
+    "emähölmö": {
+      "emähölmö": null
+    },
+    "karvaturri": {
+      "karva": {
+        "definition": "lankamaisia, taipuisia nisäkkäiden orvaskeden sarveismuodostumia; karvapeite; karvan väri, väri; olemus, luonne",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b47613650ea845c1f8bcdafb2d99fcb1"
+      },
+      "karvaturri": {
+        "definition": "pörröinen eläin",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6f90e418ee6c79e7656a278eaaf10156"
+      },
+      "turri": {
+        "definition": "pörröinen, karvainen eläin; parrakas tai pörrötukkainen ihminen; äreä, juro ihminen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_11fc89963f2e4b7f240175f0bd2488c8"
+      }
+    },
+    "kurja rääpäle": {
+      "kurja": {
+        "definition": "surkea, viheliäinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_af4e47dc0de9904d70aac5e0a04a120b"
+      },
+      "päle": null,
+      "rää": null,
+      "rääpäle": {
+        "definition": "rätti, ryysy, repale; kitukasvuinen, surkea, kykenemätön ihminen tai eläin",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_14368b025a76aba0142183071c8b44ac"
+      }
+    },
+    "partajuuso": {
+      "juuso": {
+        "definition": "kolja (kalalaji), Melanogrammus aeglefinus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_35bb10f4af181e83f5929701b162dc4e"
+      },
+      "parta": {
+        "definition": "miehillä suun ympärillä, leuassa ja poskissa kasvavat ihokarvat",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e9a4bbb85561c01d7a88b3ac2d3ade3f"
+      },
+      "partajuuso": null
+    },
+    "pellepohatta": {
+      "pelle": {
+        "definition": "leikinlaskija, veitikka; klovni",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a64bc292376c3b0604875d78835696fb"
+      },
+      "pellepohatta": null,
+      "pohatta": {
+        "definition": "rikas, mahtava mies",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_260c4640072556ea6f7a17508748a3aa"
+      }
+    },
+    "ruipeloankka": {
+      "peloankka": null,
+      "rui": null,
+      "ruipeloankka": null
+    },
+    "röyhkeä luihu": {
+      "luihu": {
+        "definition": "petollinen, kavala, epäluotettavan näköinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_fcc894754785aeadcb4134b441b0148b"
+      },
+      "röyhkeä": {
+        "definition": "julkea, pöyhkeä, kerskaileva",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d3ca9560f58b8918bfde32ef06b571be"
+      }
+    },
+    "siloposki": {
+      "siloposki": null
     }
   }
 }
