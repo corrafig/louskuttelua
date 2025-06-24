@@ -913,6 +913,13 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "vaikeroivien vuorten arvoitus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
             }
         ],
         "arkalainen": [
@@ -1164,6 +1171,15 @@
                 "page": 36,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka sateentekijänä"
+            }
+        ],
+        "emähölmö": [
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
             }
         ],
         "emäkelju": [
@@ -4326,6 +4342,13 @@
                 "page": 9,
                 "publication": "aku ankan taskukirja",
                 "title": "taidetta ja rakkautta"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "kelkkailevat kilpakosijat"
             }
         ],
         "hyväuskoinen houkka": [
@@ -9573,6 +9596,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "sulhaseni ernesti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
             }
         ],
         "kananaivo": [
@@ -9701,6 +9731,15 @@
             }
         ],
         "karvapeitteinen kanalja": [],
+        "karvaturri": [
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
+            }
+        ],
         "katala heittiö": [
             {
                 "character": "taikaviitta",
@@ -15272,6 +15311,15 @@
                 "page": 47,
                 "publication": "aku ankan taskukirja",
                 "title": "maailman ympäri 80 tavalla"
+            }
+        ],
+        "kurja rääpäle": [
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
             }
         ],
         "kurja röyhkimys": [
@@ -23025,6 +23073,15 @@
                 "title": "vuoren silmä"
             }
         ],
+        "partajuuso": [
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
+            }
+        ],
         "partaradikaali": [
             {
                 "character": "roope-setä",
@@ -23862,6 +23919,15 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "unetonna ankkalinnassa"
+            }
+        ],
+        "pellepohatta": [
+            {
+                "character": "roope-setä",
+                "issue": "227",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "veroparatiisi"
             }
         ],
         "pellepää": [
@@ -27082,6 +27148,13 @@
                 "page": 49,
                 "publication": "aku ankan taskukirja",
                 "title": "viiman viemää"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "227",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "veroparatiisi"
             }
         ],
         "pöyhistelevä puuterihuisku": [
@@ -29791,6 +29864,15 @@
                 "title": "erilainen loma"
             }
         ],
+        "ruipeloankka": [
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
+            }
+        ],
         "ruma": [
             {
                 "character": "aku ankka",
@@ -30920,6 +31002,15 @@
                 "title": "liika raha on pahasta"
             }
         ],
+        "röyhkeä luihu": [
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
+            }
+        ],
         "röyhkeä moukka": [
             {
                 "character": "roope-setä",
@@ -31526,6 +31617,13 @@
                 "page": 7,
                 "publication": "aku ankan taskukirja",
                 "title": "ken kuuhun kurkottaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "227",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "veroparatiisi"
             }
         ],
         "saksigangsteri": [
@@ -32027,6 +32125,15 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "toisenlainen joulu"
+            }
+        ],
+        "siloposki": [
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
             }
         ],
         "simppu": [
@@ -34876,6 +34983,13 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "seitsemän pahetta"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
             }
         ],
         "tomppeli tyhjäntoimittaja": [
@@ -38114,6 +38228,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "törmäyskurssilla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "227",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "pushkovan mahtisampi"
             }
         ],
         "törppö": [
