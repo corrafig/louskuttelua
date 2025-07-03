@@ -16752,6 +16752,158 @@
     },
     "siloposki": {
       "siloposki": null
+    },
+    "huuhaaäijä": {
+      "huuhaa": {
+        "definition": "perätön, tyhjänpäiväinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_403ce35671a72fd284da5dfccf28e88f"
+      },
+      "huuhaaäijä": null,
+      "äijä": {
+        "definition": "vanha mies, ukko; isä; isoisä; appi; aviomies, naimisissa oleva mies; isäntä, vanhaisäntä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_01dd7c9cef7b29aaa0990517c3355512"
+      }
+    },
+    "inha loitsuttaja": {
+      "inha": {
+        "definition": "paha, häijy, ilkeä, ikävä, inhottava",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3315c42ae75b109eafbb276210736cd7"
+      },
+      "loit": null,
+      "loitsuttaja": null,
+      "suttaja": null
+    },
+    "kitupiikkien kunkku": {
+      "kitu": {
+        "definition": "kide",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c4e4c5bc676f3c03d97854210dca6807"
+      },
+      "kitupiikkien": null,
+      "kunkku": null,
+      "piikkien": null
+    },
+    "kuminokka": {
+      "kumin": null,
+      "kuminokka": null,
+      "okka": {
+        "definition": "hyvä on, eikö niin, kyllä; kunnossa, reilassa, järjestyksessä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d28ec07453115d608e2cc62a1422aa57"
+      }
+    },
+    "linnunaivo": {
+      "linnunaivo": null
+    },
+    "luihu keplottelija": {
+      "keplottelija": null,
+      "luihu": {
+        "definition": "petollinen, kavala, epäluotettavan näköinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_fcc894754785aeadcb4134b441b0148b"
+      }
+    },
+    "läskipää": {
+      "läski": {
+        "definition": "silava, ihra; rasvainen sianliha",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9b355f863c99af51a0b49c1ac665cea5"
+      },
+      "läskipää": null,
+      "pää": {
+        "definition": "ihmisellä ja useimmilla eläimillä (kaulan välityksellä) vartaloon liittyvä ruumiin (ylä- tai etu)osa; alku- tai loppukohta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_46583afd7c5b8d5186e152d233727a5c"
+      }
+    },
+    "maamoukka": {
+      "maamoukka": null
+    },
+    "mamsellimainen vätys": {
+      "mamsellimainen": null,
+      "vätys": {
+        "definition": "saamaton, vetelys, laiskuri, nahjus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e9a3411ab863fec2f8df30e751339099"
+      }
+    },
+    "möläyttäjä": {
+      "möläyttäjä": null
+    },
+    "pahanilmanankka": {
+      "ilmanankka": null,
+      "pahan": null,
+      "pahanilmanankka": null
+    },
+    "pikku peltiheikki": {
+      "heikki": null,
+      "pelti": {
+        "definition": "metallilevy; leivinpelti; uunin savutorven levymäinen suljin; ikkunalasi, lasilevy, josta ruutu tehdään; housujen etu- tai takapuolella oleva napitettava läppä; lakin lippa; paidan kainalotilkku",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7ecda72d5f816dc119574fb76dc87000"
+      },
+      "peltiheikki": null,
+      "pikku": {
+        "definition": "pieni",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7f1d90e10f3f6c54859a35fec79ba0ec"
+      }
+    },
+    "pyörykkä": {
+      "pyörykkä": null
+    },
+    "shamaaninretale": {
+      "inretale": null,
+      "shamaan": null,
+      "shamaaninretale": null
+    },
+    "siivoton sauvakaappari": {
+      "kaappari": {
+        "definition": "kaapparilaiva tai kaapparilaivuri; kaappaaja, ryöstäjä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_aa852ea17dcbfb04612862078572f026"
+      },
+      "sauva": {
+        "definition": "keppi, seiväs tms.",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2a2b54ab4ca5c0a71dc1c672b4b6194f"
+      },
+      "sauvakaappari": null,
+      "siivoton": {
+        "definition": "likainen; sopimaton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_26bbeefcea96eacbf07938d1b73a51af"
+      }
+    },
+    "sunnuntaimaagikko": {
+      "maagikko": null,
+      "sunnuntai": {
+        "definition": "viikon viimeinen päivä, joka on kristillisissä kirkoissa pyhäpäivä ja useimmissa maissa lepopäivä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d20c98b7acf8f58df45939cdc8d389da"
+      },
+      "sunnuntaimaagikko": null
+    },
+    "tuhannen tunari": {
+      "tuhannen": {
+        "definition": "sanan #tuhat# genetiivi, 1000",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_078702bd695492ff411ca2db3bea8863"
+      },
+      "tunari": {
+        "definition": "taitamaton ja saamaton tekijä, poropeukalo, nahjus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_0e532e4e180629d68116e0681c1af4bd"
+      }
+    },
+    "täystoope": {
+      "stoope": null,
+      "täy": {
+        "definition": "#täyt# ’keuhkot’",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_711fb6be31270d373decbabc6f8289b4"
+      },
+      "täystoope": null
+    },
+    "vihervouhottaja": {
+      "vihervouhottaja": null
+    },
+    "ylikasvuinen kakara": {
+      "kakara": {
+        "definition": "(halventavasti lapsesta:) äpärä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e78ebaa7080e6c49e6576e6d1ab2a1ca"
+      },
+      "kasvuinen": null,
+      "yli": {
+        "definition": "ylitse",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9dea42037ff08782f1269f1bacdb1af2"
+      },
+      "ylikasvuinen": null
     }
   }
 }
