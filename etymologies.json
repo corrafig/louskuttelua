@@ -16904,6 +16904,68 @@
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9dea42037ff08782f1269f1bacdb1af2"
       },
       "ylikasvuinen": null
+    },
+    "hermoheikko höynä": {
+      "hermoheikko": null,
+      "höynä": {
+        "definition": "hassahtanut, typerä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4c844bf63ca1c61214ec50d8bccbd97b"
+      }
+    },
+    "kuriton kakara": {
+      "kakara": {
+        "definition": "(halventavasti lapsesta:) äpärä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e78ebaa7080e6c49e6576e6d1ab2a1ca"
+      },
+      "kuriton": {
+        "definition": "vallaton, huonotapainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e6e7f3430668b5de2a18ddfd317e0c06"
+      }
+    },
+    "luolamies": {
+      "luola": {
+        "definition": "(vuoren) onkalo; (ketun) pesäkolo, käärmeenkolo",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_085a6fac028d59379aa7e892123eb7aa"
+      },
+      "luolamies": null,
+      "mies": {
+        "definition": "täysikasvuinen miessukupuolta oleva ihminen; ihminen, henkilö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_89d03c2ebdb43ad00404c2be00f2427f"
+      }
+    },
+    "nokinokka": {
+      "nokin": null,
+      "nokinokka": null,
+      "okka": {
+        "definition": "hyvä on, eikö niin, kyllä; kunnossa, reilassa, järjestyksessä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d28ec07453115d608e2cc62a1422aa57"
+      }
+    },
+    "pikipelle": {
+      "pikipelle": null
+    },
+    "toistaitoinen työnvieroksuja": {
+      "toistaitoinen": {
+        "definition": "taitamaton, osaamaton, kömpelö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7bdcefb362ac9d0aa8ff9bc822d1bc74"
+      },
+      "työn": null,
+      "työnvieroksuja": null,
+      "vieroksuja": null
+    },
+    "ukkorahja": {
+      "ukkorahja": null
+    },
+    "visakallo": {
+      "kallo": {
+        "definition": "pääkoppa",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_88b31d522f862fa411847a789109dfe9"
+      },
+      "visa": {
+        "definition": "koivun (joskus myös lepän) rungon tyvessä oleva kova pahka, visautuneen lehtipuun kova ja koristeellinen puuaines; vaikea, kova, vaativa (esim. työ)",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8263727139dbf5f3836e0f77e02d1b78"
+      },
+      "visakallo": null
     }
   }
 }
