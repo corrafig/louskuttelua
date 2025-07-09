@@ -2401,6 +2401,15 @@
                 "title": "roope ja kultapaunikko"
             }
         ],
+        "hermoheikko höynä": [
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
+            }
+        ],
         "hermosaha": [
             {
                 "character": "roope-setä",
@@ -6980,6 +6989,13 @@
                 "page": 25,
                 "publication": "aku ankan taskukirja",
                 "title": "rakkaat viholliset"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "ilmainen hölmö": [
@@ -7353,6 +7369,13 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "punaisen huoneen arvoitus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "irvileuka": [
@@ -9365,6 +9388,13 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "kelpoisa keikkakuski"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "kakkoslaadun kyylä": [
@@ -13438,6 +13468,13 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "huokea mainospala"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "230",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "puhelinpiina"
             }
         ],
         "kitupiikki höppänä": [
@@ -15085,6 +15122,15 @@
                 "page": 45,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankan mallikoulu"
+            }
+        ],
+        "kuriton kakara": [
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "kuriton nulikka": [
@@ -17013,6 +17059,20 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "viiman viemää"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "laiskiainen": [
@@ -18457,6 +18517,15 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "kultakuningas - toinen osa"
+            }
+        ],
+        "luolamies": [
+            {
+                "character": "aku ankka",
+                "issue": "230",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "loistava idea"
             }
         ],
         "luopio": [
@@ -20980,6 +21049,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "ujot liittolaiset"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "nappikalle": [
@@ -21544,6 +21620,15 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "roope-setä muissa maailmoissa"
+            }
+        ],
+        "nokinokka": [
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "nokkava nousukas": [
@@ -25228,6 +25313,15 @@
                 "title": "tuuliset paikat"
             }
         ],
+        "pikipelle": [
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
+            }
+        ],
         "pikku hirviö": [
             {
                 "character": "aku ankka",
@@ -25296,6 +25390,13 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "perijätär pulassa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "pikku tuhlari": [
@@ -27325,6 +27426,13 @@
                 "page": 32,
                 "publication": "aku ankan taskukirja",
                 "title": "oikukas onni"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "pönttö": [
@@ -28741,6 +28849,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "ankeksandrian majakka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "riiviö": [
@@ -31050,6 +31165,13 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "aprillia, aprillia"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "räkättävä loksunokka": [
@@ -34456,6 +34578,13 @@
                 "page": 37,
                 "publication": "aku ankan taskukirja",
                 "title": "taidetta ja rakkautta"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "pakahduttavia paineita"
             }
         ],
         "tohopää": [],
@@ -34520,6 +34649,15 @@
                 "page": 49,
                 "publication": "aku ankan taskukirja",
                 "title": "don aku ja zorron unelma"
+            }
+        ],
+        "toistaitoinen työnvieroksuja": [
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "toivoton hölösuu": [
@@ -34874,6 +35012,13 @@
                 "page": 27,
                 "publication": "aku ankan taskukirja",
                 "title": "tuhoisa aivastus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 48,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "tollo takkuparta": [
@@ -38945,6 +39090,15 @@
                 "title": "hirmuhyppääjän pako"
             }
         ],
+        "ukkorahja": [
+            {
+                "character": "roope-setä",
+                "issue": "229",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "killinkien kutsu"
+            }
+        ],
         "ukkorahjus": [
             {
                 "character": "roope-setä",
@@ -39489,6 +39643,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja babylonian linssit"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "uuvatti": [
@@ -42653,6 +42814,13 @@
                 "page": 11,
                 "publication": "aku ankan taskukirja",
                 "title": "ilkeä kierre"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "pakahduttavia paineita"
             }
         ],
         "vetelä visapää": [
@@ -43091,6 +43259,13 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "myyntikelvoton myyntimenestys"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "villipeto": [
@@ -43459,6 +43634,15 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "pikku ankkoja (ja isompiakin), osa 1"
+            }
+        ],
+        "visakallo": [
+            {
+                "character": "aku ankka",
+                "issue": "229",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "tuhkaa ja timantteja"
             }
         ],
         "visukinttu": [
