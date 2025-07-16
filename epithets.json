@@ -2444,6 +2444,15 @@
                 "title": "tuhkaa ja timantteja"
             }
         ],
+        "hermokimppu": [
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
+            }
+        ],
         "hermosaha": [
             {
                 "character": "roope-setä",
@@ -7067,6 +7076,13 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "tuhkaa ja timantteja"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "231",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "rytinää turistirysässä"
             }
         ],
         "ilmainen hölmö": [
@@ -8734,6 +8750,13 @@
                 "page": 9,
                 "publication": "aku ankan taskukirja",
                 "title": "nousevan auringon maa"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "jässi": [
@@ -12509,6 +12532,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "kulkuri"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "kirppumytty": [
@@ -13602,6 +13632,13 @@
                 "page": 43,
                 "publication": "aku ankan taskukirja",
                 "title": "järjen valo"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "231",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "ruma temppu"
             }
         ],
         "kitupiikki höppänä": [
@@ -13868,6 +13905,13 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "järjen valo"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "kivennuoliainen": [
@@ -16539,6 +16583,13 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "uuja"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "231",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "ruma temppu"
             }
         ],
         "kääkkänä": [
@@ -18302,6 +18353,13 @@
                 "page": 42,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja babylonian linssit"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "härkäpäät ja apinanraivot"
             }
         ],
         "lipevä hujoppi": [
@@ -19276,6 +19334,15 @@
                 "page": 53,
                 "publication": "aku ankan taskukirja",
                 "title": "ankkanicin nosto"
+            }
+        ],
+        "länkkäripelle": [
+            {
+                "character": "aku ankka",
+                "issue": "231",
+                "page": 41,
+                "publication": "aku ankan taskukirja",
+                "title": "rytinää turistirysässä"
             }
         ],
         "läski": [
@@ -21384,6 +21451,13 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "mallilentäjä"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "nassikka": [
@@ -22010,6 +22084,15 @@
                 "page": 38,
                 "publication": "aku ankan taskukirja",
                 "title": "eskimokuninkaan aarre"
+            }
+        ],
+        "nuhjake": [
+            {
+                "character": "aku ankka",
+                "issue": "231",
+                "page": 58,
+                "publication": "aku ankan taskukirja",
+                "title": "rytinää turistirysässä"
             }
         ],
         "nuija": [
@@ -27657,6 +27740,13 @@
                 "page": 42,
                 "publication": "aku ankan taskukirja",
                 "title": "tuhkaa ja timantteja"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "pönttö": [
@@ -28117,6 +28207,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "karhukopla lainvartijoina"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "raivohullu katti": [
@@ -31197,6 +31294,13 @@
                 "page": 1,
                 "publication": "aku ankan taskukirja",
                 "title": "ankka ja gorilla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "syntymäpäivätoivomus"
             }
         ],
         "ryöstäjä": [
@@ -31660,6 +31764,13 @@
                 "page": 9,
                 "publication": "aku ankan taskukirja",
                 "title": "turbo-ankka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "syntymäpäivätoivomus"
             }
         ],
         "rääväsuinen kakara": [
@@ -32329,6 +32440,13 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "veroparatiisi"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "saksigangsteri": [
@@ -36049,6 +36167,13 @@
                 "page": 28,
                 "publication": "aku ankan taskukirja",
                 "title": "painovoimavyöt"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "torakka": [
@@ -36377,6 +36502,13 @@
                 "page": 17,
                 "publication": "aku ankan taskukirja",
                 "title": "mahtava dynamo"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "tosikko": [
@@ -37018,6 +37150,20 @@
                 "page": 37,
                 "publication": "aku ankan taskukirja",
                 "title": "rosvo-roope"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "231",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "rytinää turistirysässä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "231",
+                "page": 50,
+                "publication": "aku ankan taskukirja",
+                "title": "rytinää turistirysässä"
             }
         ],
         "tunarin tunari": [
@@ -38368,6 +38514,13 @@
                 "page": 28,
                 "publication": "aku ankan taskukirja",
                 "title": "unetonna ankkalinnassa"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "typerä elukka": [
@@ -38818,6 +38971,15 @@
                 "page": 17,
                 "publication": "aku ankan taskukirja",
                 "title": "taikaviitta ja kuunsädekulkuri"
+            }
+        ],
+        "täysi tomppeli": [
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "syntymäpäivätoivomus"
             }
         ],
         "täysi torvi": [
@@ -39285,6 +39447,20 @@
                 "page": 36,
                 "publication": "aku ankan taskukirja",
                 "title": "perijätär pulassa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "231",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "ruma temppu"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "231",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "rytinää turistirysässä"
             }
         ],
         "törpöin tumpelo": [],
@@ -39352,6 +39528,15 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "pallokoulu kiertueella, toinen puoliaika"
+            }
+        ],
+        "töykimys": [
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "uikku": [
@@ -41527,6 +41712,15 @@
                 "title": "mesotsooinen aikarepeämä"
             }
         ],
+        "vanha raakki": [
+            {
+                "character": "roope-setä",
+                "issue": "231",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "ruma temppu"
+            }
+        ],
         "vanha raharössi": [
             {
                 "character": "aku ankka",
@@ -41902,6 +42096,13 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "masalian tiikeri"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "vanha verkanuttu": [
@@ -45547,6 +45748,13 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "ilmaan haihtuvat kalleudet"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "syntymäpäivätoivomus"
             }
         ],
         "ääntelevä höyhenpussi": [
@@ -45712,6 +45920,13 @@
                 "page": 27,
                 "publication": "aku ankan taskukirja",
                 "title": "ilmaan haihtuvat kalleudet"
+            },
+            {
+                "character": "pelle peloton",
+                "issue": "232",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "vaikea luonne"
             }
         ],
         "öykkärimäinen hevoshuijari": [
@@ -45721,6 +45936,15 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "vakooja"
+            }
+        ],
+        "öykkäröijä": [
+            {
+                "character": "aku ankka",
+                "issue": "231",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "rytinää turistirysässä"
             }
         ]
     }
