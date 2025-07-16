@@ -17031,6 +17031,57 @@
       "arri": null,
       "viittan": null,
       "viittanarri": null
+    },
+    "hermokimppu": {
+      "hermo": {
+        "definition": "hermosäie, hermosto; side, jänne; voima, jäntevyys, tarmo; voimaton, veltto; reen paju",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d51b9cb72356c160940a36bb47b64608"
+      },
+      "hermokimppu": null,
+      "kimppu": {
+        "definition": "nippu, tukku; lyhde",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b5dddff8cdefef81f9ff930437995e75"
+      }
+    },
+    "länkkäripelle": {
+      "länkkäri": null,
+      "länkkäripelle": null,
+      "pelle": {
+        "definition": "leikinlaskija, veitikka; klovni",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a64bc292376c3b0604875d78835696fb"
+      }
+    },
+    "nuhjake": {
+      "nuhjake": {
+        "definition": "saamaton, nahjus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_767fd53ef31f6231876affccc38162c2"
+      }
+    },
+    "täysi tomppeli": {
+      "tomppeli": {
+        "definition": "pölvästi, tyhmyri",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_28a66adab20494aa2bdaa84f440d81f5"
+      },
+      "täysi": {
+        "definition": "täysinäinen, kokonainen, täydellinen, totaalinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3d9f7b5f1c099c6f56c298cfd1128a06"
+      }
+    },
+    "töykimys": {
+      "töykimys": null
+    },
+    "vanha raakki": {
+      "raakki": {
+        "definition": "laivan hylky; hylätty, kelpaamaton (ihminen tai esine)",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6ef8348b4f1f099df458921eacd55538"
+      },
+      "vanha": {
+        "definition": "iäkäs; pitkään olemassa ollut; entinen; muinainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b1bb221ce9a401a68be752ed4b51f96f"
+      }
+    },
+    "öykkäröijä": {
+      "öykkäröijä": null
     }
   }
 }
