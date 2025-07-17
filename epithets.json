@@ -497,6 +497,15 @@
                 "title": "tsaarin kuriiri"
             }
         ],
+        "aivoton apina": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 41,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            }
+        ],
         "aivoton hyypiö": [
             {
                 "character": "aku ankka",
@@ -735,6 +744,15 @@
                 "page": 1,
                 "publication": "aku ankan taskukirja",
                 "title": "sunnuntai kalassa"
+            }
+        ],
+        "ankankäppänä": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "ankannatikka": [
@@ -1042,6 +1060,13 @@
                 "page": 26,
                 "publication": "aku ankan taskukirja",
                 "title": "väärinymmärretty taiteilija"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "bluffari": [
@@ -4007,6 +4032,13 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "sota ja rauha"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 49,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "hulttio! Huijari! Puliveivari!": [
@@ -4440,6 +4472,13 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "kelkkailevat kilpakosijat"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "täydellinen arkkitehti"
             }
         ],
         "hyväuskoinen houkka": [
@@ -5356,6 +5395,13 @@
                 "page": 17,
                 "publication": "aku ankan taskukirja",
                 "title": "ihmemaa dos"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "hölmö koheltaja": [
@@ -8826,6 +8872,13 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "lumipiiras"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "taikatrio"
             }
         ],
         "jäyhäpää": [
@@ -9505,6 +9558,15 @@
                 "title": "tuhkaa ja timantteja"
             }
         ],
+        "kakarakaappari": [
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
+            }
+        ],
         "kakkoslaadun kyylä": [
             {
                 "character": "aku ankka",
@@ -9582,6 +9644,15 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "vuosisadan vaalitaisto, osa 3"
+            }
+        ],
+        "kaksinaamainen takinkääntäjä": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "kalkkarokäärme": [
@@ -11296,6 +11367,13 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "uuja"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "täydellinen arkkitehti"
             }
         ],
         "kelvoton ankanvetelys": [
@@ -11449,6 +11527,15 @@
                 "page": 1,
                 "publication": "aku ankan taskukirja",
                 "title": "mies naamion takana, osa 2"
+            }
+        ],
+        "kelvoton takkutukka": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 41,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "kelvoton tolvana": [],
@@ -11944,6 +12031,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "järjen valo"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "ketvele": [
@@ -12297,6 +12391,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "reilu tasajako"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
             }
         ],
         "kiljukurki": [
@@ -13912,6 +14013,13 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "vaikea luonne"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "kivennuoliainen": [
@@ -15196,6 +15304,15 @@
             }
         ],
         "kumipää": [],
+        "kunniaton ketku": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            }
+        ],
         "kunniaton koira": [
             {
                 "character": "aku ankka",
@@ -15985,6 +16102,20 @@
                 "page": 36,
                 "publication": "aku ankan taskukirja",
                 "title": "vuoren silmä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "taikatrio"
             }
         ],
         "kurttuinen korppikotka": [
@@ -16259,6 +16390,13 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "velholotto"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "taikatrio"
             }
         ],
         "käppärä": [
@@ -16590,6 +16728,27 @@
                 "page": 30,
                 "publication": "aku ankan taskukirja",
                 "title": "ruma temppu"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "kääkkänä": [
@@ -17906,6 +18065,15 @@
                 "title": "konnankoukkuja koplalle"
             }
         ],
+        "lapsenpieksäjä": [
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
+            }
+        ],
         "laskelmoiva kutmu": [
             {
                 "character": "roope-setä",
@@ -18250,6 +18418,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "nousevan auringon maa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "tiskarin polkka"
             }
         ],
         "liero luikurin laskettelija": [],
@@ -19432,6 +19607,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "milanon herttua"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
             }
         ],
         "lättänokka": [
@@ -20486,6 +20668,13 @@
                 "page": 27,
                 "publication": "aku ankan taskukirja",
                 "title": "ilmaan haihtuvat kalleudet"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "muinaisjäänne": [
@@ -21712,6 +21901,13 @@
                 "page": 11,
                 "publication": "aku ankan taskukirja",
                 "title": "capitoliumin ankattaret"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "nilviäinen": [
@@ -22350,6 +22546,13 @@
                 "page": 64,
                 "publication": "aku ankan taskukirja",
                 "title": "viiman viemää"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "nylkyri": [
@@ -22431,6 +22634,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "turbo-ankka"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "nynny": [
@@ -22566,6 +22776,29 @@
                 "page": 42,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ja ravut punaviinissä"
+            }
+        ],
+        "nössö": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "omahyväinen hyypiö": [
@@ -23031,6 +23264,15 @@
                 "page": 39,
                 "publication": "aku ankan taskukirja",
                 "title": "milanon herttua"
+            }
+        ],
+        "paatunut kelmi": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 47,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "paatunut kuokkavieras": [
@@ -23743,6 +23985,15 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "jokapaikanhöylä"
+            }
+        ],
+        "patalaiska hulttio": [
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "tiskarin polkka"
             }
         ],
         "patalaiska nahjus": [
@@ -27512,6 +27763,13 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "luottamus huipussaan"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
             }
         ],
         "pöllöpää": [
@@ -28050,6 +28308,13 @@
                 "page": 29,
                 "publication": "aku ankan taskukirja",
                 "title": "morgatin kahdet kasvot"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
             }
         ],
         "raakkuja": [
@@ -28880,6 +29145,13 @@
                 "page": 39,
                 "publication": "aku ankan taskukirja",
                 "title": "astraaliankka"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "rettelöitsijä": [
@@ -29440,6 +29712,27 @@
                 "page": 11,
                 "publication": "aku ankan taskukirja",
                 "title": "kadonnut laakso"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "kaikenkarvaiset ystävämme"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "tiskarin polkka"
             }
         ],
         "rikas tomppeli": [
@@ -30641,6 +30934,13 @@
                 "page": 36,
                 "publication": "aku ankan taskukirja",
                 "title": "nousevan auringon maa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "ruikuttaja": [
@@ -30650,6 +30950,15 @@
                 "page": 7,
                 "publication": "aku ankan taskukirja",
                 "title": "erilainen loma"
+            }
+        ],
+        "ruikuttava rääpäle": [
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "tiskarin polkka"
             }
         ],
         "ruipeloankka": [
@@ -30938,6 +31247,13 @@
                 "page": 11,
                 "publication": "aku ankan taskukirja",
                 "title": "sählivät sokerileipurit"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 46,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "ruosteinen säilykepurkki": [
@@ -32608,6 +32924,15 @@
                 "title": "akun unelmia rikkaudesta"
             }
         ],
+        "sekopäinen suuruudenhullu": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            }
+        ],
         "sekopää": [
             {
                 "character": "taikaviitta",
@@ -33352,6 +33677,15 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "taru joulupullasta"
+            }
+        ],
+        "sovinisti": [
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
             }
         ],
         "sovinistisika": [
@@ -34591,6 +34925,15 @@
                 "title": "heikko esitys"
             }
         ],
+        "tekopyhä nynny": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            }
+        ],
         "telkkä": [
             {
                 "character": "roope-setä",
@@ -35437,6 +35780,20 @@
                 "page": 30,
                 "publication": "aku ankan taskukirja",
                 "title": "luottamus huipussaan"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 37,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "tollo takkuparta": [
@@ -36174,6 +36531,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "vaikea luonne"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
             }
         ],
         "torakka": [
@@ -36509,6 +36873,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "vaikea luonne"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "tosikko": [
@@ -40104,6 +40475,15 @@
                 "title": "kelmien saari"
             }
         ],
+        "urpo": [
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
+            }
+        ],
         "urvelo": [
             {
                 "character": "roope-setä",
@@ -40620,6 +41000,15 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "juokse porosein"
+            }
+        ],
+        "vanha haahka": [
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
             }
         ],
         "vanha hapankurkku": [
@@ -43394,6 +43783,13 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "ruma temppu"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "tiskarin polkka"
             }
         ],
         "vetelä visapää": [
@@ -44429,6 +44825,15 @@
                 "title": "kyllä onkimaan oppii"
             }
         ],
+        "voimaton vikisijä": [
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "tiskarin polkka"
+            }
+        ],
         "voitonkiskoja": [
             {
                 "character": "roope-setä",
@@ -45288,6 +45693,13 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "loistava idea"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "232",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "laupias samarialainen"
             }
         ],
         "älypää": [
@@ -45755,6 +46167,27 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "syntymäpäivätoivomus"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "233",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "kaikenkarvaiset ystävämme"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "233",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "tiskarin polkka"
             }
         ],
         "ääntelevä höyhenpussi": [
