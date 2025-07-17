@@ -17082,6 +17082,149 @@
     },
     "öykkäröijä": {
       "öykkäröijä": null
+    },
+    "aivoton apina": {
+      "aivoton": null,
+      "apina": {
+        "definition": "#apinat# ’kädellisten nisäkkäiden eräs alalahko’",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_eaedd111d63375c73c14f5dc449e7344"
+      }
+    },
+    "ankankäppänä": {
+      "ankan": null,
+      "ankankäppänä": null,
+      "käppänä": null
+    },
+    "kakarakaappari": {
+      "kaappari": {
+        "definition": "kaapparilaiva tai kaapparilaivuri; kaappaaja, ryöstäjä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_aa852ea17dcbfb04612862078572f026"
+      },
+      "kakara": {
+        "definition": "(halventavasti lapsesta:) äpärä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e78ebaa7080e6c49e6576e6d1ab2a1ca"
+      },
+      "kakarakaappari": null
+    },
+    "kaksinaamainen takinkääntäjä": {
+      "kaksinaa": null,
+      "kaksinaamainen": null,
+      "kääntäjä": {
+        "definition": "kielenkääntäjä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b76c2a20688cafe9cb3e71dc404a2fda"
+      },
+      "mainen": {
+        "definition": "maallinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_05a2361d8ed4d6f053521a022de16bb6"
+      },
+      "takin": null,
+      "takinkääntäjä": null
+    },
+    "kelvoton takkutukka": {
+      "kelvoton": {
+        "definition": "johonkin kelpaamaton; huono, kehno, mitätön; alhainen, katala",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7de68d93d14ea86d158ab23b185c1608"
+      },
+      "takkutukka": null
+    },
+    "kunniaton ketku": {
+      "ketku": null,
+      "kunniaton": null
+    },
+    "lapsenpieksäjä": {
+      "eksäjä": null,
+      "lapsenpi": null,
+      "lapsenpieksäjä": null
+    },
+    "nössö": {
+      "nössö": {
+        "definition": "nahjus, nynny, nörtti",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_437b7d9f6274b77bc9d343be71e5f7b4"
+      }
+    },
+    "paatunut kelmi": {
+      "kelmi": {
+        "definition": "veijari, konna; kansalaisluottamusta vailla oleva",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7f87b5282b32dd73498031129947002e"
+      },
+      "paatunut": null
+    },
+    "patalaiska hulttio": {
+      "hulttio": {
+        "definition": "laiskuri, hylkiö, kelvoton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3262d2a3d45058f1193738404f9b2be1"
+      },
+      "patalaiska": {
+        "definition": "erittäin laiska",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d8bbe7e0f597bdc20ea9e2165111aeeb"
+      }
+    },
+    "ruikuttava rääpäle": {
+      "päle": null,
+      "ruikuttava": null,
+      "rää": null,
+      "rääpäle": {
+        "definition": "rätti, ryysy, repale; kitukasvuinen, surkea, kykenemätön ihminen tai eläin",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_14368b025a76aba0142183071c8b44ac"
+      }
+    },
+    "sekopäinen suuruudenhullu": {
+      "hullu": {
+        "definition": "järjetön, älytön, mieleltään sairas; hölmö, tyhmä; hassu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b09204e0009ff4cd8644e00d85293c84"
+      },
+      "päinen": null,
+      "seko": null,
+      "sekopäinen": null,
+      "suuruuden": null,
+      "suuruudenhullu": null
+    },
+    "sovinisti": {
+      "sovinisti": {
+        "definition": "sovinistisesti käyttäytyvä tai ajatteleva; sovinismin kannattaja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_29228d1439684321dffee5744fc41c84"
+      }
+    },
+    "tekopyhä nynny": {
+      "nynny": {
+        "definition": "saamaton, nahjus; ujo, arka; tyhmä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_815f35712da0b9b6ff4fac9fe7aea258"
+      },
+      "pyhä": {
+        "definition": "maallisen yläpuolella oleva; pyhimys; pyhäpäivä, sunnuntai; eristetty, aidattu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_be68814a731345f03141b7d859188804"
+      },
+      "teko": {
+        "definition": "tekeminen, tekemisen tulos",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_79fec11cb45accaf0150043b1a17a21b"
+      },
+      "tekopyhä": {
+        "definition": "tekohurskas; vilpillinen, teeskentelevä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_65e4e81cd995e68f301f6a84ba2e5c78"
+      }
+    },
+    "urpo": {
+      "urpo": {
+        "definition": "lehtipuun kukinto, norkko; silmu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_86f87476ecf9e010a8aa5f900e6cd2ba"
+      }
+    },
+    "vanha haahka": {
+      "haahka": {
+        "definition": "Somateria mollissima",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_988bd4c1f6bb4cbbba6816d2aefa5bad"
+      },
+      "vanha": {
+        "definition": "iäkäs; pitkään olemassa ollut; entinen; muinainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b1bb221ce9a401a68be752ed4b51f96f"
+      }
+    },
+    "voimaton vikisijä": {
+      "vikisijä": null,
+      "voimaton": {
+        "definition": "jolta tai josta puuttuu voima(a), heikko; avuton, kykenemätön",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9903824b1edf1260614d4d5f83431012"
+      }
     }
   }
 }
