@@ -3801,6 +3801,13 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "mene kotiin, aku!"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "huiputtaja": [
@@ -4555,6 +4562,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "täydellinen arkkitehti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "236",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "ässä hihassa"
             }
         ],
         "hyväuskoinen houkka": [
@@ -5485,6 +5499,13 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "soluttautuja"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "hölmö koheltaja": [
@@ -5634,6 +5655,13 @@
                 "page": 11,
                 "publication": "aku ankan taskukirja",
                 "title": "tunneli kanaalin alitse"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "hömelö harrastelijamekaanikko": [
@@ -6201,6 +6229,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "raivoisa rottamies"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "ihmeukkeli": [
@@ -8907,6 +8942,13 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "arktista hysteriaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "ufojen linna"
             }
         ],
         "jässi": [
@@ -9403,6 +9445,13 @@
                 "page": 32,
                 "publication": "aku ankan taskukirja",
                 "title": "astraaliankka"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "kahju": [
@@ -11487,6 +11536,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "täydellinen arkkitehti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "236",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "ässä hihassa"
             }
         ],
         "kelvoton ankanvetelys": [
@@ -13860,6 +13916,20 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "numerohai riitta"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "taivaankannen tallustaja"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "kitupiikki höppänä": [
@@ -17427,6 +17497,13 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "kuinka äkäpussi kesytetään"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "laiskajalli": [
@@ -18270,6 +18347,15 @@
                 "page": 22,
                 "publication": "aku ankan taskukirja",
                 "title": "sheikin lahja"
+            }
+        ],
+        "latkakakkonen": [
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "lattajalkainen untuvikko": [
@@ -20070,6 +20156,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "veri vetää merille"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "236",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "ässä hihassa"
             }
         ],
         "maalaistomppeli": [
@@ -20104,6 +20197,22 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "vuoden autoilija"
+            }
+        ],
+        "maantiepiraatti": [
+            {
+                "character": "aku ankka",
+                "issue": "236",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "ässä hihassa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "236",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "ässä hihassa"
             }
         ],
         "maanvaiva": [
@@ -21385,6 +21494,13 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "perintö kiikarissa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "mätäpaise": [
@@ -27653,6 +27769,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "kylmät kuvasarjat"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "236",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "ässä hihassa"
             }
         ],
         "pölhökustaa": [
@@ -33075,6 +33198,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "vaikea luonne"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 41,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "saksigangsteri": [
@@ -34200,6 +34330,15 @@
                 "title": "kaupunki nimeltä ankkalinna"
             }
         ],
+        "sunnuntaikuski": [
+            {
+                "character": "aku ankka",
+                "issue": "236",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "ässä hihassa"
+            }
+        ],
         "sunnuntaimaagikko": [
             {
                 "character": "roope-setä",
@@ -35247,6 +35386,13 @@
                 "page": 29,
                 "publication": "aku ankan taskukirja",
                 "title": "kolarinukke"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "236",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "kadonnutta aikaa etsimässä"
             }
         ],
         "tavallinen junttieinari": [
@@ -40856,6 +41002,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "kuinka äkäpussi kesytetään"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "uninen ukon horisko": [
@@ -45711,6 +45864,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "kuinka äkäpussi kesytetään"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "vätyssetä": [
@@ -46725,6 +46885,13 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "ehtoja elämyksiä"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "236",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "uniongelmia"
             }
         ],
         "ääntelevä höyhenpussi": [
