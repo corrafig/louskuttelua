@@ -17365,6 +17365,37 @@
       },
       "pölyhuiskankorvike": null,
       "virttynyt": null
+    },
+    "latkakakkonen": {
+      "kakkonen": {
+        "definition": "kahden numero;  paremmuusjärjestyksessä toinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9dbdf1a5e9bcffd2b78053f221d10cb7"
+      },
+      "latka": null,
+      "latkakakkonen": null
+    },
+    "maantiepiraatti": {
+      "maan": null,
+      "maantiepiraatti": null,
+      "piraatti": {
+        "definition": "merirosvo; äänitteitä, videoelokuvia, merkkituotteita tms. laittomasti kopioiva, valmistava ja levittävä henkilö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6a64088aabda8002fda61117766ef797"
+      },
+      "tie": {
+        "definition": "maastoon kulkureitille muodostunut tai varsinkin liikennettä varten rakennettu väylä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_bd352c8df49c325dd22ad8867e6ef874"
+      }
+    },
+    "sunnuntaikuski": {
+      "kuski": {
+        "definition": "kuljettaja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_06198178c707b049e2ad915f29c7b7a4"
+      },
+      "sunnuntai": {
+        "definition": "viikon viimeinen päivä, joka on kristillisissä kirkoissa pyhäpäivä ja useimmissa maissa lepopäivä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d20c98b7acf8f58df45939cdc8d389da"
+      },
+      "sunnuntaikuski": null
     }
   }
 }
