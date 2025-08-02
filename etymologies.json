@@ -17396,6 +17396,58 @@
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d20c98b7acf8f58df45939cdc8d389da"
       },
       "sunnuntaikuski": null
+    },
+    "ikuinen itarus": {
+      "ikuinen": {
+        "definition": "ainainen, iäinen, iankaikkinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3902f7c045469e51e68b5dddd730dc04"
+      },
+      "itarus": null
+    },
+    "liimanäppinen luikuri": {
+      "liiman": null,
+      "liimanäppinen": null,
+      "luikuri": {
+        "definition": "vale, pötypuhe",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_042e19a6a32a6534413bfd32c61c9816"
+      },
+      "äppinen": null
+    },
+    "ruutupelle": {
+      "pelle": {
+        "definition": "leikinlaskija, veitikka; klovni",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a64bc292376c3b0604875d78835696fb"
+      },
+      "ruutu": {
+        "definition": "pinnan osana oleva nelikulmio; (korttipeleissä:) maa jonka tunnus on punainen kärjellään seisova vinoneliö, tämän maan kortti",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_14739ce138b3f402680d5d621495cc1b"
+      },
+      "ruutupelle": null
+    },
+    "surkuteltava hylkiö": {
+      "hylkiö": {
+        "definition": "hyljeksitty, heitteille jätetty (olio tai esine); heittiö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ca322914a35135e990f6c84fe0b3ca2e"
+      },
+      "surkuteltava": null
+    },
+    "täysin tarpeeton nahjus": {
+      "nahjus": {
+        "definition": "hidas, saamaton, tahdoton ihminen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_95cac46b34a59055dc346ce9a64a3c19"
+      },
+      "tarpeeton": {
+        "definition": "jolla ei ole käyttöä, turha, joutava; aiheeton, asiaton, perusteeton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f1c3edfdc40fe12c0e7c55cd7fc9fde8"
+      },
+      "täysin": null
+    },
+    "vähä-älyinen pösilö": {
+      "pösilö": {
+        "definition": "tyhmä, yksinkertainen, typerä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_09a38037579bc9f456b44665d033e056"
+      },
+      "vähä-älyinen": null
     }
   }
 }
