@@ -2394,6 +2394,22 @@
                 "title": "järjen valo"
             }
         ],
+        "heitukka": [
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
+            }
+        ],
         "helppoheikki": [
             {
                 "character": "roope-setä",
@@ -3236,6 +3252,20 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "ehtoja elämyksiä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 59,
+                "publication": "aku ankan taskukirja",
+                "title": "paluu tulikiven valtakuntaan"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "millenniummullistus"
             }
         ],
         "houkkio": [
@@ -5527,6 +5557,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "uniongelmia"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "hölmö koheltaja": [
@@ -6076,6 +6113,15 @@
                 "page": 1,
                 "publication": "aku ankan taskukirja",
                 "title": "nousevan auringon maa"
+            }
+        ],
+        "höyhenpeijooni": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "millenniummullistus"
             }
         ],
         "höyhenpukuinen mitättömyys": [
@@ -7452,6 +7498,15 @@
                 "page": 7,
                 "publication": "aku ankan taskukirja",
                 "title": "ankkalinnan kassakriisi - 1. osa"
+            }
+        ],
+        "imbesilli": [
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "infantiili iiskotti": [
@@ -13981,6 +14036,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "uniongelmia"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "237",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "salainen veljeskunta"
             }
         ],
         "kitupiikki höppänä": [
@@ -14268,6 +14330,13 @@
                 "page": 42,
                 "publication": "aku ankan taskukirja",
                 "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "kivennuoliainen": [
@@ -14399,6 +14468,15 @@
                 "page": 40,
                 "publication": "aku ankan taskukirja",
                 "title": "kolarinukke"
+            }
+        ],
+        "kohelo kääkkänä": [
+            {
+                "character": "roope-setä",
+                "issue": "238",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "kovan onnen okku"
             }
         ],
         "koheltaja": [
@@ -15368,6 +15446,15 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "avulias aatu"
+            }
+        ],
+        "kuhno": [
+            {
+                "character": "taikaviitta",
+                "issue": "237",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "kilpavarustelijat"
             }
         ],
         "kuhnuri": [
@@ -16565,6 +16652,15 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "lumileikit"
+            }
+        ],
+        "kyvytön hölmö": [
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "kyylä": [
@@ -21573,6 +21669,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "vuosisadan vaalitaisto, osa 4"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "millenniummullistus"
             }
         ],
         "mätämuna": [
@@ -23016,6 +23119,13 @@
                 "page": 28,
                 "publication": "aku ankan taskukirja",
                 "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "nylkyri": [
@@ -24007,6 +24117,13 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "ylätasangon huilutanssija"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "238",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "kovan onnen okku"
             }
         ],
         "pahankurinen kakara": [
@@ -26416,6 +26533,15 @@
                 "page": 34,
                 "publication": "aku ankan taskukirja",
                 "title": "pelle peloton suvaitsee pilailla"
+            }
+        ],
+        "pikku nynny": [
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "pikku peltiheikki": [
@@ -30044,6 +30170,13 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "kuinka äkäpussi kesytetään"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "riiviö": [
@@ -31189,6 +31322,15 @@
                 "title": "enemmän suolaa"
             }
         ],
+        "roskaväki": [
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
+            }
+        ],
         "rosmo": [
             {
                 "character": "roope-setä",
@@ -31840,6 +31982,13 @@
                 "page": 46,
                 "publication": "aku ankan taskukirja",
                 "title": "tyrmäävä herra tasanen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "237",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "salainen veljeskunta"
             }
         ],
         "ruosteinen säilykepurkki": [
@@ -35764,6 +35913,15 @@
                 "title": "ei oppi ojaan kaada"
             }
         ],
+        "tietotekniikkatumpelo": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "millenniummullistus"
+            }
+        ],
         "tietämätön moukka": [
             {
                 "character": "roope-setä",
@@ -36072,6 +36230,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "pakahduttavia paineita"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "paluu tulikiven valtakuntaan"
             }
         ],
         "tohopää": [],
@@ -36555,6 +36720,20 @@
                 "page": 26,
                 "publication": "aku ankan taskukirja",
                 "title": "tietopallo"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "tollo takkuparta": [
@@ -37655,6 +37834,13 @@
                 "page": 22,
                 "publication": "aku ankan taskukirja",
                 "title": "soluttautuja"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "paluu tulikiven valtakuntaan"
             }
         ],
         "tosikko": [
@@ -37999,6 +38185,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "taru joulupullasta"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "tuhopolttaja": [
@@ -38095,6 +38288,20 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "mallilentäjä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "237",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "kilpavarustelijat"
             }
         ],
         "tumpula": [
@@ -39695,6 +39902,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "vaikea luonne"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "typerä elukka": [
@@ -41793,6 +42007,13 @@
                 "page": 30,
                 "publication": "aku ankan taskukirja",
                 "title": "ansa vuoristossa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "237",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "salainen veljeskunta"
             }
         ],
         "vandaali": [
@@ -44984,6 +45205,15 @@
                 "title": "rahakuume"
             }
         ],
+        "viirupää": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "millenniummullistus"
+            }
+        ],
         "viisastelija": [
             {
                 "character": "aku ankka",
@@ -45873,6 +46103,15 @@
                 "title": "kloonikvintetti"
             }
         ],
+        "vähäjärkinen houkka": [
+            {
+                "character": "taikaviitta",
+                "issue": "237",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "kilpavarustelijat"
+            }
+        ],
         "vähäverinen vastarannankiiski": [
             {
                 "character": "taikaviitta",
@@ -46344,6 +46583,15 @@
                 "page": 25,
                 "publication": "aku ankan taskukirja",
                 "title": "kuin kastanjat pannulla"
+            }
+        ],
+        "äitihirviö": [
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "äkkirikas": [
@@ -47142,6 +47390,20 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "kloonikvintetti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "237",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "wolfgang van mozhovenin vapautus"
             }
         ],
         "ääntelevä höyhenpussi": [
