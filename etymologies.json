@@ -17448,6 +17448,108 @@
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_09a38037579bc9f456b44665d033e056"
       },
       "vähä-älyinen": null
+    },
+    "heitukka": {
+      "heitukka": null
+    },
+    "höyhenpeijooni": {
+      "höyhen": {
+        "definition": "lintujen ihoa joka puolelta peittävät sarveismuodostumat, joissa on ruoto ja siihen kiinnittyvät höydyt",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_94b486704b5c5ab64b16fef8c46984ea"
+      },
+      "höyhenpeijooni": null,
+      "jooni": null,
+      "pei": null
+    },
+    "imbesilli": {
+      "imbe": null,
+      "imbesilli": {
+        "definition": "keskivaikeasti kehitysvammainen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_713e79aba9e64fdafca744c2e8668199"
+      },
+      "silli": {
+        "definition": "talouskalana tärkeimpiä sillikaloja, varsinkin eräs Pohjois-Atlantissa elävä laji; muikku",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_2a386cd41dab52c0f5dc88ce5870ac3f"
+      }
+    },
+    "kohelo kääkkänä": {
+      "kohelo": {
+        "definition": "hauras, huokoinen, kuohkea, ilmava; hölmö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f6082ba2d089bf82cb86d2fccf8b87f9"
+      },
+      "kääkkänä": {
+        "definition": "kääkkä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5cab5cbf11f8aa694c58f8c45e52c583"
+      }
+    },
+    "kuhno": {
+      "kuhno": null
+    },
+    "kyvytön hölmö": {
+      "hölmö": {
+        "definition": "typerä, tyhmyri",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_fdd08c6fadbc444191fc04e52181824c"
+      },
+      "kyvytön": null
+    },
+    "pikku nynny": {
+      "nynny": {
+        "definition": "saamaton, nahjus; ujo, arka; tyhmä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_815f35712da0b9b6ff4fac9fe7aea258"
+      },
+      "pikku": {
+        "definition": "pieni",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7f1d90e10f3f6c54859a35fec79ba0ec"
+      }
+    },
+    "roskaväki": {
+      "roska": {
+        "definition": "rikka; rikkaruoho; perkausjäte, kariste; #roskat# ’kapineet, (työ-, huone)kalut, valjaat; (lehmän) jälkeiset’",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_26c33110d461c6b9ecd77c0c33684ca3"
+      },
+      "roskaväki": null,
+      "väki": {
+        "definition": "talon asukkaat; palveluskunta; ihmisjoukko, ihmiset, kansa; voima",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_851c45d6d028d4ccc87eaf3698a6347e"
+      }
+    },
+    "tietotekniikkatumpelo": {
+      "tekniikkat": null,
+      "tieto": {
+        "definition": "tietäminen; informaatio; ilmoitus, viesti, uutinen; opintojen tms. avulla hankittu tietämys, tietous, oppi",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_669a773d2cfa91b8bd0267f7a5cc299b"
+      },
+      "tietotekniikkatumpelo": null,
+      "umpelo": null
+    },
+    "viirupää": {
+      "pää": {
+        "definition": "ihmisellä ja useimmilla eläimillä (kaulan välityksellä) vartaloon liittyvä ruumiin (ylä- tai etu)osa; alku- tai loppukohta",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_46583afd7c5b8d5186e152d233727a5c"
+      },
+      "viiru": {
+        "definition": "viiva, juova, juomu, raita",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ae917513f9768395f8ace4c979dfb974"
+      },
+      "viirupää": null
+    },
+    "vähäjärkinen houkka": {
+      "houkka": {
+        "definition": "hullu, hupakko, tyhmä, tomppeli, hassu, narri",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e2698e4e5ebd79c4678785184f64a62c"
+      },
+      "vähäjärkinen": null
+    },
+    "äitihirviö": {
+      "hirviö": {
+        "definition": "hirveä, pelottava, kauhistuttava, luonnoton olento tms., monstrumi",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e7e7a8f0b5a82bf4e2e882ea267efc07"
+      },
+      "äiti": {
+        "definition": "nainen suhteessa lapseensa tai lapsiinsa",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9dc868154124f86947b48877591e5a57"
+      },
+      "äitihirviö": null
     }
   }
 }
