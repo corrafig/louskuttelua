@@ -378,6 +378,15 @@
                 "title": "kammottava kultasyöppö"
             }
         ],
+        "ahnehtija": [
+            {
+                "character": "roope-setä",
+                "issue": "238",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "kultasaari ja musta perjantai"
+            }
+        ],
         "ahnuri": [
             {
                 "character": "aku ankka",
@@ -567,6 +576,15 @@
                 "page": 7,
                 "publication": "aku ankan taskukirja",
                 "title": "n.a.m. saa kilpailijan"
+            }
+        ],
+        "alhainen anarkisti": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "alhainen ankanryöstäjä": [
@@ -1525,6 +1543,15 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "rakennemuutoksen kourissa"
+            }
+        ],
+        "epäkelpo torvelo": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "epäkunnioittava riiviö": [
@@ -4097,6 +4124,15 @@
                 "title": "saturnuksen valtias"
             }
         ],
+        "hullu maantiesorsa": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
+            }
+        ],
         "hullu parka": [
             {
                 "character": "roope-setä",
@@ -4230,6 +4266,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "vanki nimeltä taikaviitta, osa 2"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "huomionkipeä kalsarikyylä": [
@@ -8191,6 +8234,15 @@
                 "title": "muumion kosto, osa 1"
             }
         ],
+        "jauholakki": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
+            }
+        ],
         "jauhopää": [
             {
                 "character": "roope-setä",
@@ -10304,6 +10356,15 @@
                 "page": 82,
                 "publication": "aku ankan taskukirja",
                 "title": "ritariretki"
+            }
+        ],
+        "katala kutale": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "katala kyöpeli": [
@@ -12856,6 +12917,15 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "todellinen taikajuoma"
+            }
+        ],
+        "kirottu rehjake": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "kirottu roisto": [
@@ -16590,6 +16660,13 @@
                 "page": 27,
                 "publication": "aku ankan taskukirja",
                 "title": "tietopallo"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 50,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "kuumakalle": [
@@ -23177,6 +23254,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "aavikon juustoa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 45,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "nynnerö": [
@@ -27468,6 +27552,15 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "tsaarin kuriiri"
+            }
+        ],
+        "pyrstöpölvästi": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "pyssyhullu": [
@@ -32608,6 +32701,15 @@
                 "title": "tuhkaa ja timantteja"
             }
         ],
+        "räkätti": [
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
+            }
+        ],
         "räkättävä loksunokka": [
             {
                 "character": "roope-setä",
@@ -33521,6 +33623,13 @@
                 "page": 41,
                 "publication": "aku ankan taskukirja",
                 "title": "uniongelmia"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "238",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "kultasaari ja musta perjantai"
             }
         ],
         "saksigangsteri": [
@@ -36237,6 +36346,13 @@
                 "page": 8,
                 "publication": "aku ankan taskukirja",
                 "title": "paluu tulikiven valtakuntaan"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "tohopää": [],
@@ -36734,6 +36850,13 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "wolfgang van mozhovenin vapautus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "tollo takkuparta": [
@@ -37478,6 +37601,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "laupias samarialainen"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "torakka": [
@@ -38798,6 +38928,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "hirmuinen triloikka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "turkasen tomppeli": [
@@ -40466,6 +40603,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "rakkaat viholliset"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 38,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "täystuholainen": [
@@ -41563,6 +41707,13 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "kauniit ja kömpelöt"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "238",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin mitalla"
             }
         ],
         "urvelon ärvelö": [
@@ -46353,6 +46504,13 @@
                 "page": 34,
                 "publication": "aku ankan taskukirja",
                 "title": "uniongelmia"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "238",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "kultasaari ja musta perjantai"
             }
         ],
         "vätyssetä": [
