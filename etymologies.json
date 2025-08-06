@@ -17550,6 +17550,83 @@
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_9dc868154124f86947b48877591e5a57"
       },
       "äitihirviö": null
+    },
+    "ahnehtija": {
+      "ahnehtija": null
+    },
+    "alhainen anarkisti": {
+      "alhainen": {
+        "definition": "alahaalla oleva, matala; vähäinen, vähäpätöinen, halpa",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a6d154a34e5e6897922b752a4f37c3ff"
+      },
+      "anarkisti": {
+        "definition": "anarkismin kannattaja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c8d81ed0ecab48688a66b59d4e69fe39"
+      }
+    },
+    "epäkelpo torvelo": {
+      "epä": null,
+      "epäkelpo": {
+        "definition": "kelvoton, kunnoton, huono, kehno",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e1dbdd25e62fd9e709ac65e2e9750a53"
+      },
+      "kelpo": {
+        "definition": "hyvä, mainio, kunnon, verraton; melkoinen, aimo, iso; kelvollinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_375f14ead4a8102be555b6f9e80caa2d"
+      },
+      "torvelo": {
+        "definition": "hölmö, typerys",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_93be3ad74df7c7de7067afdb08d8d5d9"
+      }
+    },
+    "hullu maantiesorsa": {
+      "hullu": {
+        "definition": "järjetön, älytön, mieleltään sairas; hölmö, tyhmä; hassu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b09204e0009ff4cd8644e00d85293c84"
+      },
+      "maan": null,
+      "maantiesorsa": null,
+      "sorsa": {
+        "definition": "Anas",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_f972fcde916cb8f127c447be3b39a11a"
+      },
+      "tie": {
+        "definition": "maastoon kulkureitille muodostunut tai varsinkin liikennettä varten rakennettu väylä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_bd352c8df49c325dd22ad8867e6ef874"
+      }
+    },
+    "jauholakki": {
+      "holakki": null,
+      "jau": null,
+      "jauholakki": null
+    },
+    "katala kutale": {
+      "katala": {
+        "definition": "kurja, köyhä, raukka, onneton, surkuteltava; pieni, laiha, kalpea, voimaton, surkeannäköinen; kavala, petollinen; ilkeä, häijy, tyly; hankala, vaikea",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5cc2fb6d70e7063aaa4f54ec8baa6474"
+      },
+      "kutale": {
+        "definition": "resu, repale; letukka, hulttio",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_72d8a993ebf63b8d5d6d9c10b99acb4b"
+      }
+    },
+    "kirottu rehjake": {
+      "kirottu": null,
+      "rehjake": null
+    },
+    "pyrstöpölvästi": {
+      "pyrstö": {
+        "definition": "eräiden eläinten selän tai selkärangan takaosan jatkeena oleva häntää vastaava usein litteä ruumiinosa; kalan selkäevä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_db0de17329d32f2f9399fba0aa50f076"
+      },
+      "pyrstöpölvästi": null,
+      "pölvästi": {
+        "definition": "hölmö, tolvana",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4bb375efae44f44aeaba05fe7830cffb"
+      }
+    },
+    "räkätti": {
+      "räkätti": null
     }
   }
 }
