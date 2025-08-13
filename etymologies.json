@@ -17934,6 +17934,97 @@
       },
       "ää": null,
       "ääliöraukka": null
+    },
+    "häpeämätön nulikka": {
+      "häpeämätön": null,
+      "nulikka": {
+        "definition": "paljas(pää); pieni kala; pieni poika",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_34de91689b84d358312e7df98b840111"
+      }
+    },
+    "kelvoton liero": {
+      "kelvoton": {
+        "definition": "johonkin kelpaamaton; huono, kehno, mitätön; alhainen, katala",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_7de68d93d14ea86d158ab23b185c1608"
+      },
+      "liero": {
+        "definition": "onkimato",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_288d4fa9a61783a4c57c569eb4be044f"
+      }
+    },
+    "kertakäyttökahuna": {
+      "kahuna": null,
+      "kerta": {
+        "definition": "tilaisuus, jolloin jotakin tapahtuu",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_14983e943eac5b1826bc684290ebaae8"
+      },
+      "kertakäyttökahuna": null,
+      "käyttö": {
+        "definition": "käyttäminen; nauttiminen; käynnissä pitäminen; käyttökoneisto",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_e715f5bd26632158b1061223a3728e91"
+      }
+    },
+    "kovaksikeitetty verenimijä": {
+      "keitetty": null,
+      "kovaksi": null,
+      "kovaksikeitetty": null,
+      "nimijä": null,
+      "vere": null,
+      "verenimijä": null
+    },
+    "omahyväinen raharössi": {
+      "hyväinen": null,
+      "oma": {
+        "definition": "jonkun omistama tai hallitsema, jollekulle, johonkin kuuluva",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b0891cf08f8898a6ef98113245db8595"
+      },
+      "omahyväinen": null,
+      "rahar": null,
+      "raharössi": null,
+      "össi": null
+    },
+    "pennijemmari": {
+      "pennijemmari": null
+    },
+    "rahareikä": {
+      "ikä": {
+        "definition": "aika jonka joku on ollut elossa tai olemassa",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6a791798f595fc0f51c3633cea50425a"
+      },
+      "rahare": null,
+      "rahareikä": null
+    },
+    "sekundakahuna": {
+      "kahuna": null,
+      "sekunda": {
+        "definition": "toisluokkainen, (lievästi) vajaalaatuinen; painoarkin viimeksi painettu puoli",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c9d4a14f62d9c55d6c841df8b9d7d45a"
+      },
+      "sekundakahuna": null
+    },
+    "tavinkuvatus": {
+      "kuvatus": {
+        "definition": "ruma olio, rumilus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ed5e5c3735ec4ff8e766d2f8b76aa1d5"
+      },
+      "tavin": null,
+      "tavinkuvatus": null
+    },
+    "toivoton tonttu": {
+      "toivoton": {
+        "definition": "jolla ei ole toivoa; synkkä, täysin masentunut; joka ei anna mitään aihetta toivoon, mahdoton, epätoivoinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5a750fc8f7755263b62b7577b72a76fa"
+      },
+      "tonttu": {
+        "definition": "(kääpiömäinen) haltija; tomppeli, tyhmä ihminen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4b7332c13777c2af029f815f83357265"
+      }
+    },
+    "trullinrääpäle": {
+      "päle": null,
+      "rää": null,
+      "trullin": null,
+      "trullinrääpäle": null
     }
   }
 }
