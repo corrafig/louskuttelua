@@ -3904,6 +3904,13 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "siis eespäin ankat synnyinmaaa-aamme..."
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "huiputtaja": [
@@ -4743,6 +4750,13 @@
                 "page": 44,
                 "publication": "aku ankan taskukirja",
                 "title": "perijätär pulassa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
             }
         ],
         "hyödytön höttöaivo": [
@@ -4950,6 +4964,15 @@
                 "page": 30,
                 "publication": "aku ankan taskukirja",
                 "title": "varokaa villiä taiteilijaa"
+            }
+        ],
+        "häpeämätön nulikka": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
             }
         ],
         "häpeämätön petturi": [
@@ -5777,6 +5800,13 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "uuja"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 27,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "hömeli": [
@@ -11545,6 +11575,13 @@
                 "page": 22,
                 "publication": "aku ankan taskukirja",
                 "title": "rantakauppaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "keltanokka": [
@@ -11926,6 +11963,15 @@
                 "title": "näkymätön kaapu, osa 1"
             }
         ],
+        "kelvoton liero": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
+            }
+        ],
         "kelvoton lurjus": [
             {
                 "character": "aku ankka",
@@ -12249,6 +12295,15 @@
                 "title": "ajatuskello"
             }
         ],
+        "kertakäyttökahuna": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 43,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
+            }
+        ],
         "keskenkasvuinen rääpäle": [
             {
                 "character": "roope-setä",
@@ -12335,6 +12390,20 @@
                 "page": 27,
                 "publication": "aku ankan taskukirja",
                 "title": "epävarmuuden suossa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 43,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "ketkale": [
@@ -12521,6 +12590,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "kaskelottien aarre"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "ketvele": [
@@ -14310,6 +14386,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "luomulääke"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "kitupiikki höppänä": [
@@ -14328,6 +14411,13 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "huokea mainospala"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "kituri": [
@@ -15425,6 +15515,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "noitatohtorin kosto"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 42,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "konnanretale": [
@@ -15673,6 +15770,15 @@
                 "page": 17,
                 "publication": "aku ankan taskukirja",
                 "title": "taikariitta ja vastaansanomattomat viisaudet"
+            }
+        ],
+        "kovaksikeitetty verenimijä": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "kovan onnen kerubi": [
@@ -16959,6 +17065,13 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "takaisin kivikauteen"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
             }
         ],
         "kylänhullu": [
@@ -21020,6 +21133,13 @@
                 "page": 39,
                 "publication": "aku ankan taskukirja",
                 "title": "noitalinna"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "mammonamuumio": [
@@ -23051,6 +23171,13 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "hiekkaeukko"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
             }
         ],
         "nirppanokkainen hienohelma": [
@@ -23909,6 +24036,15 @@
                 "page": 28,
                 "publication": "aku ankan taskukirja",
                 "title": "avaruusromanssi"
+            }
+        ],
+        "omahyväinen raharössi": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "omahyväinen ääliö": [
@@ -25993,6 +26129,15 @@
                 "title": "avaruuden arvometallit"
             }
         ],
+        "pennijemmari": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
+            }
+        ],
         "penninpyörittäjä": [],
         "penninvenyttäjä": [
             {
@@ -26852,6 +26997,13 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "siis eespäin ankat synnyinmaaa-aamme..."
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "pieni lurjus": [
@@ -29196,6 +29348,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "vaikea luonne"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 47,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "pönttö": [
@@ -29599,6 +29758,15 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "andoran ruukku"
+            }
+        ],
+        "rahareikä": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "raharohmu": [
@@ -32949,6 +33117,13 @@
                 "page": 40,
                 "publication": "aku ankan taskukirja",
                 "title": "etelään, nuori ankka!"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 43,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
             }
         ],
         "ryöstäjä": [
@@ -34145,6 +34320,13 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "kultasaari ja musta perjantai"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "saksigangsteri": [
@@ -34373,6 +34555,15 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "siis eespäin ankat synnyinmaaa-aamme..."
+            }
+        ],
+        "sekundakahuna": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
             }
         ],
         "sekundakeksijä": [
@@ -36465,6 +36656,15 @@
                 "title": "megatähti"
             }
         ],
+        "tavinkuvatus": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
+            }
+        ],
         "teeskentelijä": [
             {
                 "character": "roope-setä",
@@ -37071,6 +37271,15 @@
                 "page": 28,
                 "publication": "aku ankan taskukirja",
                 "title": "kiihdytysajot"
+            }
+        ],
+        "toivoton tonttu": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "toivottomin tunari": [],
@@ -38691,6 +38900,15 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "onni yhdellä, loma molemmilla, osa 2"
+            }
+        ],
+        "trullinrääpäle": [
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "kauheat kahunakivet"
             }
         ],
         "tuhannen taalan tunari": [
@@ -42279,6 +42497,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "visiitti vieraille maille"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "serra leonen aarre"
             }
         ],
         "uninen ukon horisko": [
