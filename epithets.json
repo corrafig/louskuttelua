@@ -997,6 +997,13 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "arktista hysteriaa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
             }
         ],
         "arkalainen": [
@@ -3158,6 +3165,13 @@
                 "page": 40,
                 "publication": "aku ankan taskukirja",
                 "title": "mahdoton matka"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "väärinkäsitys valepuvussa"
             }
         ],
         "hoopo": [
@@ -3989,6 +4003,13 @@
                 "page": 17,
                 "publication": "aku ankan taskukirja",
                 "title": "taivaanpuhkojan valloitus, osa 1"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "väärinkäsitys valepuvussa"
             }
         ],
         "huligaani": [
@@ -10328,6 +10349,13 @@
                 "page": 39,
                 "publication": "aku ankan taskukirja",
                 "title": "pushkovan mahtisampi"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "242",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "väärinkäsitys valepuvussa"
             }
         ],
         "kananaivo": [
@@ -10416,6 +10444,15 @@
                 "page": 62,
                 "publication": "aku ankan taskukirja",
                 "title": "akusseuksen seikkailut"
+            }
+        ],
+        "kapinen rakki": [
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
             }
         ],
         "karkuri": [
@@ -21140,6 +21177,13 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "serra leonen aarre"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
             }
         ],
         "mammonamuumio": [
@@ -23888,6 +23932,22 @@
                 "page": 12,
                 "publication": "aku ankan taskukirja",
                 "title": "kloonikvintetti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 44,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
+            }
+        ],
+        "nyyhkivä nyhverö": [
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
             }
         ],
         "nyyhkytatti": [
@@ -25927,6 +25987,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "avaruuskultaa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
             }
         ],
         "pelle": [
@@ -27695,6 +27762,13 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "tarumaisen lipun metsästys - 2. osa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "243",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "uhka autotallista"
             }
         ],
         "poskisolisti": [
@@ -29399,6 +29473,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "kloonikvintetti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
             }
         ],
         "pönttö-örvelö": [
@@ -29514,6 +29595,13 @@
                 "page": 29,
                 "publication": "aku ankan taskukirja",
                 "title": "kloonikvintetti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
             }
         ],
         "pöyhistelevä puuterihuisku": [
@@ -35296,6 +35384,15 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "taru joulupullasta"
+            }
+        ],
+        "sottapytty": [
+            {
+                "character": "aku ankka",
+                "issue": "243",
+                "page": 37,
+                "publication": "aku ankan taskukirja",
+                "title": "uhka autotallista"
             }
         ],
         "sovinisti": [
@@ -41947,6 +42044,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "sininen hetki"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
             }
         ],
         "tötterötukka": [
@@ -42601,6 +42705,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "laupias samarialainen"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
             }
         ],
         "urvelo": [
@@ -45376,6 +45487,20 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "turbo-ankka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "242",
+                "page": 43,
+                "publication": "aku ankan taskukirja",
+                "title": "taru aku rautanokasta"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "243",
+                "page": 36,
+                "publication": "aku ankan taskukirja",
+                "title": "uhka autotallista"
             }
         ],
         "velmu": [
@@ -45975,6 +46100,13 @@
                 "page": 25,
                 "publication": "aku ankan taskukirja",
                 "title": "tiskarin polkka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "243",
+                "page": 37,
+                "publication": "aku ankan taskukirja",
+                "title": "uhka autotallista"
             }
         ],
         "vetelä visapää": [
