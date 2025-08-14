@@ -18025,6 +18025,34 @@
       "rää": null,
       "trullin": null,
       "trullinrääpäle": null
+    },
+    "kapinen rakki": {
+      "kapinen": null,
+      "rakki": {
+        "definition": "koira, piski",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_fd10cac8524a16dc7c0f999e30e84c3c"
+      }
+    },
+    "nyyhkivä nyhverö": {
+      "nyhverö": {
+        "definition": "ujo, saamaton; nahjus, vätys, nynny, nynnerö",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_13131b153a8521a1e514b5509d52c144"
+      },
+      "nyyhkivä": null
+    },
+    "sottapytty": {
+      "pytty": {
+        "definition": "(korvallinen) usein kannellinen pienehkö puuastia",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_6c24ee8334b7d25c815d9ab683e4b7ab"
+      },
+      "sotta": {
+        "definition": "lika, töhry, sotku",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_02c4831fa91eb9e108bb79e095a38d25"
+      },
+      "sottapytty": {
+        "definition": "joka sottaa, sotkee, likaa, suttupytty",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_eb275636b993db6b372057edc86598a0"
+      }
     }
   }
 }
