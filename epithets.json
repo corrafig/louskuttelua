@@ -2111,6 +2111,15 @@
                 "title": "aku, ankkamaan prinssi"
             }
         ],
+        "halvatun hölönokka": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "hopea-aku"
+            }
+        ],
         "halveksittava haahka": [
             {
                 "character": "taikaviitta",
@@ -2362,6 +2371,15 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "megatähti"
+            }
+        ],
+        "heinäkenkä": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "hopea-aku"
             }
         ],
         "heittiö": [
@@ -7506,6 +7524,13 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "mestarietsivä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "hopea-aku"
             }
         ],
         "ilkeämielinen ketale": [
@@ -23901,6 +23926,15 @@
                 "title": "operoivat operaattorit"
             }
         ],
+        "nokkaniekka": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "hopea-aku"
+            }
+        ],
         "nokkava nousukas": [
             {
                 "character": "taikaviitta",
@@ -33229,6 +33263,15 @@
                 "page": 16,
                 "publication": "aku ankan taskukirja",
                 "title": "narri naamion takana"
+            }
+        ],
+        "ruikale": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "hopea-aku"
             }
         ],
         "ruikuttaja": [
@@ -46918,6 +46961,13 @@
                 "page": 40,
                 "publication": "aku ankan taskukirja",
                 "title": "etelään, nuori ankka!"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "hopea-aku"
             }
         ],
         "verohuijari": [
