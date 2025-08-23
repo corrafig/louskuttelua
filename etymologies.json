@@ -18423,6 +18423,48 @@
     },
     "vikisijä": {
       "vikisijä": null
+    },
+    "halvatun hölönokka": {
+      "halvatun": null,
+      "hölö": {
+        "definition": "tyhjän puhuja, hölöttäjä, lavertelija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_64eb83bb385337a2ca1923e7c050e95d"
+      },
+      "hölönokka": null,
+      "nokka": {
+        "definition": "lintujen sarveistupen peittämistä ulkonevista leukaosista; astian nokka; kärki, nenä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8c23b22deab3f1b32b7029010868b752"
+      }
+    },
+    "heinäkenkä": {
+      "heinä": {
+        "definition": "(rehuksi käytettäviä) heinä- ym. ruohokasveja, ruoho",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4cd64b6277ea984b0bc27f351fcf41de"
+      },
+      "heinäkenkä": null,
+      "kenkä": {
+        "definition": "varreton tai lyhytvartinen jalkine",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d4e0938fdae3b9fe21f1f705e6632b72"
+      }
+    },
+    "nokkaniekka": {
+      "niekka": {
+        "definition": "mestari, asiantuntija, taitaja, taituri, taiteilija; yhdyssanan jälkiosa, jolla muodostetaan substantiiveja ja adjektiiveja",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_462aaea169d71e2770f3464798a94ad1"
+      },
+      "nokka": {
+        "definition": "lintujen sarveistupen peittämistä ulkonevista leukaosista; astian nokka; kärki, nenä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8c23b22deab3f1b32b7029010868b752"
+      },
+      "nokkaniekka": null
+    },
+    "ruikale": {
+      "kale": {
+        "definition": "#kaleet# ’huonot, akanansekaiset jyvät; pienet, kevyet, kovat jyvät; puintijätteet’",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_b100c0acd9b0d4e568a6a4ae33b66170"
+      },
+      "rui": null,
+      "ruikale": null
     }
   }
 }
