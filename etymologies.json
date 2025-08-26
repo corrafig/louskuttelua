@@ -18513,6 +18513,36 @@
         "definition": "täysinäinen, kokonainen, täydellinen, totaalinen",
         "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_3d9f7b5f1c099c6f56c298cfd1128a06"
       }
+    },
+    "ahnas ketku": {
+      "ahnas": {
+        "definition": "kiihkeästi haluava, perso, kärkäs, hanakka; uuttera, ahkera",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5e4be77c83c172ee90aa40b66e456028"
+      },
+      "ketku": null
+    },
+    "kylmä ja tunnoton kitupiikki": {
+      "ja": {
+        "definition": "sekä; myös",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_40512feebf52591f74c0ae8aafc080a3"
+      },
+      "kitu": {
+        "definition": "kide",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c4e4c5bc676f3c03d97854210dca6807"
+      },
+      "kitupiikki": null,
+      "kylmä": {
+        "definition": "viileä, hyytävä, jäätävä; kylmyys, pakkanen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_82acb54495515b638449661b7c8e7a24"
+      },
+      "piikki": {
+        "definition": "teräväkärkinen puikkomainen tai neulamainen muodostuma tai esine",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8db8dc18842b599a67c8f7d98994e33b"
+      },
+      "tunnoton": {
+        "definition": "josta puuttuu tunto(aisti), joka ei tunne tai aisti kosketusta, kipua tms., turta; joka ei tunne myötätuntoa tms., kylmä, kova, sydämetön, julma",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_8ea24c3d50f3808242497082530b3fa7"
+      }
     }
   }
 }
