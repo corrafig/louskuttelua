@@ -304,6 +304,15 @@
                 "title": "ylös taikavuorta"
             }
         ],
+        "ahnas ketku": [
+            {
+                "character": "roope-setä",
+                "issue": "247",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "tuomio telkkarista"
+            }
+        ],
         "ahne ankanryöstäjä": [
             {
                 "character": "aku ankka",
@@ -1875,7 +1884,7 @@
                 "title": "mies naamion takana, osa 2"
             },
             {
-                "character": "roope, mummo & karhuvaari",
+                "character": "roope, mummo \u0026 karhuvaari",
                 "issue": "493",
                 "page": 17,
                 "publication": "aku ankan taskukirja",
@@ -2186,7 +2195,7 @@
         ],
         "hampuusi": [
             {
-                "character": "roope, mummo & karhuvaari",
+                "character": "roope, mummo \u0026 karhuvaari",
                 "issue": "493",
                 "page": 17,
                 "publication": "aku ankan taskukirja",
@@ -12049,6 +12058,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "ylös taikavuorta"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "247",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "tuomio telkkarista"
             }
         ],
         "keltanokka": [
@@ -13418,7 +13434,7 @@
         ],
         "kikkanokka": [
             {
-                "character": "mikki hiiri & musta pekka",
+                "character": "mikki hiiri \u0026 musta pekka",
                 "issue": "510",
                 "page": 23,
                 "publication": "aku ankan taskukirja",
@@ -17634,6 +17650,15 @@
                 "page": 26,
                 "publication": "aku ankan taskukirja",
                 "title": "huokea mainospala"
+            }
+        ],
+        "kylmä ja tunnoton kitupiikki": [
+            {
+                "character": "roope-setä",
+                "issue": "247",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "tuomio telkkarista"
             }
         ],
         "kylpykonna": [],
@@ -36841,7 +36866,7 @@
                 "title": "vuokramolekyylit"
             },
             {
-                "character": "roope, mummo & karhuvaari",
+                "character": "roope, mummo \u0026 karhuvaari",
                 "issue": "493",
                 "page": 24,
                 "publication": "aku ankan taskukirja",
@@ -50317,6 +50342,13 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "kuin kaksi marjaa"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "247",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "tuomio telkkarista"
             }
         ],
         "öykkärimäinen hevoshuijari": [
