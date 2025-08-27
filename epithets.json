@@ -4411,6 +4411,13 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "saturnuksen valtias"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "247",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "höyrykuono"
             }
         ],
         "hullu maantiesorsa": [
@@ -5420,6 +5427,15 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "marco polon matkat - arkki"
+            }
+        ],
+        "hävytön kiskuri": [
+            {
+                "character": "roope-setä",
+                "issue": "247",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "harrastusten harrastus"
             }
         ],
         "hävytön loksunokka": [
@@ -31830,6 +31846,13 @@
                 "page": 42,
                 "publication": "aku ankan taskukirja",
                 "title": "muotokuva"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "247",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "höyrykuono"
             }
         ],
         "riitapukari": [
@@ -49032,6 +49055,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "miehetön maailma"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "247",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "höyrykuono"
             }
         ],
         "vätyssetä": [
