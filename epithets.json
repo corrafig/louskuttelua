@@ -1342,6 +1342,13 @@
                 "page": 36,
                 "publication": "aku ankan taskukirja",
                 "title": "aku ankka sateentekijänä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "emähölmö": [
@@ -2780,6 +2787,15 @@
                 "page": 40,
                 "publication": "aku ankan taskukirja",
                 "title": "tuhkaa ja timantteja"
+            }
+        ],
+        "hermoheikko mastodontti": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "hermokimppu": [
@@ -4624,6 +4640,15 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "hyväntekijä hyökkää"
+            }
+        ],
+        "huonosaattoinen pösilö": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "hupakko": [
@@ -8950,6 +8975,13 @@
                 "page": 39,
                 "publication": "aku ankan taskukirja",
                 "title": "mahdoton matka"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "250",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "byro-kosminen yhteys"
             }
         ],
         "jukura": [
@@ -10966,6 +10998,24 @@
                 "page": 54,
                 "publication": "aku ankan taskukirja",
                 "title": "kultainen niili"
+            }
+        ],
+        "karvainen, koinsyömä nahkalappu": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
+            }
+        ],
+        "karvakallo": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "karvakasa": [
@@ -16881,6 +16931,15 @@
                 "title": "roope-setä autiolla saarella"
             }
         ],
+        "kuplapää": [
+            {
+                "character": "aku ankka",
+                "issue": "250",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "byro-kosminen yhteys"
+            }
+        ],
         "kupolikallo": [
             {
                 "character": "taikaviitta",
@@ -17937,6 +17996,13 @@
                 "page": 7,
                 "publication": "aku ankan taskukirja",
                 "title": "taikatrio"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "käppärä": [
@@ -18550,6 +18616,15 @@
                 "title": "viimeinen merten kauhu"
             }
         ],
+        "kömpelö kirppusäkki": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
+            }
+        ],
         "kömpelö moukka": [
             {
                 "character": "aku ankka",
@@ -18631,6 +18706,13 @@
                 "page": 31,
                 "publication": "aku ankan taskukirja",
                 "title": "takaiskuja tundralla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "köpelö": [
@@ -21298,6 +21380,15 @@
                 "title": "vakooja"
             }
         ],
+        "luupäinen piski": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
+            }
+        ],
         "luupää": [
             {
                 "character": "aku ankka",
@@ -23333,6 +23424,15 @@
                 "title": "sano se sävelin"
             }
         ],
+        "mölyävä kirppusirkus": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
+            }
+        ],
         "möläyttäjä": [
             {
                 "character": "roope-setä",
@@ -25185,6 +25285,15 @@
                 "title": "hankalaa kiinteistönhoitoa"
             }
         ],
+        "onneton kutale": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
+            }
+        ],
         "onneton köntys": [
             {
                 "character": "aku ankka",
@@ -26019,6 +26128,15 @@
                 "title": "vampyyrin sormus"
             }
         ],
+        "pahvikallo": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
+            }
+        ],
         "painajaisotus": [
             {
                 "character": "roope-setä",
@@ -26403,6 +26521,13 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "purkkariita"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "250",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "byro-kosminen yhteys"
             }
         ],
         "paukapääpollari": [
@@ -28184,6 +28309,15 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "kiperin kysymys"
+            }
+        ],
+        "piipittäjä": [
+            {
+                "character": "aku ankka",
+                "issue": "250",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "byro-kosminen yhteys"
             }
         ],
         "piiskuri": [
@@ -31107,6 +31241,15 @@
                 "title": "hanhelan häjyt"
             }
         ],
+        "rakinräyskä": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
+            }
+        ],
         "rakkari": [
             {
                 "character": "aku ankka",
@@ -33726,6 +33869,15 @@
                 "title": "pushkovan mahtisampi"
             }
         ],
+        "rujo ruutana": [
+            {
+                "character": "roope-setä",
+                "issue": "249",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "syvyyksien valtiaat"
+            }
+        ],
         "ruma": [
             {
                 "character": "aku ankka",
@@ -34954,6 +35106,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "riemuretki"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "räävitön räpyläjalka": [
@@ -37750,6 +37909,15 @@
                 "page": 2,
                 "publication": "aku ankan taskukirja",
                 "title": "täplikäs valas"
+            }
+        ],
+        "takkuinen luuseri": [
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "takkupartainen rehvastelija": [
@@ -43625,6 +43793,13 @@
                 "page": 13,
                 "publication": "aku ankan taskukirja",
                 "title": "taru aku rautanokasta"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "tötterötukka": [
@@ -47118,6 +47293,13 @@
                 "page": 32,
                 "publication": "aku ankan taskukirja",
                 "title": "solvausselkkaus"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "velmu": [
@@ -47756,6 +47938,13 @@
                 "page": 37,
                 "publication": "aku ankan taskukirja",
                 "title": "uhka autotallista"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "249",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "kuriton kotieläin"
             }
         ],
         "vetelä visapää": [
