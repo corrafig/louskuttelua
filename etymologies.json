@@ -18923,6 +18923,110 @@
     },
     "ärmäke": {
       "ärmäke": null
+    },
+    "kiero kehveli": {
+      "kehveli": {
+        "definition": "kehno; voimasana",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_c4920e336ceaf678b8bc19dad7c587ad"
+      },
+      "kiero": {
+        "definition": "väärä, käyrä, vino, kierteinen; karsastava; viekas, kavala",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_becfdbddc50e7ef913600b7e7d5b21a8"
+      }
+    },
+    "kiittämätön, epäluuloinen hapannaama": {
+      "epä": null,
+      "epäluuloinen": null,
+      "hapannaama": null,
+      "kiittämätön": null,
+      "luuloinen": null
+    },
+    "maantiehuligaani": {
+      "huligaani": {
+        "definition": "ilkivallantekijä, hulinoitsija",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_bf509d76eceaaaa4db05ebb26d0752f1"
+      },
+      "maan": null,
+      "maantiehuligaani": null,
+      "tie": {
+        "definition": "maastoon kulkureitille muodostunut tai varsinkin liikennettä varten rakennettu väylä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_bd352c8df49c325dd22ad8867e6ef874"
+      }
+    },
+    "museonilviäinen": {
+      "ilviäinen": null,
+      "museon": null,
+      "museonilviäinen": null
+    },
+    "paksupäinen intendentti": {
+      "dentti": null,
+      "inten": null,
+      "intendentti": {
+        "definition": "tiede- tai taidelaitoksen johtaja tai hoitaja; myös arvonimenä",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_621f2540c74b9be20ad4468811668b7c"
+      },
+      "paksupäinen": null
+    },
+    "pullea pelle": {
+      "pelle": {
+        "definition": "leikinlaskija, veitikka; klovni",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_a64bc292376c3b0604875d78835696fb"
+      },
+      "pullea": {
+        "definition": "pyöreä, täyteläinen, pullollaan oleva, pullottava",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_58d6b21830651b8fa5272503277bec17"
+      }
+    },
+    "pyylevä pahantekijä": {
+      "pahan": null,
+      "pahantekijä": null,
+      "pyylevä": {
+        "definition": "lihavahko, hyvinvoipa; suurikokoinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ee13c1f1c25d3383cf110c220726ca3c"
+      },
+      "tekijä": null
+    },
+    "sinnikäs säheltäjä": {
+      "sinnikäs": {
+        "definition": "sisukas, yritteliäs",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_4f5cca0a21334e98a17aa7c1e4c8e5bd"
+      },
+      "säheltäjä": null
+    },
+    "toivoton tunari": {
+      "toivoton": {
+        "definition": "jolla ei ole toivoa; synkkä, täysin masentunut; joka ei anna mitään aihetta toivoon, mahdoton, epätoivoinen",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_5a750fc8f7755263b62b7577b72a76fa"
+      },
+      "tunari": {
+        "definition": "taitamaton ja saamaton tekijä, poropeukalo, nahjus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_0e532e4e180629d68116e0681c1af4bd"
+      }
+    },
+    "viheliäinen ankanryöstäjä": {
+      "ankan": null,
+      "ankanryöstäjä": null,
+      "iäinen": {
+        "definition": "ikuinen, ajaton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_782362cbd0edafbb1817f0dc83e5b5b2"
+      },
+      "ryöstäjä": null,
+      "vihel": null,
+      "viheliäinen": {
+        "definition": "kurja, kehno, kelvoton",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_09bf6901ffb3fe3e30458caf79adbb31"
+      }
+    },
+    "äijänkuvatus": {
+      "kuvatus": {
+        "definition": "ruma olio, rumilus",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_ed5e5c3735ec4ff8e766d2f8b76aa1d5"
+      },
+      "äijän": {
+        "definition": "paljon",
+        "url": "https://kaino.kotus.fi/ses/?p=article&etym_id=ETYM_d936f4837145dd8d729c2bb3f54abb59"
+      },
+      "äijänkuvatus": null
     }
   }
 }
