@@ -4322,6 +4322,13 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "megatähti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "täsmätuhlari"
             }
         ],
         "huitukka": [
@@ -4839,6 +4846,15 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "prätkähurjastelijat"
+            }
+        ],
+        "hurskastelija": [
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "työläs tutkielma"
             }
         ],
         "hurtta": [
@@ -6198,6 +6214,20 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "raastava epäilys"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "työläs tutkielma"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
             }
         ],
         "hölmö koheltaja": [
@@ -6693,6 +6723,13 @@
                 "page": 35,
                 "publication": "aku ankan taskukirja",
                 "title": "salaperäinen silmä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "252",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "noidannuoli 42"
             }
         ],
         "höpöläinen": [
@@ -9973,6 +10010,20 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "jalometallikuume"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "253",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "hävikkiä häistä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
             }
         ],
         "jätemylly": [
@@ -11171,6 +11222,15 @@
                 "title": "taru aku rautanokasta"
             }
         ],
+        "karju": [
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
+            }
+        ],
         "karkuri": [
             {
                 "character": "roope-setä",
@@ -11466,6 +11526,15 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "sisukoulu"
+            }
+        ],
+        "kavala ketku": [
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "täsmätuhlari"
             }
         ],
         "kavala käärme": [
@@ -13488,6 +13557,20 @@
                 "page": 25,
                 "publication": "aku ankan taskukirja",
                 "title": "hirveyksiä koko rahalla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "252",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "velkainen vouti"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "252",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "velkainen vouti"
             }
         ],
         "ketvele": [
@@ -13715,6 +13798,13 @@
                 "page": 33,
                 "publication": "aku ankan taskukirja",
                 "title": "kaikkeen sitä joutuu!"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "täsmätuhlari"
             }
         ],
         "kiittämätön hulttio": [
@@ -16778,6 +16868,15 @@
                 "title": "korpien kätköistä"
             }
         ],
+        "kosimishullu": [
+            {
+                "character": "roope-setä",
+                "issue": "253",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "hävikkiä häistä"
+            }
+        ],
         "koukkunokka": [
             {
                 "character": "roope-setä",
@@ -19028,6 +19127,13 @@
                 "page": 45,
                 "publication": "aku ankan taskukirja",
                 "title": "salaperäinen silmä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "252",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "noidannuoli 42"
             }
         ],
         "köpelö": [
@@ -19071,6 +19177,13 @@
                 "page": 15,
                 "publication": "aku ankan taskukirja",
                 "title": "vanki nimeltä taikaviitta, osa 2"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "252",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "noidannuoli 42"
             }
         ],
         "köydenkiristäjä": [
@@ -20601,6 +20714,13 @@
                 "page": 21,
                 "publication": "aku ankan taskukirja",
                 "title": "hirveyksiä koko rahalla"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
             }
         ],
         "liero luikurin laskettelija": [],
@@ -21690,6 +21810,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "karhuvaari kaidalla tiellä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "salainen tehtävä"
             }
         ],
         "lurkki": [
@@ -22942,6 +23069,15 @@
                 "title": "musamoukka"
             }
         ],
+        "mouho": [
+            {
+                "character": "aku ankka",
+                "issue": "252",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "noidannuoli 42"
+            }
+        ],
         "moukka": [
             {
                 "character": "aku ankka",
@@ -24139,6 +24275,15 @@
                 "title": "solvausselkkaus"
             }
         ],
+        "napero": [
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 25,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
+            }
+        ],
         "nappikalle": [
             {
                 "character": "aku ankka",
@@ -24301,6 +24446,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "öljy on vettä sakeampaa"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
             }
         ],
         "natikka": [
@@ -24546,6 +24698,20 @@
                 "page": 27,
                 "publication": "aku ankan taskukirja",
                 "title": "riemuretki"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
             }
         ],
         "nilviäinen": [
@@ -29632,6 +29798,13 @@
                 "page": 19,
                 "publication": "aku ankan taskukirja",
                 "title": "kysy kyöstiltä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "työläs tutkielma"
             }
         ],
         "pullsorsa": [
@@ -33178,6 +33351,15 @@
                 "title": "muotokuva"
             }
         ],
+        "rikollisääliö": [
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
+            }
+        ],
         "rillipää": [
             {
                 "character": "roope-setä",
@@ -34013,6 +34195,13 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "karhuvaari kaidalla tiellä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
             }
         ],
         "roskanpuhuja": [
@@ -36472,6 +36661,20 @@
                 "page": 14,
                 "publication": "aku ankan taskukirja",
                 "title": "kolmisarviliskon jäljillä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "täsmätuhlari"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "täsmätuhlari"
             }
         ],
         "saksigangsteri": [
@@ -41513,6 +41716,20 @@
                 "page": 6,
                 "publication": "aku ankan taskukirja",
                 "title": "viimeinen kaato"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "täsmätuhlari"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "täsmätuhlari"
             }
         ],
         "tuhluri": [
@@ -42460,6 +42677,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "muodin villitsemät"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "täsmätuhlari"
             }
         ],
         "tyhjänpuhuja": [
@@ -43914,6 +44138,13 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "fossiilien jäljillä"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "työläs tutkielma"
             }
         ],
         "tärkkipyrstö": [
@@ -49074,6 +49305,13 @@
                 "page": 24,
                 "publication": "aku ankan taskukirja",
                 "title": "rakkaat viholliset"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "tähtimyrsky"
             }
         ],
         "viiripää": [
@@ -50508,6 +50746,24 @@
                 "title": "marco polon matkat - tehtävä saianfussa"
             }
         ],
+        "ynseä öykkäri": [
+            {
+                "character": "touho ankka",
+                "issue": "252",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "täydellinen tehtävä"
+            }
+        ],
+        "yrmy": [
+            {
+                "character": "touho ankka",
+                "issue": "252",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "täydellinen tehtävä"
+            }
+        ],
         "yrmy kyylä": [
             {
                 "character": "aku ankka",
@@ -51065,6 +51321,13 @@
                 "page": 20,
                 "publication": "aku ankan taskukirja",
                 "title": "tie tähtiin"
+            },
+            {
+                "character": "aku ankka",
+                "issue": "253",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "täsmätuhlari"
             }
         ],
         "ärvelö": [
